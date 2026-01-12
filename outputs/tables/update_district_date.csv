@@ -1,0 +1,4343 @@
+state,district,date,demo_age_5_17,demo_age_17_plus
+Bihar,Araria,2025-03-01,1884,22369
+Bihar,Araria,2025-09-01,65,1129
+Bihar,Araria,2025-09-02,68,1226
+Bihar,Araria,2025-09-03,40,893
+Bihar,Araria,2025-09-04,69,1641
+Bihar,Araria,2025-09-05,50,1455
+Bihar,Araria,2025-09-06,84,1965
+Bihar,Araria,2025-09-07,28,1046
+Bihar,Araria,2025-09-08,91,2608
+Bihar,Araria,2025-09-09,81,2570
+Bihar,Araria,2025-09-10,69,2597
+Bihar,Araria,2025-09-11,108,2600
+Bihar,Araria,2025-09-12,80,2555
+Bihar,Araria,2025-09-13,62,1500
+Bihar,Araria,2025-09-14,23,737
+Bihar,Araria,2025-09-15,74,1683
+Bihar,Araria,2025-09-16,61,1382
+Bihar,Araria,2025-09-17,65,1221
+Bihar,Araria,2025-09-18,77,1720
+Bihar,Araria,2025-09-19,68,2046
+Bihar,Araria,2025-09-20,72,1999
+Bihar,Araria,2025-10-13,83,2447
+Bihar,Araria,2025-10-15,113,3205
+Bihar,Araria,2025-10-16,129,3452
+Bihar,Araria,2025-10-17,77,2873
+Bihar,Araria,2025-10-18,110,2478
+Bihar,Araria,2025-10-19,118,2620
+Bihar,Araria,2025-10-20,38,813
+Bihar,Araria,2025-10-21,56,541
+Bihar,Araria,2025-10-22,2,30
+Bihar,Araria,2025-10-23,21,105
+Bihar,Araria,2025-10-24,124,2689
+Bihar,Araria,2025-10-25,78,1227
+Bihar,Araria,2025-10-26,65,1911
+Bihar,Araria,2025-10-27,43,854
+Bihar,Araria,2025-10-28,35,464
+Bihar,Araria,2025-10-29,70,1063
+Bihar,Araria,2025-10-30,53,866
+Bihar,Araria,2025-10-31,84,2358
+Bihar,Araria,2025-11-01,50,1127
+Bihar,Araria,2025-11-02,62,865
+Bihar,Araria,2025-11-03,158,2453
+Bihar,Araria,2025-11-04,99,2070
+Bihar,Araria,2025-11-05,86,1222
+Bihar,Araria,2025-11-06,72,1129
+Bihar,Araria,2025-11-07,48,1183
+Bihar,Araria,2025-11-08,31,877
+Bihar,Araria,2025-11-09,12,343
+Bihar,Araria,2025-11-10,33,781
+Bihar,Araria,2025-11-11,8,229
+Bihar,Araria,2025-11-12,21,590
+Bihar,Araria,2025-11-13,61,758
+Bihar,Araria,2025-11-14,48,550
+Bihar,Araria,2025-11-15,42,816
+Bihar,Araria,2025-11-16,35,286
+Bihar,Araria,2025-11-17,54,843
+Bihar,Araria,2025-11-18,33,707
+Bihar,Araria,2025-11-19,39,807
+Bihar,Araria,2025-11-25,9,64
+Bihar,Araria,2025-11-26,21,492
+Bihar,Araria,2025-11-27,52,991
+Bihar,Araria,2025-11-28,52,570
+Bihar,Araria,2025-11-29,37,623
+Bihar,Araria,2025-12-01,94,1310
+Bihar,Araria,2025-12-02,61,976
+Bihar,Araria,2025-12-03,57,984
+Bihar,Araria,2025-12-04,58,1090
+Bihar,Araria,2025-12-05,51,938
+Bihar,Araria,2025-12-06,51,967
+Bihar,Araria,2025-12-07,18,289
+Bihar,Araria,2025-12-08,59,1086
+Bihar,Araria,2025-12-09,59,1047
+Bihar,Araria,2025-12-10,58,1074
+Bihar,Araria,2025-12-11,50,972
+Bihar,Araria,2025-12-12,48,934
+Bihar,Araria,2025-12-13,26,525
+Bihar,Araria,2025-12-14,16,278
+Bihar,Araria,2025-12-15,33,724
+Bihar,Araria,2025-12-16,38,1174
+Bihar,Araria,2025-12-17,53,1111
+Bihar,Araria,2025-12-18,59,916
+Bihar,Araria,2025-12-19,41,775
+Bihar,Araria,2025-12-20,35,433
+Bihar,Araria,2025-12-21,9,169
+Bihar,Araria,2025-12-22,36,647
+Bihar,Araria,2025-12-23,33,851
+Bihar,Araria,2025-12-24,38,809
+Bihar,Araria,2025-12-25,15,436
+Bihar,Araria,2025-12-26,38,743
+Bihar,Araria,2025-12-27,39,756
+Bihar,Araria,2025-12-28,35,254
+Bihar,Araria,2025-12-29,60,743
+Bihar,Araria,2025-12-31,50,1119
+Bihar,Araria,2026-01-01,10,399
+Bihar,Araria,2026-01-02,37,411
+Bihar,Araria,2026-01-03,12,222
+Bihar,Arwal,2025-03-01,415,4594
+Bihar,Arwal,2025-09-01,14,147
+Bihar,Arwal,2025-09-02,22,252
+Bihar,Arwal,2025-09-03,7,49
+Bihar,Arwal,2025-09-04,29,403
+Bihar,Arwal,2025-09-05,13,226
+Bihar,Arwal,2025-09-06,21,319
+Bihar,Arwal,2025-09-07,5,86
+Bihar,Arwal,2025-09-08,33,343
+Bihar,Arwal,2025-09-09,24,392
+Bihar,Arwal,2025-09-10,23,400
+Bihar,Arwal,2025-09-11,22,370
+Bihar,Arwal,2025-09-12,28,492
+Bihar,Arwal,2025-09-13,14,202
+Bihar,Arwal,2025-09-14,7,75
+Bihar,Arwal,2025-09-15,16,328
+Bihar,Arwal,2025-09-16,27,378
+Bihar,Arwal,2025-09-17,11,174
+Bihar,Arwal,2025-09-18,25,495
+Bihar,Arwal,2025-09-19,15,465
+Bihar,Arwal,2025-09-20,20,455
+Bihar,Arwal,2025-10-13,15,215
+Bihar,Arwal,2025-10-15,45,387
+Bihar,Arwal,2025-10-16,54,427
+Bihar,Arwal,2025-10-17,34,247
+Bihar,Arwal,2025-10-18,21,200
+Bihar,Arwal,2025-10-19,31,208
+Bihar,Arwal,2025-10-20,8,36
+Bihar,Arwal,2025-10-21,10,64
+Bihar,Arwal,2025-10-22,0,9
+Bihar,Arwal,2025-10-23,4,31
+Bihar,Arwal,2025-10-24,21,277
+Bihar,Arwal,2025-10-25,14,211
+Bihar,Arwal,2025-10-26,34,260
+Bihar,Arwal,2025-10-27,9,89
+Bihar,Arwal,2025-10-28,5,53
+Bihar,Arwal,2025-10-29,20,109
+Bihar,Arwal,2025-10-30,15,120
+Bihar,Arwal,2025-10-31,23,367
+Bihar,Arwal,2025-11-01,29,371
+Bihar,Arwal,2025-11-02,15,81
+Bihar,Arwal,2025-11-03,32,426
+Bihar,Arwal,2025-11-04,29,414
+Bihar,Arwal,2025-11-05,10,223
+Bihar,Arwal,2025-11-06,15,211
+Bihar,Arwal,2025-11-07,21,223
+Bihar,Arwal,2025-11-08,7,199
+Bihar,Arwal,2025-11-09,1,49
+Bihar,Arwal,2025-11-10,10,126
+Bihar,Arwal,2025-11-11,5,51
+Bihar,Arwal,2025-11-12,8,160
+Bihar,Arwal,2025-11-13,43,373
+Bihar,Arwal,2025-11-14,6,125
+Bihar,Arwal,2025-11-15,14,195
+Bihar,Arwal,2025-11-16,9,48
+Bihar,Arwal,2025-11-17,6,203
+Bihar,Arwal,2025-11-18,8,161
+Bihar,Arwal,2025-11-19,36,262
+Bihar,Arwal,2025-11-25,4,32
+Bihar,Arwal,2025-11-26,6,123
+Bihar,Arwal,2025-11-27,18,249
+Bihar,Arwal,2025-11-28,19,213
+Bihar,Arwal,2025-11-29,8,107
+Bihar,Arwal,2025-12-01,18,254
+Bihar,Arwal,2025-12-02,20,247
+Bihar,Arwal,2025-12-03,12,198
+Bihar,Arwal,2025-12-04,15,228
+Bihar,Arwal,2025-12-05,16,203
+Bihar,Arwal,2025-12-06,20,165
+Bihar,Arwal,2025-12-07,2,57
+Bihar,Arwal,2025-12-08,23,217
+Bihar,Arwal,2025-12-09,15,223
+Bihar,Arwal,2025-12-10,18,175
+Bihar,Arwal,2025-12-11,13,210
+Bihar,Arwal,2025-12-12,20,217
+Bihar,Arwal,2025-12-13,8,153
+Bihar,Arwal,2025-12-14,5,43
+Bihar,Arwal,2025-12-15,19,207
+Bihar,Arwal,2025-12-16,22,216
+Bihar,Arwal,2025-12-17,17,206
+Bihar,Arwal,2025-12-18,12,125
+Bihar,Arwal,2025-12-19,12,136
+Bihar,Arwal,2025-12-20,6,38
+Bihar,Arwal,2025-12-21,7,92
+Bihar,Arwal,2025-12-22,12,131
+Bihar,Arwal,2025-12-23,14,164
+Bihar,Arwal,2025-12-24,7,77
+Bihar,Arwal,2025-12-25,6,65
+Bihar,Arwal,2025-12-26,16,204
+Bihar,Arwal,2025-12-27,11,99
+Bihar,Arwal,2025-12-28,15,67
+Bihar,Arwal,2025-12-29,13,135
+Bihar,Arwal,2025-12-31,13,176
+Bihar,Arwal,2026-01-01,9,105
+Bihar,Arwal,2026-01-02,10,42
+Bihar,Arwal,2026-01-03,3,49
+Bihar,Aurangabad,2025-03-01,1598,13563
+Bihar,Aurangabad,2025-09-01,94,875
+Bihar,Aurangabad,2025-09-02,144,1058
+Bihar,Aurangabad,2025-09-03,56,568
+Bihar,Aurangabad,2025-09-04,71,551
+Bihar,Aurangabad,2025-09-05,53,748
+Bihar,Aurangabad,2025-09-06,95,1093
+Bihar,Aurangabad,2025-09-07,23,402
+Bihar,Aurangabad,2025-09-08,107,1457
+Bihar,Aurangabad,2025-09-09,114,1523
+Bihar,Aurangabad,2025-09-10,106,1462
+Bihar,Aurangabad,2025-09-11,123,1398
+Bihar,Aurangabad,2025-09-12,125,1564
+Bihar,Aurangabad,2025-09-13,40,793
+Bihar,Aurangabad,2025-09-14,25,387
+Bihar,Aurangabad,2025-09-15,115,1330
+Bihar,Aurangabad,2025-09-16,87,1341
+Bihar,Aurangabad,2025-09-17,55,756
+Bihar,Aurangabad,2025-09-18,96,1437
+Bihar,Aurangabad,2025-09-19,90,1750
+Bihar,Aurangabad,2025-09-20,103,1676
+Bihar,Aurangabad,2025-10-13,56,587
+Bihar,Aurangabad,2025-10-15,261,1624
+Bihar,Aurangabad,2025-10-16,210,1553
+Bihar,Aurangabad,2025-10-17,154,1247
+Bihar,Aurangabad,2025-10-18,126,881
+Bihar,Aurangabad,2025-10-19,137,969
+Bihar,Aurangabad,2025-10-20,45,196
+Bihar,Aurangabad,2025-10-21,46,231
+Bihar,Aurangabad,2025-10-22,5,35
+Bihar,Aurangabad,2025-10-23,16,101
+Bihar,Aurangabad,2025-10-24,124,988
+Bihar,Aurangabad,2025-10-25,109,826
+Bihar,Aurangabad,2025-10-26,99,808
+Bihar,Aurangabad,2025-10-27,55,396
+Bihar,Aurangabad,2025-10-28,42,229
+Bihar,Aurangabad,2025-10-29,98,357
+Bihar,Aurangabad,2025-10-30,65,550
+Bihar,Aurangabad,2025-10-31,154,1139
+Bihar,Aurangabad,2025-11-01,114,975
+Bihar,Aurangabad,2025-11-02,51,386
+Bihar,Aurangabad,2025-11-03,185,1208
+Bihar,Aurangabad,2025-11-04,133,1330
+Bihar,Aurangabad,2025-11-05,96,894
+Bihar,Aurangabad,2025-11-06,91,820
+Bihar,Aurangabad,2025-11-07,54,720
+Bihar,Aurangabad,2025-11-08,39,564
+Bihar,Aurangabad,2025-11-09,8,245
+Bihar,Aurangabad,2025-11-10,36,546
+Bihar,Aurangabad,2025-11-11,16,184
+Bihar,Aurangabad,2025-11-12,50,608
+Bihar,Aurangabad,2025-11-13,116,768
+Bihar,Aurangabad,2025-11-14,95,603
+Bihar,Aurangabad,2025-11-15,60,609
+Bihar,Aurangabad,2025-11-16,31,345
+Bihar,Aurangabad,2025-11-17,65,723
+Bihar,Aurangabad,2025-11-18,64,720
+Bihar,Aurangabad,2025-11-19,67,719
+Bihar,Aurangabad,2025-11-25,12,113
+Bihar,Aurangabad,2025-11-26,23,331
+Bihar,Aurangabad,2025-11-27,57,802
+Bihar,Aurangabad,2025-11-28,84,741
+Bihar,Aurangabad,2025-11-29,49,392
+Bihar,Aurangabad,2025-12-01,124,891
+Bihar,Aurangabad,2025-12-02,107,916
+Bihar,Aurangabad,2025-12-03,81,807
+Bihar,Aurangabad,2025-12-04,62,717
+Bihar,Aurangabad,2025-12-05,60,686
+Bihar,Aurangabad,2025-12-06,59,722
+Bihar,Aurangabad,2025-12-07,21,224
+Bihar,Aurangabad,2025-12-08,64,747
+Bihar,Aurangabad,2025-12-09,81,792
+Bihar,Aurangabad,2025-12-10,104,1043
+Bihar,Aurangabad,2025-12-11,81,829
+Bihar,Aurangabad,2025-12-12,91,761
+Bihar,Aurangabad,2025-12-13,33,448
+Bihar,Aurangabad,2025-12-14,18,191
+Bihar,Aurangabad,2025-12-15,81,753
+Bihar,Aurangabad,2025-12-16,76,828
+Bihar,Aurangabad,2025-12-17,56,707
+Bihar,Aurangabad,2025-12-18,41,511
+Bihar,Aurangabad,2025-12-19,33,394
+Bihar,Aurangabad,2025-12-20,34,346
+Bihar,Aurangabad,2025-12-21,12,182
+Bihar,Aurangabad,2025-12-22,35,469
+Bihar,Aurangabad,2025-12-23,54,504
+Bihar,Aurangabad,2025-12-24,54,573
+Bihar,Aurangabad,2025-12-25,19,257
+Bihar,Aurangabad,2025-12-26,51,563
+Bihar,Aurangabad,2025-12-27,28,427
+Bihar,Aurangabad,2025-12-28,35,293
+Bihar,Aurangabad,2025-12-29,37,371
+Bihar,Aurangabad,2025-12-31,45,543
+Bihar,Aurangabad,2026-01-01,44,310
+Bihar,Aurangabad,2026-01-02,78,444
+Bihar,Aurangabad,2026-01-03,17,154
+Bihar,Aurangabad(BH),2025-09-03,0,1
+Bihar,Aurangabad(BH),2025-09-10,0,1
+Bihar,Aurangabad(BH),2025-09-15,0,1
+Bihar,Aurangabad(BH),2025-09-16,0,1
+Bihar,Aurangabad(BH),2025-09-17,0,1
+Bihar,Aurangabad(BH),2025-09-18,0,1
+Bihar,Aurangabad(BH),2025-09-19,0,1
+Bihar,Aurangabad(BH),2025-10-26,0,1
+Bihar,Aurangabad(BH),2025-11-17,0,1
+Bihar,Aurangabad(BH),2025-11-19,0,1
+Bihar,Aurangabad(BH),2025-11-26,0,1
+Bihar,Aurangabad(BH),2025-11-27,0,1
+Bihar,Aurangabad(BH),2025-12-03,1,1
+Bihar,Aurangabad(BH),2025-12-05,0,1
+Bihar,Aurangabad(BH),2025-12-08,2,1
+Bihar,Aurangabad(BH),2025-12-09,0,2
+Bihar,Aurangabad(BH),2025-12-14,0,2
+Bihar,Aurangabad(BH),2025-12-20,0,1
+Bihar,Aurangabad(BH),2025-12-21,0,1
+Bihar,Aurangabad(BH),2025-12-24,0,1
+Bihar,Aurangabad(bh),2025-09-01,0,5
+Bihar,Aurangabad(bh),2025-09-02,1,16
+Bihar,Aurangabad(bh),2025-09-04,0,3
+Bihar,Aurangabad(bh),2025-09-05,0,7
+Bihar,Aurangabad(bh),2025-09-06,0,6
+Bihar,Aurangabad(bh),2025-09-07,0,6
+Bihar,Aurangabad(bh),2025-09-08,0,9
+Bihar,Aurangabad(bh),2025-09-09,0,9
+Bihar,Aurangabad(bh),2025-09-10,0,22
+Bihar,Aurangabad(bh),2025-09-11,0,6
+Bihar,Aurangabad(bh),2025-09-12,0,13
+Bihar,Aurangabad(bh),2025-09-13,0,12
+Bihar,Aurangabad(bh),2025-09-14,0,10
+Bihar,Aurangabad(bh),2025-09-15,0,12
+Bihar,Aurangabad(bh),2025-09-16,0,8
+Bihar,Aurangabad(bh),2025-09-17,0,3
+Bihar,Aurangabad(bh),2025-09-18,0,20
+Bihar,Aurangabad(bh),2025-09-19,0,6
+Bihar,Aurangabad(bh),2025-09-20,2,14
+Bihar,Aurangabad(bh),2025-10-13,0,11
+Bihar,Aurangabad(bh),2025-10-15,0,9
+Bihar,Aurangabad(bh),2025-10-16,1,11
+Bihar,Aurangabad(bh),2025-10-17,0,8
+Bihar,Aurangabad(bh),2025-10-18,0,18
+Bihar,Aurangabad(bh),2025-10-19,0,6
+Bihar,Aurangabad(bh),2025-10-20,0,2
+Bihar,Aurangabad(bh),2025-10-24,2,8
+Bihar,Aurangabad(bh),2025-10-25,0,6
+Bihar,Aurangabad(bh),2025-10-26,0,5
+Bihar,Aurangabad(bh),2025-10-27,0,2
+Bihar,Aurangabad(bh),2025-10-28,0,1
+Bihar,Aurangabad(bh),2025-10-29,0,6
+Bihar,Aurangabad(bh),2025-10-30,0,6
+Bihar,Aurangabad(bh),2025-10-31,0,16
+Bihar,Aurangabad(bh),2025-11-01,1,17
+Bihar,Aurangabad(bh),2025-11-02,0,6
+Bihar,Aurangabad(bh),2025-11-03,1,13
+Bihar,Aurangabad(bh),2025-11-04,1,13
+Bihar,Aurangabad(bh),2025-11-05,0,6
+Bihar,Aurangabad(bh),2025-11-06,0,12
+Bihar,Aurangabad(bh),2025-11-07,0,5
+Bihar,Aurangabad(bh),2025-11-08,0,6
+Bihar,Aurangabad(bh),2025-11-09,0,3
+Bihar,Aurangabad(bh),2025-11-10,0,7
+Bihar,Aurangabad(bh),2025-11-11,0,6
+Bihar,Aurangabad(bh),2025-11-12,0,5
+Bihar,Aurangabad(bh),2025-11-13,0,8
+Bihar,Aurangabad(bh),2025-11-14,0,7
+Bihar,Aurangabad(bh),2025-11-15,0,6
+Bihar,Aurangabad(bh),2025-11-17,0,5
+Bihar,Aurangabad(bh),2025-11-18,0,7
+Bihar,Aurangabad(bh),2025-11-19,0,5
+Bihar,Aurangabad(bh),2025-11-25,0,1
+Bihar,Aurangabad(bh),2025-11-26,0,5
+Bihar,Aurangabad(bh),2025-11-27,1,11
+Bihar,Aurangabad(bh),2025-11-28,0,5
+Bihar,Aurangabad(bh),2025-11-29,1,6
+Bihar,Aurangabad(bh),2025-12-01,0,2
+Bihar,Aurangabad(bh),2025-12-02,1,10
+Bihar,Aurangabad(bh),2025-12-03,0,9
+Bihar,Aurangabad(bh),2025-12-04,1,5
+Bihar,Aurangabad(bh),2025-12-05,1,12
+Bihar,Aurangabad(bh),2025-12-06,0,9
+Bihar,Aurangabad(bh),2025-12-07,2,5
+Bihar,Aurangabad(bh),2025-12-08,0,5
+Bihar,Aurangabad(bh),2025-12-09,0,8
+Bihar,Aurangabad(bh),2025-12-10,0,18
+Bihar,Aurangabad(bh),2025-12-11,1,6
+Bihar,Aurangabad(bh),2025-12-12,0,9
+Bihar,Aurangabad(bh),2025-12-13,0,5
+Bihar,Aurangabad(bh),2025-12-14,1,2
+Bihar,Aurangabad(bh),2025-12-15,0,6
+Bihar,Aurangabad(bh),2025-12-16,0,6
+Bihar,Aurangabad(bh),2025-12-17,0,9
+Bihar,Aurangabad(bh),2025-12-18,0,8
+Bihar,Aurangabad(bh),2025-12-19,0,3
+Bihar,Aurangabad(bh),2025-12-20,0,3
+Bihar,Aurangabad(bh),2025-12-21,0,2
+Bihar,Aurangabad(bh),2025-12-22,0,6
+Bihar,Aurangabad(bh),2025-12-23,1,3
+Bihar,Aurangabad(bh),2025-12-24,0,5
+Bihar,Aurangabad(bh),2025-12-25,0,6
+Bihar,Aurangabad(bh),2025-12-26,0,6
+Bihar,Aurangabad(bh),2025-12-27,0,2
+Bihar,Aurangabad(bh),2025-12-29,0,7
+Bihar,Aurangabad(bh),2025-12-31,1,9
+Bihar,Aurangabad(bh),2026-01-01,1,5
+Bihar,Aurangabad(bh),2026-01-02,0,3
+Bihar,Aurangabad(bh),2026-01-03,0,3
+Bihar,Banka,2025-03-01,618,6924
+Bihar,Banka,2025-09-01,57,528
+Bihar,Banka,2025-09-02,87,973
+Bihar,Banka,2025-09-03,16,220
+Bihar,Banka,2025-09-04,65,629
+Bihar,Banka,2025-09-05,34,691
+Bihar,Banka,2025-09-06,60,1039
+Bihar,Banka,2025-09-07,17,444
+Bihar,Banka,2025-09-08,53,1455
+Bihar,Banka,2025-09-09,91,1498
+Bihar,Banka,2025-09-10,83,1501
+Bihar,Banka,2025-09-11,76,1211
+Bihar,Banka,2025-09-12,69,1307
+Bihar,Banka,2025-09-13,36,697
+Bihar,Banka,2025-09-14,12,337
+Bihar,Banka,2025-09-15,66,1096
+Bihar,Banka,2025-09-16,40,1094
+Bihar,Banka,2025-09-17,31,633
+Bihar,Banka,2025-09-18,64,1208
+Bihar,Banka,2025-09-19,78,1503
+Bihar,Banka,2025-09-20,81,1435
+Bihar,Banka,2025-10-13,42,1082
+Bihar,Banka,2025-10-15,155,1733
+Bihar,Banka,2025-10-16,100,1317
+Bihar,Banka,2025-10-17,68,1272
+Bihar,Banka,2025-10-18,75,1000
+Bihar,Banka,2025-10-19,81,843
+Bihar,Banka,2025-10-20,22,221
+Bihar,Banka,2025-10-21,31,198
+Bihar,Banka,2025-10-22,3,37
+Bihar,Banka,2025-10-23,13,66
+Bihar,Banka,2025-10-24,91,1154
+Bihar,Banka,2025-10-25,77,933
+Bihar,Banka,2025-10-26,49,923
+Bihar,Banka,2025-10-27,37,381
+Bihar,Banka,2025-10-28,32,225
+Bihar,Banka,2025-10-29,47,467
+Bihar,Banka,2025-10-30,59,610
+Bihar,Banka,2025-10-31,106,1393
+Bihar,Banka,2025-11-01,74,1035
+Bihar,Banka,2025-11-02,40,451
+Bihar,Banka,2025-11-03,144,1532
+Bihar,Banka,2025-11-04,81,1701
+Bihar,Banka,2025-11-05,79,894
+Bihar,Banka,2025-11-06,87,989
+Bihar,Banka,2025-11-07,48,793
+Bihar,Banka,2025-11-08,44,620
+Bihar,Banka,2025-11-09,17,323
+Bihar,Banka,2025-11-10,30,516
+Bihar,Banka,2025-11-11,12,150
+Bihar,Banka,2025-11-12,34,539
+Bihar,Banka,2025-11-13,91,826
+Bihar,Banka,2025-11-14,40,409
+Bihar,Banka,2025-11-15,46,553
+Bihar,Banka,2025-11-16,32,222
+Bihar,Banka,2025-11-17,51,523
+Bihar,Banka,2025-11-18,51,486
+Bihar,Banka,2025-11-19,41,532
+Bihar,Banka,2025-11-25,11,54
+Bihar,Banka,2025-11-26,13,188
+Bihar,Banka,2025-11-27,38,630
+Bihar,Banka,2025-11-28,54,444
+Bihar,Banka,2025-11-29,27,339
+Bihar,Banka,2025-12-01,64,591
+Bihar,Banka,2025-12-02,31,591
+Bihar,Banka,2025-12-03,29,591
+Bihar,Banka,2025-12-04,43,638
+Bihar,Banka,2025-12-05,25,566
+Bihar,Banka,2025-12-06,52,654
+Bihar,Banka,2025-12-07,19,246
+Bihar,Banka,2025-12-08,53,850
+Bihar,Banka,2025-12-09,47,805
+Bihar,Banka,2025-12-10,41,770
+Bihar,Banka,2025-12-11,39,736
+Bihar,Banka,2025-12-12,47,815
+Bihar,Banka,2025-12-13,47,704
+Bihar,Banka,2025-12-14,13,136
+Bihar,Banka,2025-12-15,39,486
+Bihar,Banka,2025-12-16,55,954
+Bihar,Banka,2025-12-17,48,850
+Bihar,Banka,2025-12-18,49,744
+Bihar,Banka,2025-12-19,39,471
+Bihar,Banka,2025-12-20,18,204
+Bihar,Banka,2025-12-21,14,101
+Bihar,Banka,2025-12-22,41,471
+Bihar,Banka,2025-12-23,39,568
+Bihar,Banka,2025-12-24,44,564
+Bihar,Banka,2025-12-25,29,396
+Bihar,Banka,2025-12-26,54,723
+Bihar,Banka,2025-12-27,31,501
+Bihar,Banka,2025-12-28,38,211
+Bihar,Banka,2025-12-29,47,398
+Bihar,Banka,2025-12-31,22,507
+Bihar,Banka,2026-01-01,18,190
+Bihar,Banka,2026-01-02,26,269
+Bihar,Banka,2026-01-03,11,151
+Bihar,Begusarai,2025-03-01,3159,24469
+Bihar,Begusarai,2025-04-01,261,1650
+Bihar,Begusarai,2025-09-01,127,878
+Bihar,Begusarai,2025-09-02,182,1491
+Bihar,Begusarai,2025-09-03,58,657
+Bihar,Begusarai,2025-09-04,114,1253
+Bihar,Begusarai,2025-09-05,68,886
+Bihar,Begusarai,2025-09-06,137,1390
+Bihar,Begusarai,2025-09-07,38,491
+Bihar,Begusarai,2025-09-08,119,1687
+Bihar,Begusarai,2025-09-09,158,1652
+Bihar,Begusarai,2025-09-10,125,1768
+Bihar,Begusarai,2025-09-11,121,1597
+Bihar,Begusarai,2025-09-12,136,1778
+Bihar,Begusarai,2025-09-13,105,1171
+Bihar,Begusarai,2025-09-14,20,382
+Bihar,Begusarai,2025-09-15,132,1464
+Bihar,Begusarai,2025-09-16,113,1320
+Bihar,Begusarai,2025-09-17,71,914
+Bihar,Begusarai,2025-09-18,161,1824
+Bihar,Begusarai,2025-09-19,108,1637
+Bihar,Begusarai,2025-09-20,121,1935
+Bihar,Begusarai,2025-10-13,70,1036
+Bihar,Begusarai,2025-10-15,175,1733
+Bihar,Begusarai,2025-10-16,202,1764
+Bihar,Begusarai,2025-10-17,110,1238
+Bihar,Begusarai,2025-10-18,127,1195
+Bihar,Begusarai,2025-10-19,110,873
+Bihar,Begusarai,2025-10-20,31,180
+Bihar,Begusarai,2025-10-21,41,218
+Bihar,Begusarai,2025-10-22,8,22
+Bihar,Begusarai,2025-10-23,9,103
+Bihar,Begusarai,2025-10-24,132,1418
+Bihar,Begusarai,2025-10-25,69,802
+Bihar,Begusarai,2025-10-26,97,1101
+Bihar,Begusarai,2025-10-27,51,401
+Bihar,Begusarai,2025-10-28,43,234
+Bihar,Begusarai,2025-10-29,85,373
+Bihar,Begusarai,2025-10-30,53,612
+Bihar,Begusarai,2025-10-31,114,1184
+Bihar,Begusarai,2025-11-01,97,920
+Bihar,Begusarai,2025-11-02,55,413
+Bihar,Begusarai,2025-11-03,150,1230
+Bihar,Begusarai,2025-11-04,92,1178
+Bihar,Begusarai,2025-11-05,99,790
+Bihar,Begusarai,2025-11-06,119,554
+Bihar,Begusarai,2025-11-07,52,1024
+Bihar,Begusarai,2025-11-08,73,933
+Bihar,Begusarai,2025-11-09,15,302
+Bihar,Begusarai,2025-11-10,76,964
+Bihar,Begusarai,2025-11-11,87,1094
+Bihar,Begusarai,2025-11-12,72,872
+Bihar,Begusarai,2025-11-13,153,1262
+Bihar,Begusarai,2025-11-14,105,714
+Bihar,Begusarai,2025-11-15,99,1076
+Bihar,Begusarai,2025-11-16,58,363
+Bihar,Begusarai,2025-11-17,101,903
+Bihar,Begusarai,2025-11-18,82,750
+Bihar,Begusarai,2025-11-19,92,919
+Bihar,Begusarai,2025-11-25,10,69
+Bihar,Begusarai,2025-11-26,30,494
+Bihar,Begusarai,2025-11-27,64,959
+Bihar,Begusarai,2025-11-28,96,747
+Bihar,Begusarai,2025-11-29,90,847
+Bihar,Begusarai,2025-12-01,161,1136
+Bihar,Begusarai,2025-12-02,74,938
+Bihar,Begusarai,2025-12-03,89,933
+Bihar,Begusarai,2025-12-04,82,980
+Bihar,Begusarai,2025-12-05,59,858
+Bihar,Begusarai,2025-12-06,105,978
+Bihar,Begusarai,2025-12-07,17,318
+Bihar,Begusarai,2025-12-08,123,1172
+Bihar,Begusarai,2025-12-09,86,1116
+Bihar,Begusarai,2025-12-10,96,1168
+Bihar,Begusarai,2025-12-11,82,1058
+Bihar,Begusarai,2025-12-12,99,1142
+Bihar,Begusarai,2025-12-13,45,522
+Bihar,Begusarai,2025-12-14,10,243
+Bihar,Begusarai,2025-12-15,96,1217
+Bihar,Begusarai,2025-12-16,93,1195
+Bihar,Begusarai,2025-12-17,86,1127
+Bihar,Begusarai,2025-12-18,78,900
+Bihar,Begusarai,2025-12-19,51,563
+Bihar,Begusarai,2025-12-20,72,530
+Bihar,Begusarai,2025-12-21,12,168
+Bihar,Begusarai,2025-12-22,93,780
+Bihar,Begusarai,2025-12-23,70,623
+Bihar,Begusarai,2025-12-24,78,729
+Bihar,Begusarai,2025-12-25,28,323
+Bihar,Begusarai,2025-12-26,66,756
+Bihar,Begusarai,2025-12-27,29,556
+Bihar,Begusarai,2025-12-28,64,297
+Bihar,Begusarai,2025-12-29,58,514
+Bihar,Begusarai,2025-12-31,51,758
+Bihar,Begusarai,2026-01-01,40,367
+Bihar,Begusarai,2026-01-02,56,323
+Bihar,Begusarai,2026-01-03,8,209
+Bihar,Bhabua,2025-09-04,0,1
+Bihar,Bhabua,2025-09-06,0,1
+Bihar,Bhabua,2025-09-08,0,4
+Bihar,Bhabua,2025-09-09,0,4
+Bihar,Bhabua,2025-09-10,0,4
+Bihar,Bhabua,2025-09-11,0,2
+Bihar,Bhabua,2025-09-12,0,2
+Bihar,Bhabua,2025-09-13,0,1
+Bihar,Bhabua,2025-09-15,0,2
+Bihar,Bhabua,2025-09-16,0,1
+Bihar,Bhabua,2025-09-17,0,1
+Bihar,Bhabua,2025-09-18,0,1
+Bihar,Bhabua,2025-09-19,0,3
+Bihar,Bhabua,2025-10-13,0,4
+Bihar,Bhabua,2025-10-15,0,1
+Bihar,Bhabua,2025-10-16,0,3
+Bihar,Bhabua,2025-10-17,0,2
+Bihar,Bhabua,2025-10-18,0,1
+Bihar,Bhabua,2025-10-19,0,1
+Bihar,Bhabua,2025-10-24,0,2
+Bihar,Bhabua,2025-10-30,0,5
+Bihar,Bhabua,2025-10-31,0,1
+Bihar,Bhabua,2025-11-01,0,4
+Bihar,Bhabua,2025-11-03,0,2
+Bihar,Bhabua,2025-11-05,0,4
+Bihar,Bhabua,2025-11-07,0,2
+Bihar,Bhabua,2025-11-10,0,2
+Bihar,Bhabua,2025-11-11,0,1
+Bihar,Bhabua,2025-11-12,0,3
+Bihar,Bhabua,2025-11-13,0,1
+Bihar,Bhabua,2025-11-14,1,1
+Bihar,Bhabua,2025-11-15,0,6
+Bihar,Bhabua,2025-11-18,0,2
+Bihar,Bhabua,2025-11-19,0,4
+Bihar,Bhabua,2025-11-26,0,2
+Bihar,Bhabua,2025-11-28,1,3
+Bihar,Bhabua,2025-12-01,0,2
+Bihar,Bhabua,2025-12-04,0,1
+Bihar,Bhabua,2025-12-05,0,1
+Bihar,Bhabua,2025-12-06,0,2
+Bihar,Bhabua,2025-12-08,2,1
+Bihar,Bhabua,2025-12-09,0,3
+Bihar,Bhabua,2025-12-10,0,3
+Bihar,Bhabua,2025-12-11,0,3
+Bihar,Bhabua,2025-12-12,0,1
+Bihar,Bhabua,2025-12-15,0,2
+Bihar,Bhabua,2025-12-18,0,2
+Bihar,Bhabua,2025-12-19,0,2
+Bihar,Bhabua,2025-12-20,0,1
+Bihar,Bhabua,2025-12-23,0,2
+Bihar,Bhabua,2025-12-24,0,1
+Bihar,Bhabua,2025-12-25,0,1
+Bihar,Bhabua,2025-12-26,0,3
+Bihar,Bhabua,2025-12-27,0,2
+Bihar,Bhabua,2025-12-29,0,2
+Bihar,Bhabua,2025-12-31,0,1
+Bihar,Bhabua,2026-01-01,0,2
+Bihar,Bhabua,2026-01-02,0,1
+Bihar,Bhagalpur,2025-03-01,2156,16436
+Bihar,Bhagalpur,2025-09-01,71,881
+Bihar,Bhagalpur,2025-09-02,161,1822
+Bihar,Bhagalpur,2025-09-03,60,597
+Bihar,Bhagalpur,2025-09-04,132,1531
+Bihar,Bhagalpur,2025-09-05,85,1252
+Bihar,Bhagalpur,2025-09-06,127,1549
+Bihar,Bhagalpur,2025-09-07,59,700
+Bihar,Bhagalpur,2025-09-08,122,1861
+Bihar,Bhagalpur,2025-09-09,132,1976
+Bihar,Bhagalpur,2025-09-10,148,1955
+Bihar,Bhagalpur,2025-09-11,124,1756
+Bihar,Bhagalpur,2025-09-12,143,1731
+Bihar,Bhagalpur,2025-09-13,83,872
+Bihar,Bhagalpur,2025-09-14,51,584
+Bihar,Bhagalpur,2025-09-15,97,1378
+Bihar,Bhagalpur,2025-09-16,104,1308
+Bihar,Bhagalpur,2025-09-17,67,978
+Bihar,Bhagalpur,2025-09-18,123,1673
+Bihar,Bhagalpur,2025-09-19,112,1658
+Bihar,Bhagalpur,2025-09-20,139,2047
+Bihar,Bhagalpur,2025-10-13,65,1041
+Bihar,Bhagalpur,2025-10-15,257,2560
+Bihar,Bhagalpur,2025-10-16,189,2055
+Bihar,Bhagalpur,2025-10-17,151,2092
+Bihar,Bhagalpur,2025-10-18,137,1430
+Bihar,Bhagalpur,2025-10-19,171,1311
+Bihar,Bhagalpur,2025-10-20,25,277
+Bihar,Bhagalpur,2025-10-21,37,287
+Bihar,Bhagalpur,2025-10-22,5,37
+Bihar,Bhagalpur,2025-10-23,20,66
+Bihar,Bhagalpur,2025-10-24,159,1597
+Bihar,Bhagalpur,2025-10-25,91,1069
+Bihar,Bhagalpur,2025-10-26,108,1298
+Bihar,Bhagalpur,2025-10-27,63,639
+Bihar,Bhagalpur,2025-10-28,57,359
+Bihar,Bhagalpur,2025-10-29,95,576
+Bihar,Bhagalpur,2025-10-30,67,833
+Bihar,Bhagalpur,2025-10-31,158,1602
+Bihar,Bhagalpur,2025-11-01,116,1391
+Bihar,Bhagalpur,2025-11-02,65,603
+Bihar,Bhagalpur,2025-11-03,170,1444
+Bihar,Bhagalpur,2025-11-04,158,1745
+Bihar,Bhagalpur,2025-11-05,164,1446
+Bihar,Bhagalpur,2025-11-06,142,1013
+Bihar,Bhagalpur,2025-11-07,84,1183
+Bihar,Bhagalpur,2025-11-08,67,996
+Bihar,Bhagalpur,2025-11-09,28,340
+Bihar,Bhagalpur,2025-11-10,87,734
+Bihar,Bhagalpur,2025-11-11,16,206
+Bihar,Bhagalpur,2025-11-12,67,770
+Bihar,Bhagalpur,2025-11-13,173,1336
+Bihar,Bhagalpur,2025-11-14,96,646
+Bihar,Bhagalpur,2025-11-15,115,1067
+Bihar,Bhagalpur,2025-11-16,38,310
+Bihar,Bhagalpur,2025-11-17,86,1082
+Bihar,Bhagalpur,2025-11-18,92,1034
+Bihar,Bhagalpur,2025-11-19,78,1072
+Bihar,Bhagalpur,2025-11-25,38,208
+Bihar,Bhagalpur,2025-11-26,44,399
+Bihar,Bhagalpur,2025-11-27,111,1344
+Bihar,Bhagalpur,2025-11-28,93,881
+Bihar,Bhagalpur,2025-11-29,38,424
+Bihar,Bhagalpur,2025-12-01,84,755
+Bihar,Bhagalpur,2025-12-02,85,826
+Bihar,Bhagalpur,2025-12-03,68,827
+Bihar,Bhagalpur,2025-12-04,72,938
+Bihar,Bhagalpur,2025-12-05,68,824
+Bihar,Bhagalpur,2025-12-06,103,917
+Bihar,Bhagalpur,2025-12-07,31,317
+Bihar,Bhagalpur,2025-12-08,78,1162
+Bihar,Bhagalpur,2025-12-09,95,1104
+Bihar,Bhagalpur,2025-12-10,80,1141
+Bihar,Bhagalpur,2025-12-11,74,1046
+Bihar,Bhagalpur,2025-12-12,79,1090
+Bihar,Bhagalpur,2025-12-13,88,871
+Bihar,Bhagalpur,2025-12-14,25,352
+Bihar,Bhagalpur,2025-12-15,81,1090
+Bihar,Bhagalpur,2025-12-16,102,1326
+Bihar,Bhagalpur,2025-12-17,88,1191
+Bihar,Bhagalpur,2025-12-18,71,1131
+Bihar,Bhagalpur,2025-12-19,69,530
+Bihar,Bhagalpur,2025-12-20,72,619
+Bihar,Bhagalpur,2025-12-21,22,235
+Bihar,Bhagalpur,2025-12-22,80,863
+Bihar,Bhagalpur,2025-12-23,59,677
+Bihar,Bhagalpur,2025-12-24,74,854
+Bihar,Bhagalpur,2025-12-25,37,385
+Bihar,Bhagalpur,2025-12-26,63,844
+Bihar,Bhagalpur,2025-12-27,34,618
+Bihar,Bhagalpur,2025-12-28,42,271
+Bihar,Bhagalpur,2025-12-29,34,543
+Bihar,Bhagalpur,2025-12-31,45,846
+Bihar,Bhagalpur,2026-01-01,30,477
+Bihar,Bhagalpur,2026-01-02,73,485
+Bihar,Bhagalpur,2026-01-03,9,150
+Bihar,Bhojpur,2025-03-01,1203,13427
+Bihar,Bhojpur,2025-09-01,67,796
+Bihar,Bhojpur,2025-09-02,95,1243
+Bihar,Bhojpur,2025-09-03,70,1178
+Bihar,Bhojpur,2025-09-04,85,1752
+Bihar,Bhojpur,2025-09-05,58,2090
+Bihar,Bhojpur,2025-09-06,102,3261
+Bihar,Bhojpur,2025-09-07,35,1953
+Bihar,Bhojpur,2025-09-08,118,3375
+Bihar,Bhojpur,2025-09-09,116,3874
+Bihar,Bhojpur,2025-09-10,114,3460
+Bihar,Bhojpur,2025-09-11,96,2630
+Bihar,Bhojpur,2025-09-12,88,2705
+Bihar,Bhojpur,2025-09-13,67,1458
+Bihar,Bhojpur,2025-09-14,25,917
+Bihar,Bhojpur,2025-09-15,90,1842
+Bihar,Bhojpur,2025-09-16,90,1935
+Bihar,Bhojpur,2025-09-17,46,1485
+Bihar,Bhojpur,2025-09-18,97,2141
+Bihar,Bhojpur,2025-09-19,88,2021
+Bihar,Bhojpur,2025-09-20,94,1782
+Bihar,Bhojpur,2025-10-13,78,1166
+Bihar,Bhojpur,2025-10-15,213,2292
+Bihar,Bhojpur,2025-10-16,179,2303
+Bihar,Bhojpur,2025-10-17,148,1643
+Bihar,Bhojpur,2025-10-18,153,1321
+Bihar,Bhojpur,2025-10-19,151,1174
+Bihar,Bhojpur,2025-10-20,51,385
+Bihar,Bhojpur,2025-10-21,32,231
+Bihar,Bhojpur,2025-10-22,5,35
+Bihar,Bhojpur,2025-10-23,12,82
+Bihar,Bhojpur,2025-10-24,144,1488
+Bihar,Bhojpur,2025-10-25,89,1121
+Bihar,Bhojpur,2025-10-26,116,1084
+Bihar,Bhojpur,2025-10-27,38,473
+Bihar,Bhojpur,2025-10-28,39,239
+Bihar,Bhojpur,2025-10-29,105,516
+Bihar,Bhojpur,2025-10-30,66,577
+Bihar,Bhojpur,2025-10-31,102,1063
+Bihar,Bhojpur,2025-11-01,96,969
+Bihar,Bhojpur,2025-11-02,43,359
+Bihar,Bhojpur,2025-11-03,177,1580
+Bihar,Bhojpur,2025-11-04,102,1182
+Bihar,Bhojpur,2025-11-05,102,847
+Bihar,Bhojpur,2025-11-06,92,537
+Bihar,Bhojpur,2025-11-07,43,733
+Bihar,Bhojpur,2025-11-08,60,693
+Bihar,Bhojpur,2025-11-09,15,278
+Bihar,Bhojpur,2025-11-10,64,866
+Bihar,Bhojpur,2025-11-11,83,914
+Bihar,Bhojpur,2025-11-12,72,758
+Bihar,Bhojpur,2025-11-13,128,874
+Bihar,Bhojpur,2025-11-14,93,603
+Bihar,Bhojpur,2025-11-15,105,931
+Bihar,Bhojpur,2025-11-16,33,232
+Bihar,Bhojpur,2025-11-17,119,928
+Bihar,Bhojpur,2025-11-18,60,645
+Bihar,Bhojpur,2025-11-19,103,1060
+Bihar,Bhojpur,2025-11-25,32,180
+Bihar,Bhojpur,2025-11-26,32,472
+Bihar,Bhojpur,2025-11-27,56,864
+Bihar,Bhojpur,2025-11-28,60,646
+Bihar,Bhojpur,2025-11-29,50,550
+Bihar,Bhojpur,2025-12-01,90,889
+Bihar,Bhojpur,2025-12-02,66,762
+Bihar,Bhojpur,2025-12-03,67,741
+Bihar,Bhojpur,2025-12-04,73,884
+Bihar,Bhojpur,2025-12-05,73,821
+Bihar,Bhojpur,2025-12-06,84,819
+Bihar,Bhojpur,2025-12-07,44,426
+Bihar,Bhojpur,2025-12-08,79,914
+Bihar,Bhojpur,2025-12-09,81,1013
+Bihar,Bhojpur,2025-12-10,78,1003
+Bihar,Bhojpur,2025-12-11,76,838
+Bihar,Bhojpur,2025-12-12,73,869
+Bihar,Bhojpur,2025-12-13,41,452
+Bihar,Bhojpur,2025-12-14,29,220
+Bihar,Bhojpur,2025-12-15,73,798
+Bihar,Bhojpur,2025-12-16,57,873
+Bihar,Bhojpur,2025-12-17,64,868
+Bihar,Bhojpur,2025-12-18,59,671
+Bihar,Bhojpur,2025-12-19,54,550
+Bihar,Bhojpur,2025-12-20,45,388
+Bihar,Bhojpur,2025-12-21,19,225
+Bihar,Bhojpur,2025-12-22,61,593
+Bihar,Bhojpur,2025-12-23,60,675
+Bihar,Bhojpur,2025-12-24,59,687
+Bihar,Bhojpur,2025-12-25,22,405
+Bihar,Bhojpur,2025-12-26,48,621
+Bihar,Bhojpur,2025-12-27,32,395
+Bihar,Bhojpur,2025-12-28,38,267
+Bihar,Bhojpur,2025-12-29,30,381
+Bihar,Bhojpur,2025-12-31,30,586
+Bihar,Bhojpur,2026-01-01,14,253
+Bihar,Bhojpur,2026-01-02,51,412
+Bihar,Bhojpur,2026-01-03,16,223
+Bihar,Buxar,2025-03-01,859,9192
+Bihar,Buxar,2025-09-01,69,402
+Bihar,Buxar,2025-09-02,80,494
+Bihar,Buxar,2025-09-03,46,288
+Bihar,Buxar,2025-09-04,40,408
+Bihar,Buxar,2025-09-05,38,403
+Bihar,Buxar,2025-09-06,59,520
+Bihar,Buxar,2025-09-07,18,243
+Bihar,Buxar,2025-09-08,64,743
+Bihar,Buxar,2025-09-09,79,806
+Bihar,Buxar,2025-09-10,74,824
+Bihar,Buxar,2025-09-11,59,824
+Bihar,Buxar,2025-09-12,66,838
+Bihar,Buxar,2025-09-13,43,402
+Bihar,Buxar,2025-09-14,24,203
+Bihar,Buxar,2025-09-15,62,654
+Bihar,Buxar,2025-09-16,48,767
+Bihar,Buxar,2025-09-17,40,489
+Bihar,Buxar,2025-09-18,71,844
+Bihar,Buxar,2025-09-19,72,765
+Bihar,Buxar,2025-09-20,60,663
+Bihar,Buxar,2025-10-13,43,576
+Bihar,Buxar,2025-10-15,136,1240
+Bihar,Buxar,2025-10-16,143,1313
+Bihar,Buxar,2025-10-17,64,923
+Bihar,Buxar,2025-10-18,127,931
+Bihar,Buxar,2025-10-19,89,641
+Bihar,Buxar,2025-10-20,18,156
+Bihar,Buxar,2025-10-21,35,197
+Bihar,Buxar,2025-10-22,7,10
+Bihar,Buxar,2025-10-23,7,47
+Bihar,Buxar,2025-10-24,91,926
+Bihar,Buxar,2025-10-25,71,635
+Bihar,Buxar,2025-10-26,85,788
+Bihar,Buxar,2025-10-27,39,284
+Bihar,Buxar,2025-10-28,21,167
+Bihar,Buxar,2025-10-29,48,311
+Bihar,Buxar,2025-10-30,44,388
+Bihar,Buxar,2025-10-31,76,685
+Bihar,Buxar,2025-11-01,73,541
+Bihar,Buxar,2025-11-02,35,302
+Bihar,Buxar,2025-11-03,103,830
+Bihar,Buxar,2025-11-04,74,690
+Bihar,Buxar,2025-11-05,72,478
+Bihar,Buxar,2025-11-06,56,385
+Bihar,Buxar,2025-11-07,42,481
+Bihar,Buxar,2025-11-08,35,490
+Bihar,Buxar,2025-11-09,18,188
+Bihar,Buxar,2025-11-10,52,508
+Bihar,Buxar,2025-11-11,50,587
+Bihar,Buxar,2025-11-12,53,537
+Bihar,Buxar,2025-11-13,88,563
+Bihar,Buxar,2025-11-14,52,367
+Bihar,Buxar,2025-11-15,65,623
+Bihar,Buxar,2025-11-16,40,225
+Bihar,Buxar,2025-11-17,63,557
+Bihar,Buxar,2025-11-18,32,315
+Bihar,Buxar,2025-11-19,69,657
+Bihar,Buxar,2025-11-25,13,90
+Bihar,Buxar,2025-11-26,19,347
+Bihar,Buxar,2025-11-27,42,506
+Bihar,Buxar,2025-11-28,44,454
+Bihar,Buxar,2025-11-29,44,431
+Bihar,Buxar,2025-12-01,87,507
+Bihar,Buxar,2025-12-02,54,641
+Bihar,Buxar,2025-12-03,61,567
+Bihar,Buxar,2025-12-04,45,599
+Bihar,Buxar,2025-12-05,33,460
+Bihar,Buxar,2025-12-06,41,557
+Bihar,Buxar,2025-12-07,17,229
+Bihar,Buxar,2025-12-08,48,630
+Bihar,Buxar,2025-12-09,57,700
+Bihar,Buxar,2025-12-10,91,793
+Bihar,Buxar,2025-12-11,42,528
+Bihar,Buxar,2025-12-12,47,539
+Bihar,Buxar,2025-12-13,29,403
+Bihar,Buxar,2025-12-14,18,200
+Bihar,Buxar,2025-12-15,39,392
+Bihar,Buxar,2025-12-16,48,689
+Bihar,Buxar,2025-12-17,34,568
+Bihar,Buxar,2025-12-18,45,537
+Bihar,Buxar,2025-12-19,48,455
+Bihar,Buxar,2025-12-20,22,316
+Bihar,Buxar,2025-12-21,14,124
+Bihar,Buxar,2025-12-22,28,317
+Bihar,Buxar,2025-12-23,41,457
+Bihar,Buxar,2025-12-24,60,521
+Bihar,Buxar,2025-12-25,12,208
+Bihar,Buxar,2025-12-26,44,443
+Bihar,Buxar,2025-12-27,15,294
+Bihar,Buxar,2025-12-28,33,171
+Bihar,Buxar,2025-12-29,36,373
+Bihar,Buxar,2025-12-31,23,405
+Bihar,Buxar,2026-01-01,25,203
+Bihar,Buxar,2026-01-02,51,284
+Bihar,Buxar,2026-01-03,8,115
+Bihar,Darbhanga,2025-03-01,2811,32333
+Bihar,Darbhanga,2025-07-01,237,2356
+Bihar,Darbhanga,2025-09-01,96,844
+Bihar,Darbhanga,2025-09-02,175,1988
+Bihar,Darbhanga,2025-09-03,84,812
+Bihar,Darbhanga,2025-09-04,117,1283
+Bihar,Darbhanga,2025-09-05,57,1341
+Bihar,Darbhanga,2025-09-06,137,1709
+Bihar,Darbhanga,2025-09-07,43,733
+Bihar,Darbhanga,2025-09-08,140,1722
+Bihar,Darbhanga,2025-09-09,174,2001
+Bihar,Darbhanga,2025-09-10,146,1916
+Bihar,Darbhanga,2025-09-11,111,1516
+Bihar,Darbhanga,2025-09-12,125,1626
+Bihar,Darbhanga,2025-09-13,75,1144
+Bihar,Darbhanga,2025-09-14,36,553
+Bihar,Darbhanga,2025-09-15,105,1233
+Bihar,Darbhanga,2025-09-16,84,1231
+Bihar,Darbhanga,2025-09-17,78,899
+Bihar,Darbhanga,2025-09-18,95,1389
+Bihar,Darbhanga,2025-09-19,120,1564
+Bihar,Darbhanga,2025-09-20,121,1904
+Bihar,Darbhanga,2025-10-13,29,1255
+Bihar,Darbhanga,2025-10-15,193,2484
+Bihar,Darbhanga,2025-10-16,200,2046
+Bihar,Darbhanga,2025-10-17,129,1690
+Bihar,Darbhanga,2025-10-18,116,1546
+Bihar,Darbhanga,2025-10-19,163,1453
+Bihar,Darbhanga,2025-10-20,48,417
+Bihar,Darbhanga,2025-10-21,66,322
+Bihar,Darbhanga,2025-10-22,6,45
+Bihar,Darbhanga,2025-10-23,18,125
+Bihar,Darbhanga,2025-10-24,129,2077
+Bihar,Darbhanga,2025-10-25,79,1283
+Bihar,Darbhanga,2025-10-26,113,1883
+Bihar,Darbhanga,2025-10-27,40,598
+Bihar,Darbhanga,2025-10-28,52,454
+Bihar,Darbhanga,2025-10-29,95,698
+Bihar,Darbhanga,2025-10-30,119,1043
+Bihar,Darbhanga,2025-10-31,127,1681
+Bihar,Darbhanga,2025-11-01,114,1844
+Bihar,Darbhanga,2025-11-02,56,756
+Bihar,Darbhanga,2025-11-03,176,1806
+Bihar,Darbhanga,2025-11-04,90,1742
+Bihar,Darbhanga,2025-11-05,84,1008
+Bihar,Darbhanga,2025-11-06,95,837
+Bihar,Darbhanga,2025-11-07,63,1391
+Bihar,Darbhanga,2025-11-08,60,1298
+Bihar,Darbhanga,2025-11-09,38,634
+Bihar,Darbhanga,2025-11-10,82,1387
+Bihar,Darbhanga,2025-11-11,74,1446
+Bihar,Darbhanga,2025-11-12,58,1083
+Bihar,Darbhanga,2025-11-13,127,1434
+Bihar,Darbhanga,2025-11-14,113,925
+Bihar,Darbhanga,2025-11-15,105,1272
+Bihar,Darbhanga,2025-11-16,56,527
+Bihar,Darbhanga,2025-11-17,120,1412
+Bihar,Darbhanga,2025-11-18,45,818
+Bihar,Darbhanga,2025-11-19,92,1225
+Bihar,Darbhanga,2025-11-25,26,160
+Bihar,Darbhanga,2025-11-26,40,702
+Bihar,Darbhanga,2025-11-27,92,1506
+Bihar,Darbhanga,2025-11-28,66,910
+Bihar,Darbhanga,2025-11-29,82,1005
+Bihar,Darbhanga,2025-12-01,135,1301
+Bihar,Darbhanga,2025-12-02,97,1228
+Bihar,Darbhanga,2025-12-03,79,1144
+Bihar,Darbhanga,2025-12-04,76,1160
+Bihar,Darbhanga,2025-12-05,76,1015
+Bihar,Darbhanga,2025-12-06,77,1148
+Bihar,Darbhanga,2025-12-07,23,442
+Bihar,Darbhanga,2025-12-08,73,1254
+Bihar,Darbhanga,2025-12-09,96,1246
+Bihar,Darbhanga,2025-12-10,85,1200
+Bihar,Darbhanga,2025-12-11,87,1240
+Bihar,Darbhanga,2025-12-12,82,1198
+Bihar,Darbhanga,2025-12-13,73,909
+Bihar,Darbhanga,2025-12-14,23,467
+Bihar,Darbhanga,2025-12-15,64,939
+Bihar,Darbhanga,2025-12-16,99,1337
+Bihar,Darbhanga,2025-12-17,77,1111
+Bihar,Darbhanga,2025-12-18,76,1069
+Bihar,Darbhanga,2025-12-19,70,794
+Bihar,Darbhanga,2025-12-20,47,402
+Bihar,Darbhanga,2025-12-21,22,280
+Bihar,Darbhanga,2025-12-22,47,633
+Bihar,Darbhanga,2025-12-23,68,923
+Bihar,Darbhanga,2025-12-24,54,865
+Bihar,Darbhanga,2025-12-25,39,669
+Bihar,Darbhanga,2025-12-26,74,1062
+Bihar,Darbhanga,2025-12-27,44,726
+Bihar,Darbhanga,2025-12-28,64,595
+Bihar,Darbhanga,2025-12-29,50,596
+Bihar,Darbhanga,2025-12-31,33,932
+Bihar,Darbhanga,2026-01-01,19,506
+Bihar,Darbhanga,2026-01-02,61,501
+Bihar,Darbhanga,2026-01-03,10,216
+Bihar,East Champaran,2025-03-01,3515,38347
+Bihar,East Champaran,2025-09-01,91,1011
+Bihar,East Champaran,2025-09-02,212,2253
+Bihar,East Champaran,2025-09-03,87,944
+Bihar,East Champaran,2025-09-04,144,1824
+Bihar,East Champaran,2025-09-05,77,1475
+Bihar,East Champaran,2025-09-06,188,2241
+Bihar,East Champaran,2025-09-07,63,1061
+Bihar,East Champaran,2025-09-08,196,3044
+Bihar,East Champaran,2025-09-09,215,3494
+Bihar,East Champaran,2025-09-10,184,3320
+Bihar,East Champaran,2025-09-11,189,3076
+Bihar,East Champaran,2025-09-12,217,3520
+Bihar,East Champaran,2025-09-13,150,2444
+Bihar,East Champaran,2025-09-14,46,1185
+Bihar,East Champaran,2025-09-15,178,3306
+Bihar,East Champaran,2025-09-16,153,2833
+Bihar,East Champaran,2025-09-17,101,1770
+Bihar,East Champaran,2025-09-18,172,3327
+Bihar,East Champaran,2025-09-19,143,2674
+Bihar,East Champaran,2025-09-20,184,3731
+Bihar,East Champaran,2025-10-13,87,2582
+Bihar,East Champaran,2025-10-15,312,4101
+Bihar,East Champaran,2025-10-16,279,4046
+Bihar,East Champaran,2025-10-17,162,2946
+Bihar,East Champaran,2025-10-18,192,2804
+Bihar,East Champaran,2025-10-19,206,2397
+Bihar,East Champaran,2025-10-20,45,677
+Bihar,East Champaran,2025-10-21,57,515
+Bihar,East Champaran,2025-10-22,7,39
+Bihar,East Champaran,2025-10-23,23,156
+Bihar,East Champaran,2025-10-24,212,3046
+Bihar,East Champaran,2025-10-25,170,2298
+Bihar,East Champaran,2025-10-26,163,2655
+Bihar,East Champaran,2025-10-27,79,865
+Bihar,East Champaran,2025-10-28,61,429
+Bihar,East Champaran,2025-10-29,115,998
+Bihar,East Champaran,2025-10-30,102,1497
+Bihar,East Champaran,2025-10-31,226,2996
+Bihar,East Champaran,2025-11-01,133,2444
+Bihar,East Champaran,2025-11-02,105,1482
+Bihar,East Champaran,2025-11-03,237,3072
+Bihar,East Champaran,2025-11-04,258,3896
+Bihar,East Champaran,2025-11-05,142,2125
+Bihar,East Champaran,2025-11-06,203,2779
+Bihar,East Champaran,2025-11-07,92,2236
+Bihar,East Champaran,2025-11-08,119,2106
+Bihar,East Champaran,2025-11-09,39,829
+Bihar,East Champaran,2025-11-10,83,1757
+Bihar,East Champaran,2025-11-11,17,382
+Bihar,East Champaran,2025-11-12,104,1782
+Bihar,East Champaran,2025-11-13,213,2339
+Bihar,East Champaran,2025-11-14,119,1418
+Bihar,East Champaran,2025-11-15,185,2221
+Bihar,East Champaran,2025-11-16,101,735
+Bihar,East Champaran,2025-11-17,160,2180
+Bihar,East Champaran,2025-11-18,104,1362
+Bihar,East Champaran,2025-11-19,233,2782
+Bihar,East Champaran,2025-11-25,37,222
+Bihar,East Champaran,2025-11-26,78,1163
+Bihar,East Champaran,2025-11-27,188,2828
+Bihar,East Champaran,2025-11-28,127,1574
+Bihar,East Champaran,2025-11-29,118,1502
+Bihar,East Champaran,2025-12-01,239,3124
+Bihar,East Champaran,2025-12-02,122,2279
+Bihar,East Champaran,2025-12-03,132,2094
+Bihar,East Champaran,2025-12-04,133,2194
+Bihar,East Champaran,2025-12-05,157,1870
+Bihar,East Champaran,2025-12-06,129,2090
+Bihar,East Champaran,2025-12-07,53,868
+Bihar,East Champaran,2025-12-08,152,2283
+Bihar,East Champaran,2025-12-09,154,2244
+Bihar,East Champaran,2025-12-10,152,2118
+Bihar,East Champaran,2025-12-11,132,2217
+Bihar,East Champaran,2025-12-12,137,1854
+Bihar,East Champaran,2025-12-13,96,1305
+Bihar,East Champaran,2025-12-14,40,661
+Bihar,East Champaran,2025-12-15,113,1972
+Bihar,East Champaran,2025-12-16,128,2253
+Bihar,East Champaran,2025-12-17,112,1965
+Bihar,East Champaran,2025-12-18,79,1369
+Bihar,East Champaran,2025-12-19,90,1270
+Bihar,East Champaran,2025-12-20,62,774
+Bihar,East Champaran,2025-12-21,27,396
+Bihar,East Champaran,2025-12-22,100,1180
+Bihar,East Champaran,2025-12-23,106,1364
+Bihar,East Champaran,2025-12-24,95,1388
+Bihar,East Champaran,2025-12-25,42,917
+Bihar,East Champaran,2025-12-26,92,1804
+Bihar,East Champaran,2025-12-27,65,1228
+Bihar,East Champaran,2025-12-28,72,699
+Bihar,East Champaran,2025-12-29,89,954
+Bihar,East Champaran,2025-12-31,59,1698
+Bihar,East Champaran,2026-01-01,35,703
+Bihar,East Champaran,2026-01-02,70,641
+Bihar,East Champaran,2026-01-03,14,349
+Bihar,Gaya,2025-03-01,2606,21670
+Bihar,Gaya,2025-09-01,183,1471
+Bihar,Gaya,2025-09-02,282,2453
+Bihar,Gaya,2025-09-03,134,1077
+Bihar,Gaya,2025-09-04,146,1447
+Bihar,Gaya,2025-09-05,122,1668
+Bihar,Gaya,2025-09-06,234,2249
+Bihar,Gaya,2025-09-07,72,946
+Bihar,Gaya,2025-09-08,235,2711
+Bihar,Gaya,2025-09-09,261,3304
+Bihar,Gaya,2025-09-10,221,3027
+Bihar,Gaya,2025-09-11,190,2809
+Bihar,Gaya,2025-09-12,223,3355
+Bihar,Gaya,2025-09-13,159,1767
+Bihar,Gaya,2025-09-14,48,817
+Bihar,Gaya,2025-09-15,172,1955
+Bihar,Gaya,2025-09-16,162,2272
+Bihar,Gaya,2025-09-17,130,1726
+Bihar,Gaya,2025-09-18,190,2641
+Bihar,Gaya,2025-09-19,189,2995
+Bihar,Gaya,2025-09-20,211,3723
+Bihar,Gaya,2025-10-13,108,1395
+Bihar,Gaya,2025-10-15,293,2274
+Bihar,Gaya,2025-10-16,326,2482
+Bihar,Gaya,2025-10-17,170,1848
+Bihar,Gaya,2025-10-18,183,1505
+Bihar,Gaya,2025-10-19,243,1512
+Bihar,Gaya,2025-10-20,64,328
+Bihar,Gaya,2025-10-21,73,301
+Bihar,Gaya,2025-10-22,14,44
+Bihar,Gaya,2025-10-23,21,105
+Bihar,Gaya,2025-10-24,198,1688
+Bihar,Gaya,2025-10-25,148,1422
+Bihar,Gaya,2025-10-26,186,1970
+Bihar,Gaya,2025-10-27,80,700
+Bihar,Gaya,2025-10-28,60,418
+Bihar,Gaya,2025-10-29,165,592
+Bihar,Gaya,2025-10-30,81,749
+Bihar,Gaya,2025-10-31,149,1582
+Bihar,Gaya,2025-11-01,168,1596
+Bihar,Gaya,2025-11-02,90,695
+Bihar,Gaya,2025-11-03,226,1963
+Bihar,Gaya,2025-11-04,166,1988
+Bihar,Gaya,2025-11-05,147,1114
+Bihar,Gaya,2025-11-06,243,1687
+Bihar,Gaya,2025-11-07,124,1195
+Bihar,Gaya,2025-11-08,83,915
+Bihar,Gaya,2025-11-09,30,303
+Bihar,Gaya,2025-11-10,66,730
+Bihar,Gaya,2025-11-11,8,258
+Bihar,Gaya,2025-11-12,77,798
+Bihar,Gaya,2025-11-13,191,1392
+Bihar,Gaya,2025-11-14,113,696
+Bihar,Gaya,2025-11-15,104,908
+Bihar,Gaya,2025-11-16,71,358
+Bihar,Gaya,2025-11-17,108,1058
+Bihar,Gaya,2025-11-18,69,658
+Bihar,Gaya,2025-11-19,94,1002
+Bihar,Gaya,2025-11-25,26,161
+Bihar,Gaya,2025-11-26,64,661
+Bihar,Gaya,2025-11-27,101,963
+Bihar,Gaya,2025-11-28,121,978
+Bihar,Gaya,2025-11-29,79,691
+Bihar,Gaya,2025-12-01,211,1840
+Bihar,Gaya,2025-12-02,149,1264
+Bihar,Gaya,2025-12-03,147,1217
+Bihar,Gaya,2025-12-04,96,1171
+Bihar,Gaya,2025-12-05,157,1144
+Bihar,Gaya,2025-12-06,124,1077
+Bihar,Gaya,2025-12-07,68,502
+Bihar,Gaya,2025-12-08,164,1444
+Bihar,Gaya,2025-12-09,156,1394
+Bihar,Gaya,2025-12-10,181,1518
+Bihar,Gaya,2025-12-11,147,1453
+Bihar,Gaya,2025-12-12,136,1350
+Bihar,Gaya,2025-12-13,83,910
+Bihar,Gaya,2025-12-14,41,403
+Bihar,Gaya,2025-12-15,123,1419
+Bihar,Gaya,2025-12-16,153,1607
+Bihar,Gaya,2025-12-17,144,1332
+Bihar,Gaya,2025-12-18,141,1132
+Bihar,Gaya,2025-12-19,72,599
+Bihar,Gaya,2025-12-20,90,646
+Bihar,Gaya,2025-12-21,27,267
+Bihar,Gaya,2025-12-22,132,892
+Bihar,Gaya,2025-12-23,145,1058
+Bihar,Gaya,2025-12-24,69,820
+Bihar,Gaya,2025-12-25,32,437
+Bihar,Gaya,2025-12-26,96,791
+Bihar,Gaya,2025-12-27,49,722
+Bihar,Gaya,2025-12-28,90,497
+Bihar,Gaya,2025-12-29,58,468
+Bihar,Gaya,2025-12-31,82,1076
+Bihar,Gaya,2026-01-01,63,569
+Bihar,Gaya,2026-01-02,142,650
+Bihar,Gaya,2026-01-03,22,226
+Bihar,Gopalganj,2025-03-01,1545,16464
+Bihar,Gopalganj,2025-09-01,81,847
+Bihar,Gopalganj,2025-09-02,129,1223
+Bihar,Gopalganj,2025-09-03,51,673
+Bihar,Gopalganj,2025-09-04,90,1162
+Bihar,Gopalganj,2025-09-05,35,624
+Bihar,Gopalganj,2025-09-06,66,924
+Bihar,Gopalganj,2025-09-07,30,297
+Bihar,Gopalganj,2025-09-08,93,1094
+Bihar,Gopalganj,2025-09-09,121,1400
+Bihar,Gopalganj,2025-09-10,83,1051
+Bihar,Gopalganj,2025-09-11,66,943
+Bihar,Gopalganj,2025-09-12,75,1154
+Bihar,Gopalganj,2025-09-13,44,676
+Bihar,Gopalganj,2025-09-14,21,314
+Bihar,Gopalganj,2025-09-15,47,843
+Bihar,Gopalganj,2025-09-16,47,763
+Bihar,Gopalganj,2025-09-17,28,512
+Bihar,Gopalganj,2025-09-18,56,970
+Bihar,Gopalganj,2025-09-19,49,926
+Bihar,Gopalganj,2025-09-20,70,1391
+Bihar,Gopalganj,2025-10-13,19,783
+Bihar,Gopalganj,2025-10-15,117,1815
+Bihar,Gopalganj,2025-10-16,130,1441
+Bihar,Gopalganj,2025-10-17,121,1745
+Bihar,Gopalganj,2025-10-18,122,1398
+Bihar,Gopalganj,2025-10-19,98,1147
+Bihar,Gopalganj,2025-10-20,28,241
+Bihar,Gopalganj,2025-10-21,54,272
+Bihar,Gopalganj,2025-10-22,10,24
+Bihar,Gopalganj,2025-10-23,11,77
+Bihar,Gopalganj,2025-10-24,85,1334
+Bihar,Gopalganj,2025-10-25,64,961
+Bihar,Gopalganj,2025-10-26,67,1047
+Bihar,Gopalganj,2025-10-27,28,451
+Bihar,Gopalganj,2025-10-28,28,204
+Bihar,Gopalganj,2025-10-29,64,516
+Bihar,Gopalganj,2025-10-30,73,743
+Bihar,Gopalganj,2025-10-31,90,1347
+Bihar,Gopalganj,2025-11-01,69,1224
+Bihar,Gopalganj,2025-11-02,38,511
+Bihar,Gopalganj,2025-11-03,83,1167
+Bihar,Gopalganj,2025-11-04,94,1395
+Bihar,Gopalganj,2025-11-05,72,1019
+Bihar,Gopalganj,2025-11-06,55,520
+Bihar,Gopalganj,2025-11-07,37,691
+Bihar,Gopalganj,2025-11-08,29,716
+Bihar,Gopalganj,2025-11-09,25,309
+Bihar,Gopalganj,2025-11-10,35,784
+Bihar,Gopalganj,2025-11-11,36,893
+Bihar,Gopalganj,2025-11-12,42,633
+Bihar,Gopalganj,2025-11-13,62,873
+Bihar,Gopalganj,2025-11-14,53,730
+Bihar,Gopalganj,2025-11-15,81,1022
+Bihar,Gopalganj,2025-11-16,56,376
+Bihar,Gopalganj,2025-11-17,101,1190
+Bihar,Gopalganj,2025-11-18,36,582
+Bihar,Gopalganj,2025-11-19,43,976
+Bihar,Gopalganj,2025-11-25,14,117
+Bihar,Gopalganj,2025-11-26,22,494
+Bihar,Gopalganj,2025-11-27,63,1103
+Bihar,Gopalganj,2025-11-28,43,505
+Bihar,Gopalganj,2025-11-29,37,537
+Bihar,Gopalganj,2025-12-01,88,1117
+Bihar,Gopalganj,2025-12-02,62,945
+Bihar,Gopalganj,2025-12-03,69,853
+Bihar,Gopalganj,2025-12-04,78,873
+Bihar,Gopalganj,2025-12-05,45,803
+Bihar,Gopalganj,2025-12-06,60,874
+Bihar,Gopalganj,2025-12-07,19,276
+Bihar,Gopalganj,2025-12-08,70,950
+Bihar,Gopalganj,2025-12-09,56,954
+Bihar,Gopalganj,2025-12-10,58,880
+Bihar,Gopalganj,2025-12-11,77,1032
+Bihar,Gopalganj,2025-12-12,49,955
+Bihar,Gopalganj,2025-12-13,63,746
+Bihar,Gopalganj,2025-12-14,22,169
+Bihar,Gopalganj,2025-12-15,49,810
+Bihar,Gopalganj,2025-12-16,62,1156
+Bihar,Gopalganj,2025-12-17,50,769
+Bihar,Gopalganj,2025-12-18,39,643
+Bihar,Gopalganj,2025-12-19,47,593
+Bihar,Gopalganj,2025-12-20,31,392
+Bihar,Gopalganj,2025-12-21,14,158
+Bihar,Gopalganj,2025-12-22,32,492
+Bihar,Gopalganj,2025-12-23,44,702
+Bihar,Gopalganj,2025-12-24,44,693
+Bihar,Gopalganj,2025-12-25,19,254
+Bihar,Gopalganj,2025-12-26,46,680
+Bihar,Gopalganj,2025-12-27,27,454
+Bihar,Gopalganj,2025-12-28,31,304
+Bihar,Gopalganj,2025-12-29,34,453
+Bihar,Gopalganj,2025-12-31,42,838
+Bihar,Gopalganj,2026-01-01,25,346
+Bihar,Gopalganj,2026-01-02,43,374
+Bihar,Gopalganj,2026-01-03,9,212
+Bihar,Jamui,2025-03-01,890,9434
+Bihar,Jamui,2025-09-01,31,400
+Bihar,Jamui,2025-09-02,90,976
+Bihar,Jamui,2025-09-03,40,618
+Bihar,Jamui,2025-09-04,45,731
+Bihar,Jamui,2025-09-05,25,394
+Bihar,Jamui,2025-09-06,70,935
+Bihar,Jamui,2025-09-07,15,245
+Bihar,Jamui,2025-09-08,53,847
+Bihar,Jamui,2025-09-09,54,806
+Bihar,Jamui,2025-09-10,60,819
+Bihar,Jamui,2025-09-11,45,689
+Bihar,Jamui,2025-09-12,55,805
+Bihar,Jamui,2025-09-13,36,519
+Bihar,Jamui,2025-09-14,12,221
+Bihar,Jamui,2025-09-15,45,655
+Bihar,Jamui,2025-09-16,39,781
+Bihar,Jamui,2025-09-17,16,400
+Bihar,Jamui,2025-09-18,49,842
+Bihar,Jamui,2025-09-19,43,1080
+Bihar,Jamui,2025-09-20,79,1804
+Bihar,Jamui,2025-10-13,57,696
+Bihar,Jamui,2025-10-15,103,1157
+Bihar,Jamui,2025-10-16,108,1051
+Bihar,Jamui,2025-10-17,60,814
+Bihar,Jamui,2025-10-18,84,815
+Bihar,Jamui,2025-10-19,86,631
+Bihar,Jamui,2025-10-20,16,189
+Bihar,Jamui,2025-10-21,21,122
+Bihar,Jamui,2025-10-22,3,18
+Bihar,Jamui,2025-10-23,13,73
+Bihar,Jamui,2025-10-24,48,666
+Bihar,Jamui,2025-10-25,40,600
+Bihar,Jamui,2025-10-26,39,469
+Bihar,Jamui,2025-10-27,20,256
+Bihar,Jamui,2025-10-28,21,149
+Bihar,Jamui,2025-10-29,42,253
+Bihar,Jamui,2025-10-30,33,302
+Bihar,Jamui,2025-10-31,67,1000
+Bihar,Jamui,2025-11-01,53,673
+Bihar,Jamui,2025-11-02,40,310
+Bihar,Jamui,2025-11-03,102,1154
+Bihar,Jamui,2025-11-04,61,812
+Bihar,Jamui,2025-11-05,66,653
+Bihar,Jamui,2025-11-06,62,621
+Bihar,Jamui,2025-11-07,27,508
+Bihar,Jamui,2025-11-08,18,345
+Bihar,Jamui,2025-11-09,10,134
+Bihar,Jamui,2025-11-10,23,348
+Bihar,Jamui,2025-11-11,13,115
+Bihar,Jamui,2025-11-12,15,354
+Bihar,Jamui,2025-11-13,86,629
+Bihar,Jamui,2025-11-14,59,397
+Bihar,Jamui,2025-11-15,45,540
+Bihar,Jamui,2025-11-16,15,125
+Bihar,Jamui,2025-11-17,28,584
+Bihar,Jamui,2025-11-18,26,296
+Bihar,Jamui,2025-11-19,39,373
+Bihar,Jamui,2025-11-25,8,70
+Bihar,Jamui,2025-11-26,24,297
+Bihar,Jamui,2025-11-27,43,612
+Bihar,Jamui,2025-11-28,31,477
+Bihar,Jamui,2025-11-29,25,312
+Bihar,Jamui,2025-12-01,61,505
+Bihar,Jamui,2025-12-02,33,443
+Bihar,Jamui,2025-12-03,33,445
+Bihar,Jamui,2025-12-04,34,445
+Bihar,Jamui,2025-12-05,30,431
+Bihar,Jamui,2025-12-06,47,495
+Bihar,Jamui,2025-12-07,9,174
+Bihar,Jamui,2025-12-08,83,843
+Bihar,Jamui,2025-12-09,40,542
+Bihar,Jamui,2025-12-10,33,469
+Bihar,Jamui,2025-12-11,28,505
+Bihar,Jamui,2025-12-12,45,522
+Bihar,Jamui,2025-12-13,38,442
+Bihar,Jamui,2025-12-14,8,190
+Bihar,Jamui,2025-12-15,19,508
+Bihar,Jamui,2025-12-16,47,614
+Bihar,Jamui,2025-12-17,32,473
+Bihar,Jamui,2025-12-18,26,349
+Bihar,Jamui,2025-12-19,33,284
+Bihar,Jamui,2025-12-20,31,232
+Bihar,Jamui,2025-12-21,8,45
+Bihar,Jamui,2025-12-22,29,238
+Bihar,Jamui,2025-12-23,33,424
+Bihar,Jamui,2025-12-24,32,402
+Bihar,Jamui,2025-12-25,14,207
+Bihar,Jamui,2025-12-26,30,375
+Bihar,Jamui,2025-12-27,12,273
+Bihar,Jamui,2025-12-28,30,237
+Bihar,Jamui,2025-12-29,29,288
+Bihar,Jamui,2025-12-31,12,355
+Bihar,Jamui,2026-01-01,11,168
+Bihar,Jamui,2026-01-02,22,188
+Bihar,Jamui,2026-01-03,5,87
+Bihar,Jehanabad,2025-03-01,460,4042
+Bihar,Jehanabad,2025-09-01,22,315
+Bihar,Jehanabad,2025-09-02,35,603
+Bihar,Jehanabad,2025-09-03,16,419
+Bihar,Jehanabad,2025-09-04,38,1011
+Bihar,Jehanabad,2025-09-05,29,568
+Bihar,Jehanabad,2025-09-06,46,860
+Bihar,Jehanabad,2025-09-07,17,248
+Bihar,Jehanabad,2025-09-08,33,790
+Bihar,Jehanabad,2025-09-09,59,913
+Bihar,Jehanabad,2025-09-10,53,841
+Bihar,Jehanabad,2025-09-11,42,792
+Bihar,Jehanabad,2025-09-12,46,846
+Bihar,Jehanabad,2025-09-13,46,541
+Bihar,Jehanabad,2025-09-14,14,195
+Bihar,Jehanabad,2025-09-15,43,622
+Bihar,Jehanabad,2025-09-16,44,536
+Bihar,Jehanabad,2025-09-17,30,370
+Bihar,Jehanabad,2025-09-18,40,668
+Bihar,Jehanabad,2025-09-19,45,770
+Bihar,Jehanabad,2025-09-20,50,735
+Bihar,Jehanabad,2025-10-13,24,290
+Bihar,Jehanabad,2025-10-15,68,601
+Bihar,Jehanabad,2025-10-16,93,556
+Bihar,Jehanabad,2025-10-17,74,519
+Bihar,Jehanabad,2025-10-18,39,385
+Bihar,Jehanabad,2025-10-19,52,300
+Bihar,Jehanabad,2025-10-20,11,56
+Bihar,Jehanabad,2025-10-21,15,87
+Bihar,Jehanabad,2025-10-22,1,17
+Bihar,Jehanabad,2025-10-23,4,38
+Bihar,Jehanabad,2025-10-24,58,481
+Bihar,Jehanabad,2025-10-25,42,303
+Bihar,Jehanabad,2025-10-26,41,361
+Bihar,Jehanabad,2025-10-27,13,172
+Bihar,Jehanabad,2025-10-28,21,130
+Bihar,Jehanabad,2025-10-29,37,242
+Bihar,Jehanabad,2025-10-30,22,254
+Bihar,Jehanabad,2025-10-31,64,607
+Bihar,Jehanabad,2025-11-01,54,435
+Bihar,Jehanabad,2025-11-02,37,184
+Bihar,Jehanabad,2025-11-03,69,665
+Bihar,Jehanabad,2025-11-04,40,613
+Bihar,Jehanabad,2025-11-05,71,459
+Bihar,Jehanabad,2025-11-06,43,413
+Bihar,Jehanabad,2025-11-07,24,373
+Bihar,Jehanabad,2025-11-08,28,331
+Bihar,Jehanabad,2025-11-09,13,101
+Bihar,Jehanabad,2025-11-10,21,232
+Bihar,Jehanabad,2025-11-11,5,66
+Bihar,Jehanabad,2025-11-12,26,233
+Bihar,Jehanabad,2025-11-13,56,428
+Bihar,Jehanabad,2025-11-14,38,202
+Bihar,Jehanabad,2025-11-15,40,295
+Bihar,Jehanabad,2025-11-16,12,131
+Bihar,Jehanabad,2025-11-17,29,305
+Bihar,Jehanabad,2025-11-18,28,230
+Bihar,Jehanabad,2025-11-19,29,455
+Bihar,Jehanabad,2025-11-25,12,56
+Bihar,Jehanabad,2025-11-26,11,147
+Bihar,Jehanabad,2025-11-27,32,332
+Bihar,Jehanabad,2025-11-28,26,266
+Bihar,Jehanabad,2025-11-29,27,176
+Bihar,Jehanabad,2025-12-01,49,451
+Bihar,Jehanabad,2025-12-02,37,344
+Bihar,Jehanabad,2025-12-03,29,269
+Bihar,Jehanabad,2025-12-04,25,280
+Bihar,Jehanabad,2025-12-05,23,298
+Bihar,Jehanabad,2025-12-06,31,278
+Bihar,Jehanabad,2025-12-07,11,104
+Bihar,Jehanabad,2025-12-08,52,353
+Bihar,Jehanabad,2025-12-09,39,343
+Bihar,Jehanabad,2025-12-10,32,311
+Bihar,Jehanabad,2025-12-11,36,334
+Bihar,Jehanabad,2025-12-12,34,319
+Bihar,Jehanabad,2025-12-13,22,206
+Bihar,Jehanabad,2025-12-14,15,107
+Bihar,Jehanabad,2025-12-15,23,282
+Bihar,Jehanabad,2025-12-16,37,456
+Bihar,Jehanabad,2025-12-17,31,319
+Bihar,Jehanabad,2025-12-18,33,303
+Bihar,Jehanabad,2025-12-19,29,231
+Bihar,Jehanabad,2025-12-20,28,150
+Bihar,Jehanabad,2025-12-21,14,70
+Bihar,Jehanabad,2025-12-22,31,264
+Bihar,Jehanabad,2025-12-23,33,281
+Bihar,Jehanabad,2025-12-24,15,198
+Bihar,Jehanabad,2025-12-25,13,102
+Bihar,Jehanabad,2025-12-26,34,248
+Bihar,Jehanabad,2025-12-27,9,157
+Bihar,Jehanabad,2025-12-28,28,148
+Bihar,Jehanabad,2025-12-29,15,137
+Bihar,Jehanabad,2025-12-31,20,229
+Bihar,Jehanabad,2026-01-01,17,184
+Bihar,Jehanabad,2026-01-02,27,211
+Bihar,Jehanabad,2026-01-03,6,76
+Bihar,Kaimur (Bhabua),2025-03-01,955,9936
+Bihar,Kaimur (Bhabua),2025-09-01,72,907
+Bihar,Kaimur (Bhabua),2025-09-02,111,904
+Bihar,Kaimur (Bhabua),2025-09-03,57,582
+Bihar,Kaimur (Bhabua),2025-09-04,89,1250
+Bihar,Kaimur (Bhabua),2025-09-05,30,632
+Bihar,Kaimur (Bhabua),2025-09-06,62,1215
+Bihar,Kaimur (Bhabua),2025-09-07,10,211
+Bihar,Kaimur (Bhabua),2025-09-08,69,1487
+Bihar,Kaimur (Bhabua),2025-09-09,77,1371
+Bihar,Kaimur (Bhabua),2025-09-10,75,1187
+Bihar,Kaimur (Bhabua),2025-09-11,71,1135
+Bihar,Kaimur (Bhabua),2025-09-12,48,1141
+Bihar,Kaimur (Bhabua),2025-09-13,39,675
+Bihar,Kaimur (Bhabua),2025-09-14,1,97
+Bihar,Kaimur (Bhabua),2025-09-15,62,695
+Bihar,Kaimur (Bhabua),2025-09-16,53,772
+Bihar,Kaimur (Bhabua),2025-09-17,53,549
+Bihar,Kaimur (Bhabua),2025-09-18,70,883
+Bihar,Kaimur (Bhabua),2025-09-19,58,923
+Bihar,Kaimur (Bhabua),2025-09-20,65,1269
+Bihar,Kaimur (Bhabua),2025-10-13,66,779
+Bihar,Kaimur (Bhabua),2025-10-15,148,1561
+Bihar,Kaimur (Bhabua),2025-10-16,120,1300
+Bihar,Kaimur (Bhabua),2025-10-17,78,953
+Bihar,Kaimur (Bhabua),2025-10-18,100,997
+Bihar,Kaimur (Bhabua),2025-10-19,70,572
+Bihar,Kaimur (Bhabua),2025-10-20,17,103
+Bihar,Kaimur (Bhabua),2025-10-21,26,132
+Bihar,Kaimur (Bhabua),2025-10-22,1,16
+Bihar,Kaimur (Bhabua),2025-10-23,11,48
+Bihar,Kaimur (Bhabua),2025-10-24,85,900
+Bihar,Kaimur (Bhabua),2025-10-25,111,940
+Bihar,Kaimur (Bhabua),2025-10-26,54,754
+Bihar,Kaimur (Bhabua),2025-10-27,31,282
+Bihar,Kaimur (Bhabua),2025-10-28,25,173
+Bihar,Kaimur (Bhabua),2025-10-29,72,351
+Bihar,Kaimur (Bhabua),2025-10-30,47,470
+Bihar,Kaimur (Bhabua),2025-10-31,50,703
+Bihar,Kaimur (Bhabua),2025-11-01,80,967
+Bihar,Kaimur (Bhabua),2025-11-02,19,213
+Bihar,Kaimur (Bhabua),2025-11-03,89,963
+Bihar,Kaimur (Bhabua),2025-11-04,60,925
+Bihar,Kaimur (Bhabua),2025-11-05,28,452
+Bihar,Kaimur (Bhabua),2025-11-06,84,781
+Bihar,Kaimur (Bhabua),2025-11-07,36,557
+Bihar,Kaimur (Bhabua),2025-11-08,34,401
+Bihar,Kaimur (Bhabua),2025-11-09,3,94
+Bihar,Kaimur (Bhabua),2025-11-10,19,405
+Bihar,Kaimur (Bhabua),2025-11-11,2,98
+Bihar,Kaimur (Bhabua),2025-11-12,30,469
+Bihar,Kaimur (Bhabua),2025-11-13,53,546
+Bihar,Kaimur (Bhabua),2025-11-14,33,301
+Bihar,Kaimur (Bhabua),2025-11-15,48,499
+Bihar,Kaimur (Bhabua),2025-11-16,18,153
+Bihar,Kaimur (Bhabua),2025-11-17,35,567
+Bihar,Kaimur (Bhabua),2025-11-18,14,263
+Bihar,Kaimur (Bhabua),2025-11-19,41,700
+Bihar,Kaimur (Bhabua),2025-11-25,8,93
+Bihar,Kaimur (Bhabua),2025-11-26,18,313
+Bihar,Kaimur (Bhabua),2025-11-27,40,480
+Bihar,Kaimur (Bhabua),2025-11-28,39,372
+Bihar,Kaimur (Bhabua),2025-11-29,34,288
+Bihar,Kaimur (Bhabua),2025-12-01,74,649
+Bihar,Kaimur (Bhabua),2025-12-02,42,502
+Bihar,Kaimur (Bhabua),2025-12-03,44,431
+Bihar,Kaimur (Bhabua),2025-12-04,41,445
+Bihar,Kaimur (Bhabua),2025-12-05,36,445
+Bihar,Kaimur (Bhabua),2025-12-06,35,408
+Bihar,Kaimur (Bhabua),2025-12-07,6,120
+Bihar,Kaimur (Bhabua),2025-12-08,45,653
+Bihar,Kaimur (Bhabua),2025-12-09,40,504
+Bihar,Kaimur (Bhabua),2025-12-10,35,541
+Bihar,Kaimur (Bhabua),2025-12-11,39,543
+Bihar,Kaimur (Bhabua),2025-12-12,41,472
+Bihar,Kaimur (Bhabua),2025-12-13,24,236
+Bihar,Kaimur (Bhabua),2025-12-14,3,88
+Bihar,Kaimur (Bhabua),2025-12-15,25,443
+Bihar,Kaimur (Bhabua),2025-12-16,37,565
+Bihar,Kaimur (Bhabua),2025-12-17,30,546
+Bihar,Kaimur (Bhabua),2025-12-18,17,327
+Bihar,Kaimur (Bhabua),2025-12-19,22,282
+Bihar,Kaimur (Bhabua),2025-12-20,21,300
+Bihar,Kaimur (Bhabua),2025-12-21,8,75
+Bihar,Kaimur (Bhabua),2025-12-22,34,466
+Bihar,Kaimur (Bhabua),2025-12-23,26,302
+Bihar,Kaimur (Bhabua),2025-12-24,34,511
+Bihar,Kaimur (Bhabua),2025-12-25,15,140
+Bihar,Kaimur (Bhabua),2025-12-26,52,504
+Bihar,Kaimur (Bhabua),2025-12-27,25,306
+Bihar,Kaimur (Bhabua),2025-12-28,23,154
+Bihar,Kaimur (Bhabua),2025-12-29,12,197
+Bihar,Kaimur (Bhabua),2025-12-31,19,369
+Bihar,Kaimur (Bhabua),2026-01-01,15,146
+Bihar,Kaimur (Bhabua),2026-01-02,37,209
+Bihar,Kaimur (Bhabua),2026-01-03,2,48
+Bihar,Kaimur- Bhabua,2026-01-01,0,1
+Bihar,Katihar,2025-03-01,2919,30410
+Bihar,Katihar,2025-09-01,85,1200
+Bihar,Katihar,2025-09-02,127,2231
+Bihar,Katihar,2025-09-03,63,1386
+Bihar,Katihar,2025-09-04,103,2226
+Bihar,Katihar,2025-09-05,61,1514
+Bihar,Katihar,2025-09-06,107,2272
+Bihar,Katihar,2025-09-07,49,961
+Bihar,Katihar,2025-09-08,113,2307
+Bihar,Katihar,2025-09-09,129,2453
+Bihar,Katihar,2025-09-10,128,2556
+Bihar,Katihar,2025-09-11,100,2186
+Bihar,Katihar,2025-09-12,111,2342
+Bihar,Katihar,2025-09-13,104,1948
+Bihar,Katihar,2025-09-14,32,700
+Bihar,Katihar,2025-09-15,69,1720
+Bihar,Katihar,2025-09-16,66,1689
+Bihar,Katihar,2025-09-17,60,1599
+Bihar,Katihar,2025-09-18,87,1592
+Bihar,Katihar,2025-09-19,108,2031
+Bihar,Katihar,2025-09-20,99,2131
+Bihar,Katihar,2025-10-13,72,2425
+Bihar,Katihar,2025-10-15,199,3838
+Bihar,Katihar,2025-10-16,217,4011
+Bihar,Katihar,2025-10-17,154,3472
+Bihar,Katihar,2025-10-18,136,2914
+Bihar,Katihar,2025-10-19,172,3244
+Bihar,Katihar,2025-10-20,39,694
+Bihar,Katihar,2025-10-21,64,663
+Bihar,Katihar,2025-10-22,5,53
+Bihar,Katihar,2025-10-23,10,99
+Bihar,Katihar,2025-10-24,138,2498
+Bihar,Katihar,2025-10-25,128,1676
+Bihar,Katihar,2025-10-26,124,2208
+Bihar,Katihar,2025-10-27,58,881
+Bihar,Katihar,2025-10-28,64,690
+Bihar,Katihar,2025-10-29,66,1092
+Bihar,Katihar,2025-10-30,70,990
+Bihar,Katihar,2025-10-31,134,2264
+Bihar,Katihar,2025-11-01,100,1785
+Bihar,Katihar,2025-11-02,60,877
+Bihar,Katihar,2025-11-03,158,2185
+Bihar,Katihar,2025-11-04,127,3336
+Bihar,Katihar,2025-11-05,116,2051
+Bihar,Katihar,2025-11-06,167,2481
+Bihar,Katihar,2025-11-07,68,1932
+Bihar,Katihar,2025-11-08,59,1464
+Bihar,Katihar,2025-11-09,23,666
+Bihar,Katihar,2025-11-10,53,1389
+Bihar,Katihar,2025-11-11,17,385
+Bihar,Katihar,2025-11-12,48,717
+Bihar,Katihar,2025-11-13,100,1037
+Bihar,Katihar,2025-11-14,78,855
+Bihar,Katihar,2025-11-15,72,1103
+Bihar,Katihar,2025-11-16,39,307
+Bihar,Katihar,2025-11-17,71,1260
+Bihar,Katihar,2025-11-18,41,750
+Bihar,Katihar,2025-11-19,67,1220
+Bihar,Katihar,2025-11-25,20,115
+Bihar,Katihar,2025-11-26,31,497
+Bihar,Katihar,2025-11-27,89,1390
+Bihar,Katihar,2025-11-28,49,1065
+Bihar,Katihar,2025-11-29,49,766
+Bihar,Katihar,2025-12-01,114,1189
+Bihar,Katihar,2025-12-02,70,1117
+Bihar,Katihar,2025-12-03,48,913
+Bihar,Katihar,2025-12-04,75,1091
+Bihar,Katihar,2025-12-05,47,996
+Bihar,Katihar,2025-12-06,65,1015
+Bihar,Katihar,2025-12-07,16,381
+Bihar,Katihar,2025-12-08,65,1232
+Bihar,Katihar,2025-12-09,71,1315
+Bihar,Katihar,2025-12-10,73,1298
+Bihar,Katihar,2025-12-11,62,1168
+Bihar,Katihar,2025-12-12,54,1073
+Bihar,Katihar,2025-12-13,49,700
+Bihar,Katihar,2025-12-14,18,257
+Bihar,Katihar,2025-12-15,63,1107
+Bihar,Katihar,2025-12-16,85,1302
+Bihar,Katihar,2025-12-17,61,1264
+Bihar,Katihar,2025-12-18,66,1142
+Bihar,Katihar,2025-12-19,37,699
+Bihar,Katihar,2025-12-20,36,620
+Bihar,Katihar,2025-12-21,26,297
+Bihar,Katihar,2025-12-22,68,919
+Bihar,Katihar,2025-12-23,43,830
+Bihar,Katihar,2025-12-24,40,692
+Bihar,Katihar,2025-12-25,28,403
+Bihar,Katihar,2025-12-26,38,773
+Bihar,Katihar,2025-12-27,32,649
+Bihar,Katihar,2025-12-28,56,532
+Bihar,Katihar,2025-12-29,27,367
+Bihar,Katihar,2025-12-31,51,1123
+Bihar,Katihar,2026-01-01,27,533
+Bihar,Katihar,2026-01-02,38,308
+Bihar,Katihar,2026-01-03,15,302
+Bihar,Khagaria,2025-03-01,1531,13597
+Bihar,Khagaria,2025-09-01,93,759
+Bihar,Khagaria,2025-09-02,74,762
+Bihar,Khagaria,2025-09-03,68,644
+Bihar,Khagaria,2025-09-04,54,786
+Bihar,Khagaria,2025-09-05,58,774
+Bihar,Khagaria,2025-09-06,95,1092
+Bihar,Khagaria,2025-09-07,28,557
+Bihar,Khagaria,2025-09-08,85,1284
+Bihar,Khagaria,2025-09-09,70,1460
+Bihar,Khagaria,2025-09-10,84,1480
+Bihar,Khagaria,2025-09-11,78,1478
+Bihar,Khagaria,2025-09-12,120,1596
+Bihar,Khagaria,2025-09-13,58,719
+Bihar,Khagaria,2025-09-14,13,371
+Bihar,Khagaria,2025-09-15,101,824
+Bihar,Khagaria,2025-09-16,72,878
+Bihar,Khagaria,2025-09-17,34,414
+Bihar,Khagaria,2025-09-18,58,775
+Bihar,Khagaria,2025-09-19,71,944
+Bihar,Khagaria,2025-09-20,108,1351
+Bihar,Khagaria,2025-10-13,36,528
+Bihar,Khagaria,2025-10-15,121,1295
+Bihar,Khagaria,2025-10-16,125,1038
+Bihar,Khagaria,2025-10-17,63,658
+Bihar,Khagaria,2025-10-18,69,565
+Bihar,Khagaria,2025-10-19,83,502
+Bihar,Khagaria,2025-10-20,23,134
+Bihar,Khagaria,2025-10-21,30,146
+Bihar,Khagaria,2025-10-22,9,17
+Bihar,Khagaria,2025-10-23,5,37
+Bihar,Khagaria,2025-10-24,67,694
+Bihar,Khagaria,2025-10-25,71,512
+Bihar,Khagaria,2025-10-26,54,429
+Bihar,Khagaria,2025-10-27,35,284
+Bihar,Khagaria,2025-10-28,22,111
+Bihar,Khagaria,2025-10-29,40,257
+Bihar,Khagaria,2025-10-30,54,325
+Bihar,Khagaria,2025-10-31,58,743
+Bihar,Khagaria,2025-11-01,66,544
+Bihar,Khagaria,2025-11-02,31,216
+Bihar,Khagaria,2025-11-03,83,608
+Bihar,Khagaria,2025-11-04,49,605
+Bihar,Khagaria,2025-11-05,45,583
+Bihar,Khagaria,2025-11-06,59,250
+Bihar,Khagaria,2025-11-07,34,529
+Bihar,Khagaria,2025-11-08,43,493
+Bihar,Khagaria,2025-11-09,12,186
+Bihar,Khagaria,2025-11-10,59,645
+Bihar,Khagaria,2025-11-11,50,511
+Bihar,Khagaria,2025-11-12,29,548
+Bihar,Khagaria,2025-11-13,71,598
+Bihar,Khagaria,2025-11-14,46,307
+Bihar,Khagaria,2025-11-15,48,473
+Bihar,Khagaria,2025-11-16,30,192
+Bihar,Khagaria,2025-11-17,63,587
+Bihar,Khagaria,2025-11-18,25,275
+Bihar,Khagaria,2025-11-19,75,642
+Bihar,Khagaria,2025-11-25,7,70
+Bihar,Khagaria,2025-11-26,15,158
+Bihar,Khagaria,2025-11-27,74,779
+Bihar,Khagaria,2025-11-28,59,594
+Bihar,Khagaria,2025-11-29,43,425
+Bihar,Khagaria,2025-12-01,101,768
+Bihar,Khagaria,2025-12-02,52,505
+Bihar,Khagaria,2025-12-03,53,511
+Bihar,Khagaria,2025-12-04,51,520
+Bihar,Khagaria,2025-12-05,48,456
+Bihar,Khagaria,2025-12-06,49,557
+Bihar,Khagaria,2025-12-07,20,177
+Bihar,Khagaria,2025-12-08,55,668
+Bihar,Khagaria,2025-12-09,72,675
+Bihar,Khagaria,2025-12-10,74,617
+Bihar,Khagaria,2025-12-11,52,672
+Bihar,Khagaria,2025-12-12,59,606
+Bihar,Khagaria,2025-12-13,43,459
+Bihar,Khagaria,2025-12-14,14,188
+Bihar,Khagaria,2025-12-15,38,484
+Bihar,Khagaria,2025-12-16,55,636
+Bihar,Khagaria,2025-12-17,49,669
+Bihar,Khagaria,2025-12-18,38,489
+Bihar,Khagaria,2025-12-19,51,452
+Bihar,Khagaria,2025-12-20,33,383
+Bihar,Khagaria,2025-12-21,6,113
+Bihar,Khagaria,2025-12-22,35,434
+Bihar,Khagaria,2025-12-23,34,340
+Bihar,Khagaria,2025-12-24,54,559
+Bihar,Khagaria,2025-12-25,10,203
+Bihar,Khagaria,2025-12-26,55,573
+Bihar,Khagaria,2025-12-27,26,349
+Bihar,Khagaria,2025-12-28,28,138
+Bihar,Khagaria,2025-12-29,23,111
+Bihar,Khagaria,2025-12-31,29,495
+Bihar,Khagaria,2026-01-01,14,205
+Bihar,Khagaria,2026-01-02,34,234
+Bihar,Khagaria,2026-01-03,12,104
+Bihar,Kishanganj,2025-03-01,331,6838
+Bihar,Kishanganj,2025-05-01,381,5692
+Bihar,Kishanganj,2025-07-01,391,5533
+Bihar,Kishanganj,2025-09-01,46,1568
+Bihar,Kishanganj,2025-09-02,76,2609
+Bihar,Kishanganj,2025-09-03,44,1617
+Bihar,Kishanganj,2025-09-04,66,3004
+Bihar,Kishanganj,2025-09-05,28,1065
+Bihar,Kishanganj,2025-09-06,68,3534
+Bihar,Kishanganj,2025-09-07,15,1875
+Bihar,Kishanganj,2025-09-08,48,5138
+Bihar,Kishanganj,2025-09-09,65,5282
+Bihar,Kishanganj,2025-09-10,67,4866
+Bihar,Kishanganj,2025-09-11,63,3776
+Bihar,Kishanganj,2025-09-12,72,3634
+Bihar,Kishanganj,2025-09-13,64,2544
+Bihar,Kishanganj,2025-09-14,13,689
+Bihar,Kishanganj,2025-09-15,67,2354
+Bihar,Kishanganj,2025-09-16,35,2184
+Bihar,Kishanganj,2025-09-17,50,1400
+Bihar,Kishanganj,2025-09-18,48,1459
+Bihar,Kishanganj,2025-09-19,54,1466
+Bihar,Kishanganj,2025-09-20,78,1959
+Bihar,Kishanganj,2025-10-13,49,1241
+Bihar,Kishanganj,2025-10-15,94,2508
+Bihar,Kishanganj,2025-10-16,108,2094
+Bihar,Kishanganj,2025-10-17,71,1519
+Bihar,Kishanganj,2025-10-18,65,1596
+Bihar,Kishanganj,2025-10-19,73,1382
+Bihar,Kishanganj,2025-10-20,23,803
+Bihar,Kishanganj,2025-10-21,18,374
+Bihar,Kishanganj,2025-10-22,4,28
+Bihar,Kishanganj,2025-10-23,8,90
+Bihar,Kishanganj,2025-10-24,70,1350
+Bihar,Kishanganj,2025-10-25,61,941
+Bihar,Kishanganj,2025-10-26,71,1625
+Bihar,Kishanganj,2025-10-27,39,644
+Bihar,Kishanganj,2025-10-28,20,405
+Bihar,Kishanganj,2025-10-29,67,1045
+Bihar,Kishanganj,2025-10-30,48,855
+Bihar,Kishanganj,2025-10-31,59,1123
+Bihar,Kishanganj,2025-11-01,42,732
+Bihar,Kishanganj,2025-11-02,33,450
+Bihar,Kishanganj,2025-11-03,57,1227
+Bihar,Kishanganj,2025-11-04,96,1714
+Bihar,Kishanganj,2025-11-05,73,1257
+Bihar,Kishanganj,2025-11-06,37,738
+Bihar,Kishanganj,2025-11-07,43,980
+Bihar,Kishanganj,2025-11-08,28,777
+Bihar,Kishanganj,2025-11-09,8,238
+Bihar,Kishanganj,2025-11-10,28,627
+Bihar,Kishanganj,2025-11-11,5,146
+Bihar,Kishanganj,2025-11-12,27,517
+Bihar,Kishanganj,2025-11-13,28,673
+Bihar,Kishanganj,2025-11-14,21,393
+Bihar,Kishanganj,2025-11-15,32,506
+Bihar,Kishanganj,2025-11-16,16,226
+Bihar,Kishanganj,2025-11-17,24,683
+Bihar,Kishanganj,2025-11-18,17,266
+Bihar,Kishanganj,2025-11-19,31,539
+Bihar,Kishanganj,2025-11-25,10,59
+Bihar,Kishanganj,2025-11-26,21,473
+Bihar,Kishanganj,2025-11-27,56,951
+Bihar,Kishanganj,2025-11-28,27,587
+Bihar,Kishanganj,2025-11-29,30,509
+Bihar,Kishanganj,2025-12-01,42,801
+Bihar,Kishanganj,2025-12-02,22,497
+Bihar,Kishanganj,2025-12-03,25,473
+Bihar,Kishanganj,2025-12-04,31,751
+Bihar,Kishanganj,2025-12-05,19,651
+Bihar,Kishanganj,2025-12-06,29,600
+Bihar,Kishanganj,2025-12-07,9,140
+Bihar,Kishanganj,2025-12-08,30,718
+Bihar,Kishanganj,2025-12-09,40,690
+Bihar,Kishanganj,2025-12-10,26,717
+Bihar,Kishanganj,2025-12-11,34,648
+Bihar,Kishanganj,2025-12-12,25,634
+Bihar,Kishanganj,2025-12-13,20,375
+Bihar,Kishanganj,2025-12-14,9,188
+Bihar,Kishanganj,2025-12-15,32,762
+Bihar,Kishanganj,2025-12-16,22,712
+Bihar,Kishanganj,2025-12-17,27,742
+Bihar,Kishanganj,2025-12-18,28,422
+Bihar,Kishanganj,2025-12-19,36,599
+Bihar,Kishanganj,2025-12-20,24,363
+Bihar,Kishanganj,2025-12-21,5,127
+Bihar,Kishanganj,2025-12-22,36,588
+Bihar,Kishanganj,2025-12-23,12,418
+Bihar,Kishanganj,2025-12-24,32,543
+Bihar,Kishanganj,2025-12-25,6,178
+Bihar,Kishanganj,2025-12-26,37,609
+Bihar,Kishanganj,2025-12-27,40,588
+Bihar,Kishanganj,2025-12-28,10,136
+Bihar,Kishanganj,2025-12-29,25,477
+Bihar,Kishanganj,2025-12-31,41,857
+Bihar,Kishanganj,2026-01-01,16,464
+Bihar,Kishanganj,2026-01-02,25,289
+Bihar,Kishanganj,2026-01-03,8,224
+Bihar,Lakhisarai,2025-03-01,660,6341
+Bihar,Lakhisarai,2025-09-01,29,576
+Bihar,Lakhisarai,2025-09-02,45,395
+Bihar,Lakhisarai,2025-09-03,49,580
+Bihar,Lakhisarai,2025-09-04,26,314
+Bihar,Lakhisarai,2025-09-05,11,249
+Bihar,Lakhisarai,2025-09-06,53,756
+Bihar,Lakhisarai,2025-09-07,10,132
+Bihar,Lakhisarai,2025-09-08,53,930
+Bihar,Lakhisarai,2025-09-09,51,798
+Bihar,Lakhisarai,2025-09-10,45,927
+Bihar,Lakhisarai,2025-09-11,54,685
+Bihar,Lakhisarai,2025-09-12,42,871
+Bihar,Lakhisarai,2025-09-13,46,503
+Bihar,Lakhisarai,2025-09-14,6,103
+Bihar,Lakhisarai,2025-09-15,27,541
+Bihar,Lakhisarai,2025-09-16,24,605
+Bihar,Lakhisarai,2025-09-17,21,397
+Bihar,Lakhisarai,2025-09-18,39,614
+Bihar,Lakhisarai,2025-09-19,53,798
+Bihar,Lakhisarai,2025-09-20,57,1015
+Bihar,Lakhisarai,2025-10-13,40,474
+Bihar,Lakhisarai,2025-10-15,97,885
+Bihar,Lakhisarai,2025-10-16,63,786
+Bihar,Lakhisarai,2025-10-17,49,760
+Bihar,Lakhisarai,2025-10-18,34,528
+Bihar,Lakhisarai,2025-10-19,64,479
+Bihar,Lakhisarai,2025-10-20,17,76
+Bihar,Lakhisarai,2025-10-21,13,59
+Bihar,Lakhisarai,2025-10-22,1,9
+Bihar,Lakhisarai,2025-10-23,5,57
+Bihar,Lakhisarai,2025-10-24,37,480
+Bihar,Lakhisarai,2025-10-25,37,383
+Bihar,Lakhisarai,2025-10-26,34,343
+Bihar,Lakhisarai,2025-10-27,18,163
+Bihar,Lakhisarai,2025-10-28,11,88
+Bihar,Lakhisarai,2025-10-29,31,155
+Bihar,Lakhisarai,2025-10-30,26,293
+Bihar,Lakhisarai,2025-10-31,39,587
+Bihar,Lakhisarai,2025-11-01,30,412
+Bihar,Lakhisarai,2025-11-02,13,129
+Bihar,Lakhisarai,2025-11-03,63,462
+Bihar,Lakhisarai,2025-11-04,40,565
+Bihar,Lakhisarai,2025-11-05,28,292
+Bihar,Lakhisarai,2025-11-06,24,154
+Bihar,Lakhisarai,2025-11-07,27,458
+Bihar,Lakhisarai,2025-11-08,31,414
+Bihar,Lakhisarai,2025-11-09,8,80
+Bihar,Lakhisarai,2025-11-10,31,457
+Bihar,Lakhisarai,2025-11-11,29,430
+Bihar,Lakhisarai,2025-11-12,36,374
+Bihar,Lakhisarai,2025-11-13,47,605
+Bihar,Lakhisarai,2025-11-14,41,335
+Bihar,Lakhisarai,2025-11-15,38,430
+Bihar,Lakhisarai,2025-11-16,8,73
+Bihar,Lakhisarai,2025-11-17,29,437
+Bihar,Lakhisarai,2025-11-18,25,343
+Bihar,Lakhisarai,2025-11-19,63,608
+Bihar,Lakhisarai,2025-11-25,1,21
+Bihar,Lakhisarai,2025-11-26,18,255
+Bihar,Lakhisarai,2025-11-27,31,484
+Bihar,Lakhisarai,2025-11-28,42,404
+Bihar,Lakhisarai,2025-11-29,30,290
+Bihar,Lakhisarai,2025-12-01,28,281
+Bihar,Lakhisarai,2025-12-02,32,307
+Bihar,Lakhisarai,2025-12-03,24,318
+Bihar,Lakhisarai,2025-12-04,33,332
+Bihar,Lakhisarai,2025-12-05,33,349
+Bihar,Lakhisarai,2025-12-06,33,385
+Bihar,Lakhisarai,2025-12-07,4,89
+Bihar,Lakhisarai,2025-12-08,41,490
+Bihar,Lakhisarai,2025-12-09,23,470
+Bihar,Lakhisarai,2025-12-10,30,408
+Bihar,Lakhisarai,2025-12-11,36,446
+Bihar,Lakhisarai,2025-12-12,29,386
+Bihar,Lakhisarai,2025-12-13,15,288
+Bihar,Lakhisarai,2025-12-14,5,35
+Bihar,Lakhisarai,2025-12-15,25,289
+Bihar,Lakhisarai,2025-12-16,30,386
+Bihar,Lakhisarai,2025-12-17,19,358
+Bihar,Lakhisarai,2025-12-18,7,218
+Bihar,Lakhisarai,2025-12-19,19,218
+Bihar,Lakhisarai,2025-12-20,13,213
+Bihar,Lakhisarai,2025-12-21,4,30
+Bihar,Lakhisarai,2025-12-22,32,255
+Bihar,Lakhisarai,2025-12-23,41,296
+Bihar,Lakhisarai,2025-12-24,34,341
+Bihar,Lakhisarai,2025-12-25,10,114
+Bihar,Lakhisarai,2025-12-26,22,368
+Bihar,Lakhisarai,2025-12-27,4,83
+Bihar,Lakhisarai,2025-12-28,24,115
+Bihar,Lakhisarai,2025-12-29,4,86
+Bihar,Lakhisarai,2025-12-31,8,170
+Bihar,Lakhisarai,2026-01-01,7,118
+Bihar,Lakhisarai,2026-01-02,20,119
+Bihar,Lakhisarai,2026-01-03,2,52
+Bihar,Madhepura,2025-03-01,1247,15890
+Bihar,Madhepura,2025-09-01,25,371
+Bihar,Madhepura,2025-09-02,44,634
+Bihar,Madhepura,2025-09-03,55,793
+Bihar,Madhepura,2025-09-04,56,852
+Bihar,Madhepura,2025-09-05,39,760
+Bihar,Madhepura,2025-09-06,72,1465
+Bihar,Madhepura,2025-09-07,28,438
+Bihar,Madhepura,2025-09-08,70,1362
+Bihar,Madhepura,2025-09-09,64,1533
+Bihar,Madhepura,2025-09-10,84,1429
+Bihar,Madhepura,2025-09-11,58,1064
+Bihar,Madhepura,2025-09-12,65,1156
+Bihar,Madhepura,2025-09-13,56,781
+Bihar,Madhepura,2025-09-14,18,260
+Bihar,Madhepura,2025-09-15,64,774
+Bihar,Madhepura,2025-09-16,41,628
+Bihar,Madhepura,2025-09-17,30,448
+Bihar,Madhepura,2025-09-18,57,779
+Bihar,Madhepura,2025-09-19,62,950
+Bihar,Madhepura,2025-09-20,72,1148
+Bihar,Madhepura,2025-10-13,51,912
+Bihar,Madhepura,2025-10-15,100,1666
+Bihar,Madhepura,2025-10-16,101,1646
+Bihar,Madhepura,2025-10-17,79,1456
+Bihar,Madhepura,2025-10-18,102,1373
+Bihar,Madhepura,2025-10-19,89,1040
+Bihar,Madhepura,2025-10-20,27,198
+Bihar,Madhepura,2025-10-21,27,238
+Bihar,Madhepura,2025-10-22,2,17
+Bihar,Madhepura,2025-10-23,9,68
+Bihar,Madhepura,2025-10-24,103,1124
+Bihar,Madhepura,2025-10-25,75,919
+Bihar,Madhepura,2025-10-26,77,1237
+Bihar,Madhepura,2025-10-27,51,519
+Bihar,Madhepura,2025-10-28,26,220
+Bihar,Madhepura,2025-10-29,55,398
+Bihar,Madhepura,2025-10-30,50,520
+Bihar,Madhepura,2025-10-31,66,1020
+Bihar,Madhepura,2025-11-01,70,841
+Bihar,Madhepura,2025-11-02,27,367
+Bihar,Madhepura,2025-11-03,93,1150
+Bihar,Madhepura,2025-11-04,79,1364
+Bihar,Madhepura,2025-11-05,49,767
+Bihar,Madhepura,2025-11-06,48,351
+Bihar,Madhepura,2025-11-07,22,700
+Bihar,Madhepura,2025-11-08,23,732
+Bihar,Madhepura,2025-11-09,21,214
+Bihar,Madhepura,2025-11-10,40,652
+Bihar,Madhepura,2025-11-11,30,618
+Bihar,Madhepura,2025-11-12,33,487
+Bihar,Madhepura,2025-11-13,59,599
+Bihar,Madhepura,2025-11-14,53,471
+Bihar,Madhepura,2025-11-15,54,563
+Bihar,Madhepura,2025-11-16,23,187
+Bihar,Madhepura,2025-11-17,50,791
+Bihar,Madhepura,2025-11-18,23,381
+Bihar,Madhepura,2025-11-19,36,444
+Bihar,Madhepura,2025-11-25,5,43
+Bihar,Madhepura,2025-11-26,13,272
+Bihar,Madhepura,2025-11-27,63,957
+Bihar,Madhepura,2025-11-28,41,577
+Bihar,Madhepura,2025-11-29,36,438
+Bihar,Madhepura,2025-12-01,62,876
+Bihar,Madhepura,2025-12-02,37,556
+Bihar,Madhepura,2025-12-03,37,504
+Bihar,Madhepura,2025-12-04,41,773
+Bihar,Madhepura,2025-12-05,40,659
+Bihar,Madhepura,2025-12-06,38,679
+Bihar,Madhepura,2025-12-07,25,281
+Bihar,Madhepura,2025-12-08,54,719
+Bihar,Madhepura,2025-12-09,59,760
+Bihar,Madhepura,2025-12-10,55,779
+Bihar,Madhepura,2025-12-11,48,785
+Bihar,Madhepura,2025-12-12,54,805
+Bihar,Madhepura,2025-12-13,44,613
+Bihar,Madhepura,2025-12-14,12,188
+Bihar,Madhepura,2025-12-15,39,627
+Bihar,Madhepura,2025-12-16,35,857
+Bihar,Madhepura,2025-12-17,55,845
+Bihar,Madhepura,2025-12-18,46,748
+Bihar,Madhepura,2025-12-19,25,447
+Bihar,Madhepura,2025-12-20,43,455
+Bihar,Madhepura,2025-12-21,14,132
+Bihar,Madhepura,2025-12-22,30,276
+Bihar,Madhepura,2025-12-23,42,551
+Bihar,Madhepura,2025-12-24,33,486
+Bihar,Madhepura,2025-12-25,15,282
+Bihar,Madhepura,2025-12-26,30,752
+Bihar,Madhepura,2025-12-27,20,492
+Bihar,Madhepura,2025-12-28,27,175
+Bihar,Madhepura,2025-12-29,46,293
+Bihar,Madhepura,2025-12-31,18,422
+Bihar,Madhepura,2026-01-01,15,285
+Bihar,Madhepura,2026-01-02,23,166
+Bihar,Madhepura,2026-01-03,6,107
+Bihar,Madhubani,2025-03-01,2570,31798
+Bihar,Madhubani,2025-09-01,89,1072
+Bihar,Madhubani,2025-09-02,175,1472
+Bihar,Madhubani,2025-09-03,82,952
+Bihar,Madhubani,2025-09-04,131,1614
+Bihar,Madhubani,2025-09-05,82,1295
+Bihar,Madhubani,2025-09-06,118,2124
+Bihar,Madhubani,2025-09-07,36,1001
+Bihar,Madhubani,2025-09-08,135,2628
+Bihar,Madhubani,2025-09-09,145,2617
+Bihar,Madhubani,2025-09-10,115,2267
+Bihar,Madhubani,2025-09-11,118,2004
+Bihar,Madhubani,2025-09-12,135,2119
+Bihar,Madhubani,2025-09-13,70,1377
+Bihar,Madhubani,2025-09-14,26,541
+Bihar,Madhubani,2025-09-15,129,1492
+Bihar,Madhubani,2025-09-16,78,1218
+Bihar,Madhubani,2025-09-17,85,1066
+Bihar,Madhubani,2025-09-18,102,1600
+Bihar,Madhubani,2025-09-19,112,1777
+Bihar,Madhubani,2025-09-20,94,1827
+Bihar,Madhubani,2025-10-13,91,1578
+Bihar,Madhubani,2025-10-15,239,3096
+Bihar,Madhubani,2025-10-16,191,2506
+Bihar,Madhubani,2025-10-17,144,2216
+Bihar,Madhubani,2025-10-18,171,2142
+Bihar,Madhubani,2025-10-19,159,1566
+Bihar,Madhubani,2025-10-20,51,483
+Bihar,Madhubani,2025-10-21,75,444
+Bihar,Madhubani,2025-10-22,12,38
+Bihar,Madhubani,2025-10-23,16,129
+Bihar,Madhubani,2025-10-24,185,2052
+Bihar,Madhubani,2025-10-25,80,1282
+Bihar,Madhubani,2025-10-26,142,1909
+Bihar,Madhubani,2025-10-27,65,702
+Bihar,Madhubani,2025-10-28,53,474
+Bihar,Madhubani,2025-10-29,80,907
+Bihar,Madhubani,2025-10-30,136,1255
+Bihar,Madhubani,2025-10-31,182,2002
+Bihar,Madhubani,2025-11-01,129,1890
+Bihar,Madhubani,2025-11-02,79,800
+Bihar,Madhubani,2025-11-03,196,2545
+Bihar,Madhubani,2025-11-04,166,2765
+Bihar,Madhubani,2025-11-05,131,2138
+Bihar,Madhubani,2025-11-06,133,1740
+Bihar,Madhubani,2025-11-07,89,1842
+Bihar,Madhubani,2025-11-08,75,1545
+Bihar,Madhubani,2025-11-09,19,551
+Bihar,Madhubani,2025-11-10,61,1327
+Bihar,Madhubani,2025-11-11,19,415
+Bihar,Madhubani,2025-11-12,56,1407
+Bihar,Madhubani,2025-11-13,140,1512
+Bihar,Madhubani,2025-11-14,133,1144
+Bihar,Madhubani,2025-11-15,150,1644
+Bihar,Madhubani,2025-11-16,48,483
+Bihar,Madhubani,2025-11-17,155,1702
+Bihar,Madhubani,2025-11-18,80,1081
+Bihar,Madhubani,2025-11-19,113,1550
+Bihar,Madhubani,2025-11-25,21,188
+Bihar,Madhubani,2025-11-26,34,675
+Bihar,Madhubani,2025-11-27,111,1580
+Bihar,Madhubani,2025-11-28,107,1254
+Bihar,Madhubani,2025-11-29,88,1063
+Bihar,Madhubani,2025-12-01,147,2031
+Bihar,Madhubani,2025-12-02,96,1342
+Bihar,Madhubani,2025-12-03,92,1347
+Bihar,Madhubani,2025-12-04,87,1578
+Bihar,Madhubani,2025-12-05,88,1321
+Bihar,Madhubani,2025-12-06,104,1462
+Bihar,Madhubani,2025-12-07,33,472
+Bihar,Madhubani,2025-12-08,101,1516
+Bihar,Madhubani,2025-12-09,118,1538
+Bihar,Madhubani,2025-12-10,106,1536
+Bihar,Madhubani,2025-12-11,99,1366
+Bihar,Madhubani,2025-12-12,84,1352
+Bihar,Madhubani,2025-12-13,58,1001
+Bihar,Madhubani,2025-12-14,27,337
+Bihar,Madhubani,2025-12-15,76,1107
+Bihar,Madhubani,2025-12-16,96,1428
+Bihar,Madhubani,2025-12-17,84,1232
+Bihar,Madhubani,2025-12-18,83,1038
+Bihar,Madhubani,2025-12-19,41,756
+Bihar,Madhubani,2025-12-20,60,648
+Bihar,Madhubani,2025-12-21,17,285
+Bihar,Madhubani,2025-12-22,49,577
+Bihar,Madhubani,2025-12-23,57,996
+Bihar,Madhubani,2025-12-24,73,1082
+Bihar,Madhubani,2025-12-25,22,523
+Bihar,Madhubani,2025-12-26,67,1157
+Bihar,Madhubani,2025-12-27,30,605
+Bihar,Madhubani,2025-12-28,55,521
+Bihar,Madhubani,2025-12-29,61,842
+Bihar,Madhubani,2025-12-31,44,1075
+Bihar,Madhubani,2026-01-01,31,560
+Bihar,Madhubani,2026-01-02,74,595
+Bihar,Madhubani,2026-01-03,9,262
+Bihar,Monghyr,2025-09-01,0,5
+Bihar,Monghyr,2025-09-02,0,1
+Bihar,Monghyr,2025-09-03,0,4
+Bihar,Monghyr,2025-09-04,0,2
+Bihar,Monghyr,2025-09-05,0,1
+Bihar,Monghyr,2025-09-06,0,2
+Bihar,Monghyr,2025-09-08,0,11
+Bihar,Monghyr,2025-09-09,0,3
+Bihar,Monghyr,2025-09-10,0,4
+Bihar,Monghyr,2025-09-11,0,10
+Bihar,Monghyr,2025-09-12,0,6
+Bihar,Monghyr,2025-09-13,0,3
+Bihar,Monghyr,2025-09-15,0,11
+Bihar,Monghyr,2025-09-16,0,5
+Bihar,Monghyr,2025-09-17,0,3
+Bihar,Monghyr,2025-09-18,0,4
+Bihar,Monghyr,2025-09-19,0,3
+Bihar,Monghyr,2025-09-20,0,4
+Bihar,Monghyr,2025-10-13,0,1
+Bihar,Monghyr,2025-10-15,0,8
+Bihar,Monghyr,2025-10-17,0,6
+Bihar,Monghyr,2025-10-18,0,4
+Bihar,Monghyr,2025-10-19,0,2
+Bihar,Monghyr,2025-10-20,0,1
+Bihar,Monghyr,2025-10-24,0,5
+Bihar,Monghyr,2025-10-26,0,2
+Bihar,Monghyr,2025-10-27,2,2
+Bihar,Monghyr,2025-10-30,0,2
+Bihar,Monghyr,2025-10-31,0,5
+Bihar,Monghyr,2025-11-01,0,5
+Bihar,Monghyr,2025-11-02,0,2
+Bihar,Monghyr,2025-11-03,0,4
+Bihar,Monghyr,2025-11-04,0,6
+Bihar,Monghyr,2025-11-05,0,2
+Bihar,Monghyr,2025-11-06,0,1
+Bihar,Monghyr,2025-11-07,1,0
+Bihar,Monghyr,2025-11-08,0,2
+Bihar,Monghyr,2025-11-10,0,6
+Bihar,Monghyr,2025-11-11,0,5
+Bihar,Monghyr,2025-11-12,0,4
+Bihar,Monghyr,2025-11-13,0,4
+Bihar,Monghyr,2025-11-14,0,2
+Bihar,Monghyr,2025-11-15,0,1
+Bihar,Monghyr,2025-11-17,0,5
+Bihar,Monghyr,2025-11-18,0,6
+Bihar,Monghyr,2025-11-19,0,4
+Bihar,Monghyr,2025-11-26,0,4
+Bihar,Monghyr,2025-11-27,0,2
+Bihar,Monghyr,2025-11-28,0,2
+Bihar,Monghyr,2025-11-29,0,3
+Bihar,Monghyr,2025-12-01,0,4
+Bihar,Monghyr,2025-12-02,0,4
+Bihar,Monghyr,2025-12-03,0,4
+Bihar,Monghyr,2025-12-04,0,7
+Bihar,Monghyr,2025-12-05,0,4
+Bihar,Monghyr,2025-12-06,0,5
+Bihar,Monghyr,2025-12-07,0,3
+Bihar,Monghyr,2025-12-08,0,3
+Bihar,Monghyr,2025-12-09,0,7
+Bihar,Monghyr,2025-12-10,0,3
+Bihar,Monghyr,2025-12-11,0,5
+Bihar,Monghyr,2025-12-12,0,6
+Bihar,Monghyr,2025-12-13,0,2
+Bihar,Monghyr,2025-12-14,0,5
+Bihar,Monghyr,2025-12-15,0,5
+Bihar,Monghyr,2025-12-16,0,3
+Bihar,Monghyr,2025-12-17,1,5
+Bihar,Monghyr,2025-12-18,0,2
+Bihar,Monghyr,2025-12-19,0,2
+Bihar,Monghyr,2025-12-20,0,3
+Bihar,Monghyr,2025-12-21,0,4
+Bihar,Monghyr,2025-12-22,0,1
+Bihar,Monghyr,2025-12-23,0,1
+Bihar,Monghyr,2025-12-25,0,4
+Bihar,Monghyr,2025-12-26,0,3
+Bihar,Monghyr,2025-12-27,0,5
+Bihar,Monghyr,2025-12-28,0,2
+Bihar,Monghyr,2025-12-29,0,2
+Bihar,Monghyr,2025-12-31,0,4
+Bihar,Monghyr,2026-01-01,0,4
+Bihar,Monghyr,2026-01-02,0,1
+Bihar,Munger,2025-03-01,642,7913
+Bihar,Munger,2025-09-01,31,691
+Bihar,Munger,2025-09-02,28,505
+Bihar,Munger,2025-09-03,30,534
+Bihar,Munger,2025-09-04,37,457
+Bihar,Munger,2025-09-05,16,440
+Bihar,Munger,2025-09-06,49,591
+Bihar,Munger,2025-09-07,16,205
+Bihar,Munger,2025-09-08,57,805
+Bihar,Munger,2025-09-09,66,749
+Bihar,Munger,2025-09-10,50,779
+Bihar,Munger,2025-09-11,44,651
+Bihar,Munger,2025-09-12,41,727
+Bihar,Munger,2025-09-13,25,420
+Bihar,Munger,2025-09-14,11,126
+Bihar,Munger,2025-09-15,47,568
+Bihar,Munger,2025-09-16,31,604
+Bihar,Munger,2025-09-17,17,282
+Bihar,Munger,2025-09-18,43,747
+Bihar,Munger,2025-09-19,31,789
+Bihar,Munger,2025-09-20,40,666
+Bihar,Munger,2025-10-13,34,459
+Bihar,Munger,2025-10-15,68,864
+Bihar,Munger,2025-10-16,75,738
+Bihar,Munger,2025-10-17,36,551
+Bihar,Munger,2025-10-18,33,521
+Bihar,Munger,2025-10-19,34,476
+Bihar,Munger,2025-10-20,7,69
+Bihar,Munger,2025-10-21,5,49
+Bihar,Munger,2025-10-22,1,11
+Bihar,Munger,2025-10-23,6,25
+Bihar,Munger,2025-10-24,34,481
+Bihar,Munger,2025-10-25,42,324
+Bihar,Munger,2025-10-26,30,314
+Bihar,Munger,2025-10-27,18,141
+Bihar,Munger,2025-10-28,6,78
+Bihar,Munger,2025-10-29,21,152
+Bihar,Munger,2025-10-30,33,334
+Bihar,Munger,2025-10-31,42,486
+Bihar,Munger,2025-11-01,31,334
+Bihar,Munger,2025-11-02,23,131
+Bihar,Munger,2025-11-03,40,535
+Bihar,Munger,2025-11-04,53,717
+Bihar,Munger,2025-11-05,39,369
+Bihar,Munger,2025-11-06,23,197
+Bihar,Munger,2025-11-07,20,383
+Bihar,Munger,2025-11-08,24,335
+Bihar,Munger,2025-11-09,5,104
+Bihar,Munger,2025-11-10,26,482
+Bihar,Munger,2025-11-11,34,426
+Bihar,Munger,2025-11-12,23,433
+Bihar,Munger,2025-11-13,48,544
+Bihar,Munger,2025-11-14,33,262
+Bihar,Munger,2025-11-15,44,427
+Bihar,Munger,2025-11-16,12,94
+Bihar,Munger,2025-11-17,32,424
+Bihar,Munger,2025-11-18,22,258
+Bihar,Munger,2025-11-19,32,456
+Bihar,Munger,2025-11-25,7,54
+Bihar,Munger,2025-11-26,14,192
+Bihar,Munger,2025-11-27,32,431
+Bihar,Munger,2025-11-28,27,330
+Bihar,Munger,2025-11-29,34,320
+Bihar,Munger,2025-12-01,46,506
+Bihar,Munger,2025-12-02,27,361
+Bihar,Munger,2025-12-03,20,362
+Bihar,Munger,2025-12-04,19,416
+Bihar,Munger,2025-12-05,26,348
+Bihar,Munger,2025-12-06,18,386
+Bihar,Munger,2025-12-07,8,132
+Bihar,Munger,2025-12-08,41,553
+Bihar,Munger,2025-12-09,39,462
+Bihar,Munger,2025-12-10,29,492
+Bihar,Munger,2025-12-11,34,427
+Bihar,Munger,2025-12-12,35,518
+Bihar,Munger,2025-12-13,14,237
+Bihar,Munger,2025-12-14,6,73
+Bihar,Munger,2025-12-15,22,311
+Bihar,Munger,2025-12-16,51,535
+Bihar,Munger,2025-12-17,32,462
+Bihar,Munger,2025-12-18,25,393
+Bihar,Munger,2025-12-19,37,235
+Bihar,Munger,2025-12-20,20,192
+Bihar,Munger,2025-12-21,3,31
+Bihar,Munger,2025-12-22,28,315
+Bihar,Munger,2025-12-23,20,266
+Bihar,Munger,2025-12-24,13,264
+Bihar,Munger,2025-12-25,1,124
+Bihar,Munger,2025-12-26,22,247
+Bihar,Munger,2025-12-27,13,198
+Bihar,Munger,2025-12-28,18,125
+Bihar,Munger,2025-12-29,23,209
+Bihar,Munger,2025-12-31,10,207
+Bihar,Munger,2026-01-01,11,179
+Bihar,Munger,2026-01-02,19,226
+Bihar,Munger,2026-01-03,3,76
+Bihar,Muzaffarpur,2025-03-01,3297,31821
+Bihar,Muzaffarpur,2025-09-01,158,1700
+Bihar,Muzaffarpur,2025-09-02,149,1533
+Bihar,Muzaffarpur,2025-09-03,120,1373
+Bihar,Muzaffarpur,2025-09-04,149,1841
+Bihar,Muzaffarpur,2025-09-05,92,1618
+Bihar,Muzaffarpur,2025-09-06,157,2083
+Bihar,Muzaffarpur,2025-09-07,49,1095
+Bihar,Muzaffarpur,2025-09-08,185,2554
+Bihar,Muzaffarpur,2025-09-09,177,2947
+Bihar,Muzaffarpur,2025-09-10,175,2947
+Bihar,Muzaffarpur,2025-09-11,134,2636
+Bihar,Muzaffarpur,2025-09-12,215,3034
+Bihar,Muzaffarpur,2025-09-13,98,1624
+Bihar,Muzaffarpur,2025-09-14,74,1067
+Bihar,Muzaffarpur,2025-09-15,159,2268
+Bihar,Muzaffarpur,2025-09-16,125,2213
+Bihar,Muzaffarpur,2025-09-17,64,1262
+Bihar,Muzaffarpur,2025-09-18,151,2450
+Bihar,Muzaffarpur,2025-09-19,112,2108
+Bihar,Muzaffarpur,2025-09-20,158,3270
+Bihar,Muzaffarpur,2025-10-13,51,1427
+Bihar,Muzaffarpur,2025-10-15,254,3396
+Bihar,Muzaffarpur,2025-10-16,226,3029
+Bihar,Muzaffarpur,2025-10-17,141,2460
+Bihar,Muzaffarpur,2025-10-18,161,2231
+Bihar,Muzaffarpur,2025-10-19,205,2141
+Bihar,Muzaffarpur,2025-10-20,45,583
+Bihar,Muzaffarpur,2025-10-21,48,408
+Bihar,Muzaffarpur,2025-10-22,3,46
+Bihar,Muzaffarpur,2025-10-23,25,151
+Bihar,Muzaffarpur,2025-10-24,191,2731
+Bihar,Muzaffarpur,2025-10-25,134,1758
+Bihar,Muzaffarpur,2025-10-26,125,1973
+Bihar,Muzaffarpur,2025-10-27,83,846
+Bihar,Muzaffarpur,2025-10-28,43,381
+Bihar,Muzaffarpur,2025-10-29,94,783
+Bihar,Muzaffarpur,2025-10-30,121,1220
+Bihar,Muzaffarpur,2025-10-31,150,2141
+Bihar,Muzaffarpur,2025-11-01,168,2409
+Bihar,Muzaffarpur,2025-11-02,81,1324
+Bihar,Muzaffarpur,2025-11-03,182,2653
+Bihar,Muzaffarpur,2025-11-04,128,2822
+Bihar,Muzaffarpur,2025-11-05,149,2001
+Bihar,Muzaffarpur,2025-11-06,135,1048
+Bihar,Muzaffarpur,2025-11-07,83,1721
+Bihar,Muzaffarpur,2025-11-08,80,1573
+Bihar,Muzaffarpur,2025-11-09,31,859
+Bihar,Muzaffarpur,2025-11-10,91,1792
+Bihar,Muzaffarpur,2025-11-11,101,1826
+Bihar,Muzaffarpur,2025-11-12,79,1450
+Bihar,Muzaffarpur,2025-11-13,139,1685
+Bihar,Muzaffarpur,2025-11-14,133,1288
+Bihar,Muzaffarpur,2025-11-15,119,1533
+Bihar,Muzaffarpur,2025-11-16,58,534
+Bihar,Muzaffarpur,2025-11-17,168,1914
+Bihar,Muzaffarpur,2025-11-18,83,1105
+Bihar,Muzaffarpur,2025-11-19,124,1853
+Bihar,Muzaffarpur,2025-11-25,32,226
+Bihar,Muzaffarpur,2025-11-26,52,734
+Bihar,Muzaffarpur,2025-11-27,124,2006
+Bihar,Muzaffarpur,2025-11-28,80,1329
+Bihar,Muzaffarpur,2025-11-29,96,1319
+Bihar,Muzaffarpur,2025-12-01,227,2514
+Bihar,Muzaffarpur,2025-12-02,123,1961
+Bihar,Muzaffarpur,2025-12-03,106,1496
+Bihar,Muzaffarpur,2025-12-04,83,1651
+Bihar,Muzaffarpur,2025-12-05,83,1447
+Bihar,Muzaffarpur,2025-12-06,109,1539
+Bihar,Muzaffarpur,2025-12-07,48,748
+Bihar,Muzaffarpur,2025-12-08,89,1684
+Bihar,Muzaffarpur,2025-12-09,116,1776
+Bihar,Muzaffarpur,2025-12-10,99,1537
+Bihar,Muzaffarpur,2025-12-11,115,1667
+Bihar,Muzaffarpur,2025-12-12,102,1565
+Bihar,Muzaffarpur,2025-12-13,79,1151
+Bihar,Muzaffarpur,2025-12-14,33,548
+Bihar,Muzaffarpur,2025-12-15,76,1312
+Bihar,Muzaffarpur,2025-12-16,110,1858
+Bihar,Muzaffarpur,2025-12-17,82,1581
+Bihar,Muzaffarpur,2025-12-18,78,1316
+Bihar,Muzaffarpur,2025-12-19,87,951
+Bihar,Muzaffarpur,2025-12-20,70,718
+Bihar,Muzaffarpur,2025-12-21,31,438
+Bihar,Muzaffarpur,2025-12-22,47,841
+Bihar,Muzaffarpur,2025-12-23,76,1177
+Bihar,Muzaffarpur,2025-12-24,87,1215
+Bihar,Muzaffarpur,2025-12-25,50,903
+Bihar,Muzaffarpur,2025-12-26,84,1186
+Bihar,Muzaffarpur,2025-12-27,51,867
+Bihar,Muzaffarpur,2025-12-28,64,551
+Bihar,Muzaffarpur,2025-12-29,101,1019
+Bihar,Muzaffarpur,2025-12-31,64,1383
+Bihar,Muzaffarpur,2026-01-01,40,613
+Bihar,Muzaffarpur,2026-01-02,100,642
+Bihar,Muzaffarpur,2026-01-03,11,234
+Bihar,Nalanda,2025-03-01,2024,20262
+Bihar,Nalanda,2025-09-01,152,4430
+Bihar,Nalanda,2025-09-02,180,7174
+Bihar,Nalanda,2025-09-03,77,2982
+Bihar,Nalanda,2025-09-04,114,5727
+Bihar,Nalanda,2025-09-05,67,3000
+Bihar,Nalanda,2025-09-06,140,3669
+Bihar,Nalanda,2025-09-07,38,1157
+Bihar,Nalanda,2025-09-08,133,3840
+Bihar,Nalanda,2025-09-09,132,3942
+Bihar,Nalanda,2025-09-10,118,3401
+Bihar,Nalanda,2025-09-11,123,2899
+Bihar,Nalanda,2025-09-12,126,2841
+Bihar,Nalanda,2025-09-13,89,1789
+Bihar,Nalanda,2025-09-14,25,640
+Bihar,Nalanda,2025-09-15,109,1829
+Bihar,Nalanda,2025-09-16,132,1771
+Bihar,Nalanda,2025-09-17,96,1292
+Bihar,Nalanda,2025-09-18,129,2120
+Bihar,Nalanda,2025-09-19,122,2253
+Bihar,Nalanda,2025-09-20,151,2490
+Bihar,Nalanda,2025-10-13,127,1555
+Bihar,Nalanda,2025-10-15,264,2289
+Bihar,Nalanda,2025-10-16,219,1936
+Bihar,Nalanda,2025-10-17,126,1334
+Bihar,Nalanda,2025-10-18,169,1264
+Bihar,Nalanda,2025-10-19,154,1085
+Bihar,Nalanda,2025-10-20,27,205
+Bihar,Nalanda,2025-10-21,41,243
+Bihar,Nalanda,2025-10-22,5,35
+Bihar,Nalanda,2025-10-23,17,95
+Bihar,Nalanda,2025-10-24,163,1576
+Bihar,Nalanda,2025-10-25,163,1291
+Bihar,Nalanda,2025-10-26,105,1236
+Bihar,Nalanda,2025-10-27,83,555
+Bihar,Nalanda,2025-10-28,64,353
+Bihar,Nalanda,2025-10-29,100,529
+Bihar,Nalanda,2025-10-30,79,686
+Bihar,Nalanda,2025-10-31,146,1508
+Bihar,Nalanda,2025-11-01,124,1397
+Bihar,Nalanda,2025-11-02,52,456
+Bihar,Nalanda,2025-11-03,163,1459
+Bihar,Nalanda,2025-11-04,126,1258
+Bihar,Nalanda,2025-11-05,106,854
+Bihar,Nalanda,2025-11-06,97,635
+Bihar,Nalanda,2025-11-07,76,913
+Bihar,Nalanda,2025-11-08,77,751
+Bihar,Nalanda,2025-11-09,23,217
+Bihar,Nalanda,2025-11-10,92,895
+Bihar,Nalanda,2025-11-11,71,817
+Bihar,Nalanda,2025-11-12,81,793
+Bihar,Nalanda,2025-11-13,160,1076
+Bihar,Nalanda,2025-11-14,99,742
+Bihar,Nalanda,2025-11-15,108,863
+Bihar,Nalanda,2025-11-16,42,213
+Bihar,Nalanda,2025-11-17,105,965
+Bihar,Nalanda,2025-11-18,78,653
+Bihar,Nalanda,2025-11-19,90,885
+Bihar,Nalanda,2025-11-25,30,170
+Bihar,Nalanda,2025-11-26,35,372
+Bihar,Nalanda,2025-11-27,103,1131
+Bihar,Nalanda,2025-11-28,99,815
+Bihar,Nalanda,2025-11-29,53,480
+Bihar,Nalanda,2025-12-01,149,1164
+Bihar,Nalanda,2025-12-02,73,717
+Bihar,Nalanda,2025-12-03,83,698
+Bihar,Nalanda,2025-12-04,91,741
+Bihar,Nalanda,2025-12-05,116,911
+Bihar,Nalanda,2025-12-06,83,923
+Bihar,Nalanda,2025-12-07,38,369
+Bihar,Nalanda,2025-12-08,98,1008
+Bihar,Nalanda,2025-12-09,89,990
+Bihar,Nalanda,2025-12-10,96,1046
+Bihar,Nalanda,2025-12-11,96,1042
+Bihar,Nalanda,2025-12-12,89,985
+Bihar,Nalanda,2025-12-13,46,527
+Bihar,Nalanda,2025-12-14,17,252
+Bihar,Nalanda,2025-12-15,100,1001
+Bihar,Nalanda,2025-12-16,98,1050
+Bihar,Nalanda,2025-12-17,84,905
+Bihar,Nalanda,2025-12-18,87,848
+Bihar,Nalanda,2025-12-19,63,530
+Bihar,Nalanda,2025-12-20,71,397
+Bihar,Nalanda,2025-12-21,12,195
+Bihar,Nalanda,2025-12-22,53,591
+Bihar,Nalanda,2025-12-23,105,785
+Bihar,Nalanda,2025-12-24,48,649
+Bihar,Nalanda,2025-12-25,35,403
+Bihar,Nalanda,2025-12-26,81,726
+Bihar,Nalanda,2025-12-27,62,763
+Bihar,Nalanda,2025-12-28,68,418
+Bihar,Nalanda,2025-12-29,101,902
+Bihar,Nalanda,2025-12-31,72,803
+Bihar,Nalanda,2026-01-01,34,334
+Bihar,Nalanda,2026-01-02,109,518
+Bihar,Nalanda,2026-01-03,16,190
+Bihar,Nawada,2025-03-01,1246,14272
+Bihar,Nawada,2025-09-01,85,1285
+Bihar,Nawada,2025-09-02,83,1190
+Bihar,Nawada,2025-09-03,56,819
+Bihar,Nawada,2025-09-04,53,836
+Bihar,Nawada,2025-09-05,48,995
+Bihar,Nawada,2025-09-06,97,1247
+Bihar,Nawada,2025-09-07,19,338
+Bihar,Nawada,2025-09-08,101,1497
+Bihar,Nawada,2025-09-09,86,1632
+Bihar,Nawada,2025-09-10,105,1760
+Bihar,Nawada,2025-09-11,95,1463
+Bihar,Nawada,2025-09-12,98,1698
+Bihar,Nawada,2025-09-13,52,938
+Bihar,Nawada,2025-09-14,15,357
+Bihar,Nawada,2025-09-15,77,863
+Bihar,Nawada,2025-09-16,64,1034
+Bihar,Nawada,2025-09-17,63,902
+Bihar,Nawada,2025-09-18,81,1316
+Bihar,Nawada,2025-09-19,72,1499
+Bihar,Nawada,2025-09-20,59,1549
+Bihar,Nawada,2025-10-13,69,705
+Bihar,Nawada,2025-10-15,163,1497
+Bihar,Nawada,2025-10-16,101,1311
+Bihar,Nawada,2025-10-17,66,924
+Bihar,Nawada,2025-10-18,84,814
+Bihar,Nawada,2025-10-19,77,593
+Bihar,Nawada,2025-10-20,22,215
+Bihar,Nawada,2025-10-21,19,155
+Bihar,Nawada,2025-10-22,5,19
+Bihar,Nawada,2025-10-23,7,52
+Bihar,Nawada,2025-10-24,81,1058
+Bihar,Nawada,2025-10-25,80,788
+Bihar,Nawada,2025-10-26,78,859
+Bihar,Nawada,2025-10-27,46,416
+Bihar,Nawada,2025-10-28,31,250
+Bihar,Nawada,2025-10-29,63,353
+Bihar,Nawada,2025-10-30,33,438
+Bihar,Nawada,2025-10-31,68,953
+Bihar,Nawada,2025-11-01,76,677
+Bihar,Nawada,2025-11-02,24,279
+Bihar,Nawada,2025-11-03,86,1003
+Bihar,Nawada,2025-11-04,36,515
+Bihar,Nawada,2025-11-05,97,743
+Bihar,Nawada,2025-11-06,51,472
+Bihar,Nawada,2025-11-07,36,480
+Bihar,Nawada,2025-11-08,23,356
+Bihar,Nawada,2025-11-09,20,159
+Bihar,Nawada,2025-11-10,24,381
+Bihar,Nawada,2025-11-11,12,134
+Bihar,Nawada,2025-11-12,25,366
+Bihar,Nawada,2025-11-13,69,575
+Bihar,Nawada,2025-11-14,42,314
+Bihar,Nawada,2025-11-15,48,438
+Bihar,Nawada,2025-11-16,21,152
+Bihar,Nawada,2025-11-17,38,573
+Bihar,Nawada,2025-11-18,24,364
+Bihar,Nawada,2025-11-19,31,615
+Bihar,Nawada,2025-11-25,9,72
+Bihar,Nawada,2025-11-26,14,318
+Bihar,Nawada,2025-11-27,36,679
+Bihar,Nawada,2025-11-28,58,555
+Bihar,Nawada,2025-11-29,35,358
+Bihar,Nawada,2025-12-01,88,815
+Bihar,Nawada,2025-12-02,39,633
+Bihar,Nawada,2025-12-03,49,618
+Bihar,Nawada,2025-12-04,48,585
+Bihar,Nawada,2025-12-05,42,593
+Bihar,Nawada,2025-12-06,59,637
+Bihar,Nawada,2025-12-07,32,217
+Bihar,Nawada,2025-12-08,61,720
+Bihar,Nawada,2025-12-09,57,797
+Bihar,Nawada,2025-12-10,57,774
+Bihar,Nawada,2025-12-11,81,825
+Bihar,Nawada,2025-12-12,53,679
+Bihar,Nawada,2025-12-13,23,370
+Bihar,Nawada,2025-12-14,18,132
+Bihar,Nawada,2025-12-15,72,682
+Bihar,Nawada,2025-12-16,60,647
+Bihar,Nawada,2025-12-17,59,753
+Bihar,Nawada,2025-12-18,49,603
+Bihar,Nawada,2025-12-19,32,351
+Bihar,Nawada,2025-12-20,31,372
+Bihar,Nawada,2025-12-21,16,117
+Bihar,Nawada,2025-12-22,53,525
+Bihar,Nawada,2025-12-23,65,639
+Bihar,Nawada,2025-12-24,43,546
+Bihar,Nawada,2025-12-25,19,325
+Bihar,Nawada,2025-12-26,35,620
+Bihar,Nawada,2025-12-27,30,261
+Bihar,Nawada,2025-12-28,40,262
+Bihar,Nawada,2025-12-29,38,480
+Bihar,Nawada,2025-12-31,45,644
+Bihar,Nawada,2026-01-01,22,256
+Bihar,Nawada,2026-01-02,36,237
+Bihar,Nawada,2026-01-03,3,129
+Bihar,Pashchim Champaran,2025-09-01,1,11
+Bihar,Pashchim Champaran,2025-09-02,0,13
+Bihar,Pashchim Champaran,2025-09-03,0,5
+Bihar,Pashchim Champaran,2025-09-04,0,24
+Bihar,Pashchim Champaran,2025-09-05,0,13
+Bihar,Pashchim Champaran,2025-09-06,1,26
+Bihar,Pashchim Champaran,2025-09-07,0,12
+Bihar,Pashchim Champaran,2025-09-08,0,26
+Bihar,Pashchim Champaran,2025-09-09,0,25
+Bihar,Pashchim Champaran,2025-09-10,0,36
+Bihar,Pashchim Champaran,2025-09-11,4,20
+Bihar,Pashchim Champaran,2025-09-12,0,31
+Bihar,Pashchim Champaran,2025-09-13,1,12
+Bihar,Pashchim Champaran,2025-09-14,0,4
+Bihar,Pashchim Champaran,2025-09-15,0,26
+Bihar,Pashchim Champaran,2025-09-16,0,19
+Bihar,Pashchim Champaran,2025-09-17,1,14
+Bihar,Pashchim Champaran,2025-09-18,0,25
+Bihar,Pashchim Champaran,2025-09-19,0,22
+Bihar,Pashchim Champaran,2025-09-20,0,27
+Bihar,Pashchim Champaran,2025-10-13,0,15
+Bihar,Pashchim Champaran,2025-10-15,0,19
+Bihar,Pashchim Champaran,2025-10-16,0,23
+Bihar,Pashchim Champaran,2025-10-17,0,29
+Bihar,Pashchim Champaran,2025-10-18,2,15
+Bihar,Pashchim Champaran,2025-10-19,0,5
+Bihar,Pashchim Champaran,2025-10-21,0,3
+Bihar,Pashchim Champaran,2025-10-24,1,23
+Bihar,Pashchim Champaran,2025-10-25,0,16
+Bihar,Pashchim Champaran,2025-10-26,0,23
+Bihar,Pashchim Champaran,2025-10-27,0,7
+Bihar,Pashchim Champaran,2025-10-28,0,2
+Bihar,Pashchim Champaran,2025-10-29,0,1
+Bihar,Pashchim Champaran,2025-10-30,1,9
+Bihar,Pashchim Champaran,2025-10-31,0,15
+Bihar,Pashchim Champaran,2025-11-01,0,10
+Bihar,Pashchim Champaran,2025-11-02,0,6
+Bihar,Pashchim Champaran,2025-11-03,0,21
+Bihar,Pashchim Champaran,2025-11-04,0,12
+Bihar,Pashchim Champaran,2025-11-05,0,5
+Bihar,Pashchim Champaran,2025-11-06,0,8
+Bihar,Pashchim Champaran,2025-11-07,0,14
+Bihar,Pashchim Champaran,2025-11-08,0,22
+Bihar,Pashchim Champaran,2025-11-09,0,1
+Bihar,Pashchim Champaran,2025-11-10,0,14
+Bihar,Pashchim Champaran,2025-11-11,2,2
+Bihar,Pashchim Champaran,2025-11-12,0,7
+Bihar,Pashchim Champaran,2025-11-13,0,11
+Bihar,Pashchim Champaran,2025-11-14,0,7
+Bihar,Pashchim Champaran,2025-11-15,2,17
+Bihar,Pashchim Champaran,2025-11-16,0,4
+Bihar,Pashchim Champaran,2025-11-17,0,7
+Bihar,Pashchim Champaran,2025-11-18,0,15
+Bihar,Pashchim Champaran,2025-11-19,0,4
+Bihar,Pashchim Champaran,2025-11-25,0,1
+Bihar,Pashchim Champaran,2025-11-26,3,0
+Bihar,Pashchim Champaran,2025-11-27,0,11
+Bihar,Pashchim Champaran,2025-11-28,0,15
+Bihar,Pashchim Champaran,2025-11-29,0,9
+Bihar,Pashchim Champaran,2025-12-01,2,17
+Bihar,Pashchim Champaran,2025-12-02,0,14
+Bihar,Pashchim Champaran,2025-12-03,0,15
+Bihar,Pashchim Champaran,2025-12-04,0,7
+Bihar,Pashchim Champaran,2025-12-05,0,7
+Bihar,Pashchim Champaran,2025-12-06,0,7
+Bihar,Pashchim Champaran,2025-12-07,0,4
+Bihar,Pashchim Champaran,2025-12-08,1,14
+Bihar,Pashchim Champaran,2025-12-09,0,16
+Bihar,Pashchim Champaran,2025-12-10,1,7
+Bihar,Pashchim Champaran,2025-12-11,0,18
+Bihar,Pashchim Champaran,2025-12-12,1,7
+Bihar,Pashchim Champaran,2025-12-13,0,9
+Bihar,Pashchim Champaran,2025-12-14,0,5
+Bihar,Pashchim Champaran,2025-12-15,1,11
+Bihar,Pashchim Champaran,2025-12-16,0,17
+Bihar,Pashchim Champaran,2025-12-17,0,10
+Bihar,Pashchim Champaran,2025-12-18,1,13
+Bihar,Pashchim Champaran,2025-12-19,1,3
+Bihar,Pashchim Champaran,2025-12-20,0,2
+Bihar,Pashchim Champaran,2025-12-21,0,3
+Bihar,Pashchim Champaran,2025-12-22,0,4
+Bihar,Pashchim Champaran,2025-12-23,0,7
+Bihar,Pashchim Champaran,2025-12-24,0,4
+Bihar,Pashchim Champaran,2025-12-25,0,4
+Bihar,Pashchim Champaran,2025-12-26,0,11
+Bihar,Pashchim Champaran,2025-12-27,0,8
+Bihar,Pashchim Champaran,2025-12-28,0,3
+Bihar,Pashchim Champaran,2025-12-29,0,7
+Bihar,Pashchim Champaran,2025-12-31,0,5
+Bihar,Pashchim Champaran,2026-01-01,0,5
+Bihar,Pashchim Champaran,2026-01-02,0,1
+Bihar,Pashchim Champaran,2026-01-03,0,1
+Bihar,Patna,2025-03-01,4502,39823
+Bihar,Patna,2025-09-01,241,3209
+Bihar,Patna,2025-09-02,227,3320
+Bihar,Patna,2025-09-03,177,2011
+Bihar,Patna,2025-09-04,207,2938
+Bihar,Patna,2025-09-05,135,2679
+Bihar,Patna,2025-09-06,244,3204
+Bihar,Patna,2025-09-07,93,1255
+Bihar,Patna,2025-09-08,239,3718
+Bihar,Patna,2025-09-09,271,4054
+Bihar,Patna,2025-09-10,212,4185
+Bihar,Patna,2025-09-11,266,3665
+Bihar,Patna,2025-09-12,247,4184
+Bihar,Patna,2025-09-13,141,2313
+Bihar,Patna,2025-09-14,76,965
+Bihar,Patna,2025-09-15,220,2702
+Bihar,Patna,2025-09-16,196,2499
+Bihar,Patna,2025-09-17,127,1797
+Bihar,Patna,2025-09-18,202,3316
+Bihar,Patna,2025-09-19,221,3704
+Bihar,Patna,2025-09-20,255,3615
+Bihar,Patna,2025-10-13,89,2088
+Bihar,Patna,2025-10-15,304,3903
+Bihar,Patna,2025-10-16,297,3608
+Bihar,Patna,2025-10-17,207,2724
+Bihar,Patna,2025-10-18,190,2115
+Bihar,Patna,2025-10-19,211,1679
+Bihar,Patna,2025-10-20,54,468
+Bihar,Patna,2025-10-21,73,400
+Bihar,Patna,2025-10-22,7,67
+Bihar,Patna,2025-10-23,7,173
+Bihar,Patna,2025-10-24,251,2790
+Bihar,Patna,2025-10-25,185,2143
+Bihar,Patna,2025-10-26,169,2157
+Bihar,Patna,2025-10-27,74,788
+Bihar,Patna,2025-10-28,75,483
+Bihar,Patna,2025-10-29,157,950
+Bihar,Patna,2025-10-30,114,1359
+Bihar,Patna,2025-10-31,228,2916
+Bihar,Patna,2025-11-01,213,2582
+Bihar,Patna,2025-11-02,94,915
+Bihar,Patna,2025-11-03,279,2605
+Bihar,Patna,2025-11-04,186,2553
+Bihar,Patna,2025-11-05,195,1734
+Bihar,Patna,2025-11-06,139,869
+Bihar,Patna,2025-11-07,149,1711
+Bihar,Patna,2025-11-08,116,1422
+Bihar,Patna,2025-11-09,54,637
+Bihar,Patna,2025-11-10,144,1747
+Bihar,Patna,2025-11-11,113,2066
+Bihar,Patna,2025-11-12,140,1774
+Bihar,Patna,2025-11-13,221,2114
+Bihar,Patna,2025-11-14,167,1414
+Bihar,Patna,2025-11-15,200,1939
+Bihar,Patna,2025-11-16,94,617
+Bihar,Patna,2025-11-17,170,2145
+Bihar,Patna,2025-11-18,121,1368
+Bihar,Patna,2025-11-19,239,2568
+Bihar,Patna,2025-11-25,40,267
+Bihar,Patna,2025-11-26,70,1010
+Bihar,Patna,2025-11-27,174,1986
+Bihar,Patna,2025-11-28,162,1663
+Bihar,Patna,2025-11-29,118,1297
+Bihar,Patna,2025-12-01,296,2795
+Bihar,Patna,2025-12-02,172,1901
+Bihar,Patna,2025-12-03,168,1878
+Bihar,Patna,2025-12-04,148,1832
+Bihar,Patna,2025-12-05,140,1654
+Bihar,Patna,2025-12-06,128,1889
+Bihar,Patna,2025-12-07,84,843
+Bihar,Patna,2025-12-08,190,2239
+Bihar,Patna,2025-12-09,191,2247
+Bihar,Patna,2025-12-10,181,2151
+Bihar,Patna,2025-12-11,158,2156
+Bihar,Patna,2025-12-12,156,2107
+Bihar,Patna,2025-12-13,111,1512
+Bihar,Patna,2025-12-14,59,580
+Bihar,Patna,2025-12-15,125,1798
+Bihar,Patna,2025-12-16,169,2277
+Bihar,Patna,2025-12-17,140,1988
+Bihar,Patna,2025-12-18,148,1751
+Bihar,Patna,2025-12-19,119,1184
+Bihar,Patna,2025-12-20,102,1009
+Bihar,Patna,2025-12-21,44,425
+Bihar,Patna,2025-12-22,119,1165
+Bihar,Patna,2025-12-23,94,1227
+Bihar,Patna,2025-12-24,141,1507
+Bihar,Patna,2025-12-25,52,842
+Bihar,Patna,2025-12-26,113,1258
+Bihar,Patna,2025-12-27,66,1060
+Bihar,Patna,2025-12-28,104,837
+Bihar,Patna,2025-12-29,135,1330
+Bihar,Patna,2025-12-31,77,1150
+Bihar,Patna,2026-01-01,75,783
+Bihar,Patna,2026-01-02,101,623
+Bihar,Patna,2026-01-03,17,365
+Bihar,Purba Champaran,2025-09-01,0,14
+Bihar,Purba Champaran,2025-09-02,0,13
+Bihar,Purba Champaran,2025-09-03,0,4
+Bihar,Purba Champaran,2025-09-04,0,8
+Bihar,Purba Champaran,2025-09-05,0,11
+Bihar,Purba Champaran,2025-09-06,0,11
+Bihar,Purba Champaran,2025-09-07,0,5
+Bihar,Purba Champaran,2025-09-08,0,11
+Bihar,Purba Champaran,2025-09-09,0,25
+Bihar,Purba Champaran,2025-09-10,1,13
+Bihar,Purba Champaran,2025-09-11,0,9
+Bihar,Purba Champaran,2025-09-12,0,9
+Bihar,Purba Champaran,2025-09-13,1,8
+Bihar,Purba Champaran,2025-09-14,0,3
+Bihar,Purba Champaran,2025-09-15,0,21
+Bihar,Purba Champaran,2025-09-16,0,11
+Bihar,Purba Champaran,2025-09-17,0,11
+Bihar,Purba Champaran,2025-09-18,0,21
+Bihar,Purba Champaran,2025-09-19,0,8
+Bihar,Purba Champaran,2025-09-20,0,28
+Bihar,Purba Champaran,2025-10-13,0,17
+Bihar,Purba Champaran,2025-10-15,1,25
+Bihar,Purba Champaran,2025-10-16,0,15
+Bihar,Purba Champaran,2025-10-17,0,11
+Bihar,Purba Champaran,2025-10-18,1,14
+Bihar,Purba Champaran,2025-10-19,0,13
+Bihar,Purba Champaran,2025-10-20,0,2
+Bihar,Purba Champaran,2025-10-21,0,3
+Bihar,Purba Champaran,2025-10-24,0,14
+Bihar,Purba Champaran,2025-10-25,0,15
+Bihar,Purba Champaran,2025-10-26,0,12
+Bihar,Purba Champaran,2025-10-27,0,8
+Bihar,Purba Champaran,2025-10-29,0,8
+Bihar,Purba Champaran,2025-10-30,0,6
+Bihar,Purba Champaran,2025-10-31,1,18
+Bihar,Purba Champaran,2025-11-01,0,9
+Bihar,Purba Champaran,2025-11-02,0,5
+Bihar,Purba Champaran,2025-11-03,0,13
+Bihar,Purba Champaran,2025-11-04,0,11
+Bihar,Purba Champaran,2025-11-05,0,17
+Bihar,Purba Champaran,2025-11-06,0,6
+Bihar,Purba Champaran,2025-11-07,0,16
+Bihar,Purba Champaran,2025-11-08,0,12
+Bihar,Purba Champaran,2025-11-09,0,2
+Bihar,Purba Champaran,2025-11-10,0,9
+Bihar,Purba Champaran,2025-11-11,0,4
+Bihar,Purba Champaran,2025-11-12,1,12
+Bihar,Purba Champaran,2025-11-13,0,12
+Bihar,Purba Champaran,2025-11-14,0,5
+Bihar,Purba Champaran,2025-11-15,0,15
+Bihar,Purba Champaran,2025-11-16,0,2
+Bihar,Purba Champaran,2025-11-17,0,22
+Bihar,Purba Champaran,2025-11-18,0,12
+Bihar,Purba Champaran,2025-11-19,0,7
+Bihar,Purba Champaran,2025-11-25,0,1
+Bihar,Purba Champaran,2025-11-26,0,5
+Bihar,Purba Champaran,2025-11-27,0,11
+Bihar,Purba Champaran,2025-11-28,0,4
+Bihar,Purba Champaran,2025-11-29,2,7
+Bihar,Purba Champaran,2025-12-01,0,14
+Bihar,Purba Champaran,2025-12-02,1,25
+Bihar,Purba Champaran,2025-12-03,0,16
+Bihar,Purba Champaran,2025-12-04,1,6
+Bihar,Purba Champaran,2025-12-05,0,11
+Bihar,Purba Champaran,2025-12-06,0,5
+Bihar,Purba Champaran,2025-12-07,0,7
+Bihar,Purba Champaran,2025-12-08,0,17
+Bihar,Purba Champaran,2025-12-09,0,17
+Bihar,Purba Champaran,2025-12-10,0,13
+Bihar,Purba Champaran,2025-12-11,0,5
+Bihar,Purba Champaran,2025-12-12,0,11
+Bihar,Purba Champaran,2025-12-13,0,9
+Bihar,Purba Champaran,2025-12-14,0,1
+Bihar,Purba Champaran,2025-12-15,0,4
+Bihar,Purba Champaran,2025-12-16,0,13
+Bihar,Purba Champaran,2025-12-17,0,12
+Bihar,Purba Champaran,2025-12-18,3,9
+Bihar,Purba Champaran,2025-12-19,0,11
+Bihar,Purba Champaran,2025-12-20,0,4
+Bihar,Purba Champaran,2025-12-21,0,3
+Bihar,Purba Champaran,2025-12-22,0,9
+Bihar,Purba Champaran,2025-12-23,1,16
+Bihar,Purba Champaran,2025-12-24,0,14
+Bihar,Purba Champaran,2025-12-25,0,5
+Bihar,Purba Champaran,2025-12-26,0,17
+Bihar,Purba Champaran,2025-12-27,0,9
+Bihar,Purba Champaran,2025-12-28,0,3
+Bihar,Purba Champaran,2025-12-29,0,8
+Bihar,Purba Champaran,2025-12-31,0,7
+Bihar,Purba Champaran,2026-01-01,0,3
+Bihar,Purba Champaran,2026-01-02,0,2
+Bihar,Purba Champaran,2026-01-03,0,3
+Bihar,Purnea,2025-09-01,1,16
+Bihar,Purnea,2025-09-02,1,33
+Bihar,Purnea,2025-09-03,1,32
+Bihar,Purnea,2025-09-04,2,54
+Bihar,Purnea,2025-09-05,1,58
+Bihar,Purnea,2025-09-06,2,75
+Bihar,Purnea,2025-09-07,0,15
+Bihar,Purnea,2025-09-08,3,79
+Bihar,Purnea,2025-09-09,4,49
+Bihar,Purnea,2025-09-10,1,56
+Bihar,Purnea,2025-09-11,1,45
+Bihar,Purnea,2025-09-12,2,50
+Bihar,Purnea,2025-09-13,2,35
+Bihar,Purnea,2025-09-14,0,17
+Bihar,Purnea,2025-09-15,0,19
+Bihar,Purnea,2025-09-16,1,29
+Bihar,Purnea,2025-09-17,1,32
+Bihar,Purnea,2025-09-18,1,31
+Bihar,Purnea,2025-09-19,1,49
+Bihar,Purnea,2025-09-20,0,41
+Bihar,Purnea,2025-10-13,0,50
+Bihar,Purnea,2025-10-15,0,48
+Bihar,Purnea,2025-10-16,2,54
+Bihar,Purnea,2025-10-17,0,38
+Bihar,Purnea,2025-10-18,0,52
+Bihar,Purnea,2025-10-19,0,18
+Bihar,Purnea,2025-10-20,0,6
+Bihar,Purnea,2025-10-21,0,14
+Bihar,Purnea,2025-10-24,0,73
+Bihar,Purnea,2025-10-25,1,36
+Bihar,Purnea,2025-10-26,0,35
+Bihar,Purnea,2025-10-27,0,8
+Bihar,Purnea,2025-10-28,0,4
+Bihar,Purnea,2025-10-29,1,10
+Bihar,Purnea,2025-10-30,0,18
+Bihar,Purnea,2025-10-31,0,32
+Bihar,Purnea,2025-11-01,1,22
+Bihar,Purnea,2025-11-02,0,12
+Bihar,Purnea,2025-11-03,3,34
+Bihar,Purnea,2025-11-04,1,48
+Bihar,Purnea,2025-11-05,1,28
+Bihar,Purnea,2025-11-06,1,29
+Bihar,Purnea,2025-11-07,0,28
+Bihar,Purnea,2025-11-08,1,21
+Bihar,Purnea,2025-11-09,0,9
+Bihar,Purnea,2025-11-10,0,26
+Bihar,Purnea,2025-11-11,0,8
+Bihar,Purnea,2025-11-12,0,18
+Bihar,Purnea,2025-11-13,4,21
+Bihar,Purnea,2025-11-14,3,36
+Bihar,Purnea,2025-11-15,0,47
+Bihar,Purnea,2025-11-16,1,6
+Bihar,Purnea,2025-11-17,1,23
+Bihar,Purnea,2025-11-18,0,13
+Bihar,Purnea,2025-11-19,0,26
+Bihar,Purnea,2025-11-25,0,2
+Bihar,Purnea,2025-11-26,0,14
+Bihar,Purnea,2025-11-27,0,18
+Bihar,Purnea,2025-11-28,2,30
+Bihar,Purnea,2025-11-29,0,11
+Bihar,Purnea,2025-12-01,1,30
+Bihar,Purnea,2025-12-02,1,20
+Bihar,Purnea,2025-12-03,0,19
+Bihar,Purnea,2025-12-04,0,18
+Bihar,Purnea,2025-12-05,1,25
+Bihar,Purnea,2025-12-06,0,22
+Bihar,Purnea,2025-12-07,0,3
+Bihar,Purnea,2025-12-08,0,24
+Bihar,Purnea,2025-12-09,0,34
+Bihar,Purnea,2025-12-10,0,18
+Bihar,Purnea,2025-12-11,0,27
+Bihar,Purnea,2025-12-12,2,20
+Bihar,Purnea,2025-12-13,2,14
+Bihar,Purnea,2025-12-14,2,2
+Bihar,Purnea,2025-12-15,1,19
+Bihar,Purnea,2025-12-16,1,25
+Bihar,Purnea,2025-12-17,1,23
+Bihar,Purnea,2025-12-18,1,24
+Bihar,Purnea,2025-12-19,0,14
+Bihar,Purnea,2025-12-20,0,10
+Bihar,Purnea,2025-12-21,0,7
+Bihar,Purnea,2025-12-22,1,20
+Bihar,Purnea,2025-12-23,1,16
+Bihar,Purnea,2025-12-24,0,27
+Bihar,Purnea,2025-12-25,0,16
+Bihar,Purnea,2025-12-26,0,23
+Bihar,Purnea,2025-12-27,0,10
+Bihar,Purnea,2025-12-28,0,3
+Bihar,Purnea,2025-12-29,0,15
+Bihar,Purnea,2025-12-31,1,30
+Bihar,Purnea,2026-01-01,2,12
+Bihar,Purnea,2026-01-02,0,8
+Bihar,Purnea,2026-01-03,0,2
+Bihar,Purnia,2025-03-01,2457,27555
+Bihar,Purnia,2025-09-01,107,1420
+Bihar,Purnia,2025-09-02,53,860
+Bihar,Purnia,2025-09-03,51,1051
+Bihar,Purnia,2025-09-04,90,1460
+Bihar,Purnia,2025-09-05,45,966
+Bihar,Purnia,2025-09-06,92,1939
+Bihar,Purnia,2025-09-07,35,620
+Bihar,Purnia,2025-09-08,86,2178
+Bihar,Purnia,2025-09-09,125,2266
+Bihar,Purnia,2025-09-10,92,2395
+Bihar,Purnia,2025-09-11,98,2125
+Bihar,Purnia,2025-09-12,105,2351
+Bihar,Purnia,2025-09-13,59,1582
+Bihar,Purnia,2025-09-14,24,511
+Bihar,Purnia,2025-09-15,56,1027
+Bihar,Purnia,2025-09-16,55,1246
+Bihar,Purnia,2025-09-17,47,1145
+Bihar,Purnia,2025-09-18,59,1500
+Bihar,Purnia,2025-09-19,95,1778
+Bihar,Purnia,2025-09-20,85,1795
+Bihar,Purnia,2025-10-13,68,1991
+Bihar,Purnia,2025-10-15,166,2806
+Bihar,Purnia,2025-10-16,129,2403
+Bihar,Purnia,2025-10-17,102,2118
+Bihar,Purnia,2025-10-18,137,2086
+Bihar,Purnia,2025-10-19,103,1808
+Bihar,Purnia,2025-10-20,39,676
+Bihar,Purnia,2025-10-21,57,561
+Bihar,Purnia,2025-10-22,8,28
+Bihar,Purnia,2025-10-23,15,76
+Bihar,Purnia,2025-10-24,82,1736
+Bihar,Purnia,2025-10-25,83,1330
+Bihar,Purnia,2025-10-26,90,1416
+Bihar,Purnia,2025-10-27,61,523
+Bihar,Purnia,2025-10-28,35,322
+Bihar,Purnia,2025-10-29,67,592
+Bihar,Purnia,2025-10-30,75,803
+Bihar,Purnia,2025-10-31,132,1788
+Bihar,Purnia,2025-11-01,104,1364
+Bihar,Purnia,2025-11-02,35,514
+Bihar,Purnia,2025-11-03,110,1254
+Bihar,Purnia,2025-11-04,81,1282
+Bihar,Purnia,2025-11-05,72,1100
+Bihar,Purnia,2025-11-06,106,1776
+Bihar,Purnia,2025-11-07,60,1332
+Bihar,Purnia,2025-11-08,55,1137
+Bihar,Purnia,2025-11-09,23,407
+Bihar,Purnia,2025-11-10,38,879
+Bihar,Purnia,2025-11-11,17,267
+Bihar,Purnia,2025-11-12,40,697
+Bihar,Purnia,2025-11-13,78,832
+Bihar,Purnia,2025-11-14,59,650
+Bihar,Purnia,2025-11-15,83,844
+Bihar,Purnia,2025-11-16,17,204
+Bihar,Purnia,2025-11-17,76,952
+Bihar,Purnia,2025-11-18,42,682
+Bihar,Purnia,2025-11-19,71,934
+Bihar,Purnia,2025-11-25,21,118
+Bihar,Purnia,2025-11-26,31,619
+Bihar,Purnia,2025-11-27,93,1472
+Bihar,Purnia,2025-11-28,66,952
+Bihar,Purnia,2025-11-29,57,740
+Bihar,Purnia,2025-12-01,137,1717
+Bihar,Purnia,2025-12-02,52,833
+Bihar,Purnia,2025-12-03,62,930
+Bihar,Purnia,2025-12-04,69,1103
+Bihar,Purnia,2025-12-05,61,1032
+Bihar,Purnia,2025-12-06,66,990
+Bihar,Purnia,2025-12-07,27,442
+Bihar,Purnia,2025-12-08,80,1337
+Bihar,Purnia,2025-12-09,73,1196
+Bihar,Purnia,2025-12-10,71,1295
+Bihar,Purnia,2025-12-11,67,1321
+Bihar,Purnia,2025-12-12,68,1295
+Bihar,Purnia,2025-12-13,43,734
+Bihar,Purnia,2025-12-14,16,270
+Bihar,Purnia,2025-12-15,39,713
+Bihar,Purnia,2025-12-16,61,1419
+Bihar,Purnia,2025-12-17,51,1262
+Bihar,Purnia,2025-12-18,69,1162
+Bihar,Purnia,2025-12-19,49,686
+Bihar,Purnia,2025-12-20,50,686
+Bihar,Purnia,2025-12-21,15,234
+Bihar,Purnia,2025-12-22,62,833
+Bihar,Purnia,2025-12-23,48,879
+Bihar,Purnia,2025-12-24,67,815
+Bihar,Purnia,2025-12-25,27,513
+Bihar,Purnia,2025-12-26,73,1192
+Bihar,Purnia,2025-12-27,38,857
+Bihar,Purnia,2025-12-28,50,471
+Bihar,Purnia,2025-12-29,78,924
+Bihar,Purnia,2025-12-31,23,934
+Bihar,Purnia,2026-01-01,33,656
+Bihar,Purnia,2026-01-02,36,495
+Bihar,Purnia,2026-01-03,21,312
+Bihar,Rohtas,2025-03-01,2021,16405
+Bihar,Rohtas,2025-09-01,101,930
+Bihar,Rohtas,2025-09-02,145,1266
+Bihar,Rohtas,2025-09-03,123,906
+Bihar,Rohtas,2025-09-04,85,966
+Bihar,Rohtas,2025-09-05,64,768
+Bihar,Rohtas,2025-09-06,104,1260
+Bihar,Rohtas,2025-09-07,19,471
+Bihar,Rohtas,2025-09-08,142,1870
+Bihar,Rohtas,2025-09-09,128,1984
+Bihar,Rohtas,2025-09-10,141,1964
+Bihar,Rohtas,2025-09-11,131,1805
+Bihar,Rohtas,2025-09-12,116,1894
+Bihar,Rohtas,2025-09-13,75,1050
+Bihar,Rohtas,2025-09-14,21,350
+Bihar,Rohtas,2025-09-15,107,1274
+Bihar,Rohtas,2025-09-16,107,1414
+Bihar,Rohtas,2025-09-17,76,1104
+Bihar,Rohtas,2025-09-18,90,1484
+Bihar,Rohtas,2025-09-19,73,1649
+Bihar,Rohtas,2025-09-20,80,1567
+Bihar,Rohtas,2025-10-13,92,1047
+Bihar,Rohtas,2025-10-15,206,2068
+Bihar,Rohtas,2025-10-16,187,1961
+Bihar,Rohtas,2025-10-17,113,1432
+Bihar,Rohtas,2025-10-18,143,1533
+Bihar,Rohtas,2025-10-19,132,1072
+Bihar,Rohtas,2025-10-20,27,244
+Bihar,Rohtas,2025-10-21,37,273
+Bihar,Rohtas,2025-10-22,3,58
+Bihar,Rohtas,2025-10-23,9,90
+Bihar,Rohtas,2025-10-24,172,1784
+Bihar,Rohtas,2025-10-25,121,1116
+Bihar,Rohtas,2025-10-26,140,1307
+Bihar,Rohtas,2025-10-27,51,469
+Bihar,Rohtas,2025-10-28,35,284
+Bihar,Rohtas,2025-10-29,93,538
+Bihar,Rohtas,2025-10-30,73,597
+Bihar,Rohtas,2025-10-31,104,1389
+Bihar,Rohtas,2025-11-01,117,1448
+Bihar,Rohtas,2025-11-02,32,380
+Bihar,Rohtas,2025-11-03,147,1590
+Bihar,Rohtas,2025-11-04,75,1036
+Bihar,Rohtas,2025-11-05,98,1063
+Bihar,Rohtas,2025-11-06,106,1258
+Bihar,Rohtas,2025-11-07,92,1038
+Bihar,Rohtas,2025-11-08,65,755
+Bihar,Rohtas,2025-11-09,21,263
+Bihar,Rohtas,2025-11-10,49,681
+Bihar,Rohtas,2025-11-11,13,216
+Bihar,Rohtas,2025-11-12,56,766
+Bihar,Rohtas,2025-11-13,129,1118
+Bihar,Rohtas,2025-11-14,76,604
+Bihar,Rohtas,2025-11-15,103,1031
+Bihar,Rohtas,2025-11-16,38,252
+Bihar,Rohtas,2025-11-17,92,1094
+Bihar,Rohtas,2025-11-18,42,573
+Bihar,Rohtas,2025-11-19,85,1460
+Bihar,Rohtas,2025-11-25,18,137
+Bihar,Rohtas,2025-11-26,43,519
+Bihar,Rohtas,2025-11-27,80,962
+Bihar,Rohtas,2025-11-28,95,885
+Bihar,Rohtas,2025-11-29,70,686
+Bihar,Rohtas,2025-12-01,156,1198
+Bihar,Rohtas,2025-12-02,79,1185
+Bihar,Rohtas,2025-12-03,105,847
+Bihar,Rohtas,2025-12-04,92,939
+Bihar,Rohtas,2025-12-05,78,909
+Bihar,Rohtas,2025-12-06,70,877
+Bihar,Rohtas,2025-12-07,23,307
+Bihar,Rohtas,2025-12-08,88,1010
+Bihar,Rohtas,2025-12-09,84,1084
+Bihar,Rohtas,2025-12-10,104,1109
+Bihar,Rohtas,2025-12-11,84,995
+Bihar,Rohtas,2025-12-12,78,1000
+Bihar,Rohtas,2025-12-13,43,479
+Bihar,Rohtas,2025-12-14,20,227
+Bihar,Rohtas,2025-12-15,68,921
+Bihar,Rohtas,2025-12-16,68,1045
+Bihar,Rohtas,2025-12-17,66,897
+Bihar,Rohtas,2025-12-18,51,561
+Bihar,Rohtas,2025-12-19,49,548
+Bihar,Rohtas,2025-12-20,50,505
+Bihar,Rohtas,2025-12-21,15,145
+Bihar,Rohtas,2025-12-22,68,658
+Bihar,Rohtas,2025-12-23,79,856
+Bihar,Rohtas,2025-12-24,71,772
+Bihar,Rohtas,2025-12-25,17,287
+Bihar,Rohtas,2025-12-26,70,816
+Bihar,Rohtas,2025-12-27,26,430
+Bihar,Rohtas,2025-12-28,30,297
+Bihar,Rohtas,2025-12-29,68,765
+Bihar,Rohtas,2025-12-31,37,699
+Bihar,Rohtas,2026-01-01,25,401
+Bihar,Rohtas,2026-01-02,55,458
+Bihar,Rohtas,2026-01-03,16,234
+Bihar,Saharsa,2025-03-01,918,10225
+Bihar,Saharsa,2025-09-01,59,668
+Bihar,Saharsa,2025-09-02,78,859
+Bihar,Saharsa,2025-09-03,56,916
+Bihar,Saharsa,2025-09-04,59,875
+Bihar,Saharsa,2025-09-05,31,826
+Bihar,Saharsa,2025-09-06,76,1473
+Bihar,Saharsa,2025-09-07,22,529
+Bihar,Saharsa,2025-09-08,70,1567
+Bihar,Saharsa,2025-09-09,61,1543
+Bihar,Saharsa,2025-09-10,62,1353
+Bihar,Saharsa,2025-09-11,63,1286
+Bihar,Saharsa,2025-09-12,52,1322
+Bihar,Saharsa,2025-09-13,57,1063
+Bihar,Saharsa,2025-09-14,18,394
+Bihar,Saharsa,2025-09-15,45,665
+Bihar,Saharsa,2025-09-16,36,753
+Bihar,Saharsa,2025-09-17,31,496
+Bihar,Saharsa,2025-09-18,72,761
+Bihar,Saharsa,2025-09-19,45,926
+Bihar,Saharsa,2025-09-20,94,1276
+Bihar,Saharsa,2025-10-13,33,701
+Bihar,Saharsa,2025-10-15,113,1472
+Bihar,Saharsa,2025-10-16,118,1314
+Bihar,Saharsa,2025-10-17,59,917
+Bihar,Saharsa,2025-10-18,68,811
+Bihar,Saharsa,2025-10-19,62,651
+Bihar,Saharsa,2025-10-20,24,162
+Bihar,Saharsa,2025-10-21,21,214
+Bihar,Saharsa,2025-10-22,1,28
+Bihar,Saharsa,2025-10-23,7,70
+Bihar,Saharsa,2025-10-24,73,967
+Bihar,Saharsa,2025-10-25,48,555
+Bihar,Saharsa,2025-10-26,48,725
+Bihar,Saharsa,2025-10-27,39,318
+Bihar,Saharsa,2025-10-28,18,158
+Bihar,Saharsa,2025-10-29,76,395
+Bihar,Saharsa,2025-10-30,39,420
+Bihar,Saharsa,2025-10-31,91,959
+Bihar,Saharsa,2025-11-01,55,661
+Bihar,Saharsa,2025-11-02,30,331
+Bihar,Saharsa,2025-11-03,77,970
+Bihar,Saharsa,2025-11-04,46,788
+Bihar,Saharsa,2025-11-05,49,734
+Bihar,Saharsa,2025-11-06,62,446
+Bihar,Saharsa,2025-11-07,27,583
+Bihar,Saharsa,2025-11-08,34,533
+Bihar,Saharsa,2025-11-09,15,201
+Bihar,Saharsa,2025-11-10,54,636
+Bihar,Saharsa,2025-11-11,31,497
+Bihar,Saharsa,2025-11-12,35,484
+Bihar,Saharsa,2025-11-13,63,529
+Bihar,Saharsa,2025-11-14,49,367
+Bihar,Saharsa,2025-11-15,60,650
+Bihar,Saharsa,2025-11-16,38,139
+Bihar,Saharsa,2025-11-17,53,399
+Bihar,Saharsa,2025-11-18,20,227
+Bihar,Saharsa,2025-11-19,33,262
+Bihar,Saharsa,2025-11-25,10,67
+Bihar,Saharsa,2025-11-26,21,240
+Bihar,Saharsa,2025-11-27,49,702
+Bihar,Saharsa,2025-11-28,53,397
+Bihar,Saharsa,2025-11-29,31,278
+Bihar,Saharsa,2025-12-01,80,604
+Bihar,Saharsa,2025-12-02,45,372
+Bihar,Saharsa,2025-12-03,39,341
+Bihar,Saharsa,2025-12-04,41,499
+Bihar,Saharsa,2025-12-05,39,335
+Bihar,Saharsa,2025-12-06,41,415
+Bihar,Saharsa,2025-12-07,20,170
+Bihar,Saharsa,2025-12-08,43,563
+Bihar,Saharsa,2025-12-09,53,490
+Bihar,Saharsa,2025-12-10,35,520
+Bihar,Saharsa,2025-12-11,44,602
+Bihar,Saharsa,2025-12-12,47,528
+Bihar,Saharsa,2025-12-13,38,360
+Bihar,Saharsa,2025-12-14,17,138
+Bihar,Saharsa,2025-12-15,18,307
+Bihar,Saharsa,2025-12-16,45,557
+Bihar,Saharsa,2025-12-17,40,557
+Bihar,Saharsa,2025-12-18,36,523
+Bihar,Saharsa,2025-12-19,33,340
+Bihar,Saharsa,2025-12-20,37,279
+Bihar,Saharsa,2025-12-21,6,100
+Bihar,Saharsa,2025-12-22,33,308
+Bihar,Saharsa,2025-12-23,22,293
+Bihar,Saharsa,2025-12-24,41,439
+Bihar,Saharsa,2025-12-25,15,178
+Bihar,Saharsa,2025-12-26,30,504
+Bihar,Saharsa,2025-12-27,30,388
+Bihar,Saharsa,2025-12-28,28,160
+Bihar,Saharsa,2025-12-29,50,427
+Bihar,Saharsa,2025-12-31,19,373
+Bihar,Saharsa,2026-01-01,8,170
+Bihar,Saharsa,2026-01-02,30,174
+Bihar,Saharsa,2026-01-03,3,81
+Bihar,Samastipur,2025-03-01,2922,30532
+Bihar,Samastipur,2025-09-01,118,1716
+Bihar,Samastipur,2025-09-02,190,3051
+Bihar,Samastipur,2025-09-03,86,1546
+Bihar,Samastipur,2025-09-04,90,1789
+Bihar,Samastipur,2025-09-05,96,2664
+Bihar,Samastipur,2025-09-06,151,2820
+Bihar,Samastipur,2025-09-07,70,1786
+Bihar,Samastipur,2025-09-08,161,3063
+Bihar,Samastipur,2025-09-09,170,3388
+Bihar,Samastipur,2025-09-10,130,3027
+Bihar,Samastipur,2025-09-11,127,2546
+Bihar,Samastipur,2025-09-12,179,2834
+Bihar,Samastipur,2025-09-13,96,1855
+Bihar,Samastipur,2025-09-14,61,1109
+Bihar,Samastipur,2025-09-15,127,2043
+Bihar,Samastipur,2025-09-16,83,1444
+Bihar,Samastipur,2025-09-17,65,1093
+Bihar,Samastipur,2025-09-18,114,1986
+Bihar,Samastipur,2025-09-19,128,1951
+Bihar,Samastipur,2025-09-20,121,2069
+Bihar,Samastipur,2025-10-13,55,1012
+Bihar,Samastipur,2025-10-15,230,2477
+Bihar,Samastipur,2025-10-16,259,2857
+Bihar,Samastipur,2025-10-17,144,2089
+Bihar,Samastipur,2025-10-18,173,1804
+Bihar,Samastipur,2025-10-19,167,1531
+Bihar,Samastipur,2025-10-20,55,365
+Bihar,Samastipur,2025-10-21,57,390
+Bihar,Samastipur,2025-10-22,5,39
+Bihar,Samastipur,2025-10-23,9,92
+Bihar,Samastipur,2025-10-24,172,2359
+Bihar,Samastipur,2025-10-25,152,1727
+Bihar,Samastipur,2025-10-26,137,1702
+Bihar,Samastipur,2025-10-27,82,760
+Bihar,Samastipur,2025-10-28,61,402
+Bihar,Samastipur,2025-10-29,97,555
+Bihar,Samastipur,2025-10-30,75,932
+Bihar,Samastipur,2025-10-31,163,2157
+Bihar,Samastipur,2025-11-01,142,2076
+Bihar,Samastipur,2025-11-02,87,840
+Bihar,Samastipur,2025-11-03,209,1895
+Bihar,Samastipur,2025-11-04,116,1737
+Bihar,Samastipur,2025-11-05,131,1531
+Bihar,Samastipur,2025-11-06,119,799
+Bihar,Samastipur,2025-11-07,88,1544
+Bihar,Samastipur,2025-11-08,82,1624
+Bihar,Samastipur,2025-11-09,44,865
+Bihar,Samastipur,2025-11-10,66,1368
+Bihar,Samastipur,2025-11-11,87,1769
+Bihar,Samastipur,2025-11-12,82,1346
+Bihar,Samastipur,2025-11-13,196,1736
+Bihar,Samastipur,2025-11-14,171,1365
+Bihar,Samastipur,2025-11-15,164,1826
+Bihar,Samastipur,2025-11-16,60,524
+Bihar,Samastipur,2025-11-17,181,2018
+Bihar,Samastipur,2025-11-18,73,1019
+Bihar,Samastipur,2025-11-19,160,1921
+Bihar,Samastipur,2025-11-25,18,154
+Bihar,Samastipur,2025-11-26,39,750
+Bihar,Samastipur,2025-11-27,115,2081
+Bihar,Samastipur,2025-11-28,85,1402
+Bihar,Samastipur,2025-11-29,92,1109
+Bihar,Samastipur,2025-12-01,207,1956
+Bihar,Samastipur,2025-12-02,97,1847
+Bihar,Samastipur,2025-12-03,87,1536
+Bihar,Samastipur,2025-12-04,105,1484
+Bihar,Samastipur,2025-12-05,90,1183
+Bihar,Samastipur,2025-12-06,97,1718
+Bihar,Samastipur,2025-12-07,39,805
+Bihar,Samastipur,2025-12-08,110,1948
+Bihar,Samastipur,2025-12-09,116,1889
+Bihar,Samastipur,2025-12-10,112,1778
+Bihar,Samastipur,2025-12-11,123,1795
+Bihar,Samastipur,2025-12-12,117,1805
+Bihar,Samastipur,2025-12-13,82,1269
+Bihar,Samastipur,2025-12-14,39,547
+Bihar,Samastipur,2025-12-15,65,1398
+Bihar,Samastipur,2025-12-16,96,1989
+Bihar,Samastipur,2025-12-17,102,1751
+Bihar,Samastipur,2025-12-18,68,1327
+Bihar,Samastipur,2025-12-19,69,842
+Bihar,Samastipur,2025-12-20,84,915
+Bihar,Samastipur,2025-12-21,25,346
+Bihar,Samastipur,2025-12-22,46,929
+Bihar,Samastipur,2025-12-23,91,1066
+Bihar,Samastipur,2025-12-24,79,1278
+Bihar,Samastipur,2025-12-25,53,752
+Bihar,Samastipur,2025-12-26,85,1157
+Bihar,Samastipur,2025-12-27,54,829
+Bihar,Samastipur,2025-12-28,83,621
+Bihar,Samastipur,2025-12-29,81,866
+Bihar,Samastipur,2025-12-31,53,960
+Bihar,Samastipur,2026-01-01,37,596
+Bihar,Samastipur,2026-01-02,54,455
+Bihar,Samastipur,2026-01-03,14,262
+Bihar,Samstipur,2025-09-01,0,3
+Bihar,Samstipur,2025-09-02,0,3
+Bihar,Samstipur,2025-09-03,0,2
+Bihar,Samstipur,2025-09-04,0,2
+Bihar,Samstipur,2025-09-05,0,9
+Bihar,Samstipur,2025-09-06,0,7
+Bihar,Samstipur,2025-09-07,0,1
+Bihar,Samstipur,2025-09-08,1,9
+Bihar,Samstipur,2025-09-09,0,4
+Bihar,Samstipur,2025-09-10,0,5
+Bihar,Samstipur,2025-09-11,0,6
+Bihar,Samstipur,2025-09-12,0,4
+Bihar,Samstipur,2025-09-13,0,9
+Bihar,Samstipur,2025-09-14,0,3
+Bihar,Samstipur,2025-09-15,0,3
+Bihar,Samstipur,2025-09-16,0,4
+Bihar,Samstipur,2025-09-17,0,2
+Bihar,Samstipur,2025-09-18,0,6
+Bihar,Samstipur,2025-09-19,1,4
+Bihar,Samstipur,2025-09-20,0,5
+Bihar,Samstipur,2025-10-13,0,4
+Bihar,Samstipur,2025-10-15,0,5
+Bihar,Samstipur,2025-10-16,2,9
+Bihar,Samstipur,2025-10-17,0,7
+Bihar,Samstipur,2025-10-18,0,4
+Bihar,Samstipur,2025-10-19,0,10
+Bihar,Samstipur,2025-10-20,0,2
+Bihar,Samstipur,2025-10-21,0,1
+Bihar,Samstipur,2025-10-24,1,8
+Bihar,Samstipur,2025-10-25,0,8
+Bihar,Samstipur,2025-10-26,0,8
+Bihar,Samstipur,2025-10-27,1,2
+Bihar,Samstipur,2025-10-28,0,1
+Bihar,Samstipur,2025-10-30,0,3
+Bihar,Samstipur,2025-10-31,1,11
+Bihar,Samstipur,2025-11-01,0,7
+Bihar,Samstipur,2025-11-02,0,2
+Bihar,Samstipur,2025-11-03,0,17
+Bihar,Samstipur,2025-11-04,0,8
+Bihar,Samstipur,2025-11-05,0,1
+Bihar,Samstipur,2025-11-06,0,1
+Bihar,Samstipur,2025-11-07,0,6
+Bihar,Samstipur,2025-11-08,0,11
+Bihar,Samstipur,2025-11-09,0,3
+Bihar,Samstipur,2025-11-10,0,3
+Bihar,Samstipur,2025-11-11,0,10
+Bihar,Samstipur,2025-11-12,0,13
+Bihar,Samstipur,2025-11-13,0,6
+Bihar,Samstipur,2025-11-14,0,3
+Bihar,Samstipur,2025-11-15,0,12
+Bihar,Samstipur,2025-11-16,0,2
+Bihar,Samstipur,2025-11-17,1,7
+Bihar,Samstipur,2025-11-18,0,6
+Bihar,Samstipur,2025-11-19,0,8
+Bihar,Samstipur,2025-11-25,0,1
+Bihar,Samstipur,2025-11-27,0,4
+Bihar,Samstipur,2025-11-28,0,4
+Bihar,Samstipur,2025-11-29,0,3
+Bihar,Samstipur,2025-12-01,0,10
+Bihar,Samstipur,2025-12-02,0,8
+Bihar,Samstipur,2025-12-03,0,11
+Bihar,Samstipur,2025-12-04,0,2
+Bihar,Samstipur,2025-12-05,0,8
+Bihar,Samstipur,2025-12-06,0,6
+Bihar,Samstipur,2025-12-07,0,6
+Bihar,Samstipur,2025-12-08,0,7
+Bihar,Samstipur,2025-12-09,0,4
+Bihar,Samstipur,2025-12-10,0,7
+Bihar,Samstipur,2025-12-11,0,8
+Bihar,Samstipur,2025-12-12,0,5
+Bihar,Samstipur,2025-12-13,1,8
+Bihar,Samstipur,2025-12-14,0,3
+Bihar,Samstipur,2025-12-15,0,10
+Bihar,Samstipur,2025-12-16,0,11
+Bihar,Samstipur,2025-12-17,0,6
+Bihar,Samstipur,2025-12-18,0,5
+Bihar,Samstipur,2025-12-19,0,6
+Bihar,Samstipur,2025-12-20,0,4
+Bihar,Samstipur,2025-12-21,0,2
+Bihar,Samstipur,2025-12-22,0,7
+Bihar,Samstipur,2025-12-23,0,4
+Bihar,Samstipur,2025-12-24,1,5
+Bihar,Samstipur,2025-12-25,0,3
+Bihar,Samstipur,2025-12-26,0,9
+Bihar,Samstipur,2025-12-27,0,7
+Bihar,Samstipur,2025-12-28,0,7
+Bihar,Samstipur,2025-12-29,0,2
+Bihar,Samstipur,2025-12-31,0,6
+Bihar,Samstipur,2026-01-01,0,2
+Bihar,Samstipur,2026-01-02,0,3
+Bihar,Samstipur,2026-01-03,0,1
+Bihar,Saran,2025-03-01,2646,28128
+Bihar,Saran,2025-09-01,187,1557
+Bihar,Saran,2025-09-02,161,1667
+Bihar,Saran,2025-09-03,137,1078
+Bihar,Saran,2025-09-04,123,1477
+Bihar,Saran,2025-09-05,82,1294
+Bihar,Saran,2025-09-06,155,1956
+Bihar,Saran,2025-09-07,54,825
+Bihar,Saran,2025-09-08,137,1935
+Bihar,Saran,2025-09-09,176,2337
+Bihar,Saran,2025-09-10,155,2342
+Bihar,Saran,2025-09-11,154,1936
+Bihar,Saran,2025-09-12,196,2135
+Bihar,Saran,2025-09-13,112,1316
+Bihar,Saran,2025-09-14,36,535
+Bihar,Saran,2025-09-15,147,1671
+Bihar,Saran,2025-09-16,109,1609
+Bihar,Saran,2025-09-17,97,926
+Bihar,Saran,2025-09-18,126,1771
+Bihar,Saran,2025-09-19,107,1467
+Bihar,Saran,2025-09-20,163,1589
+Bihar,Saran,2025-10-13,71,1232
+Bihar,Saran,2025-10-15,259,2566
+Bihar,Saran,2025-10-16,276,2591
+Bihar,Saran,2025-10-17,146,1708
+Bihar,Saran,2025-10-18,173,1782
+Bihar,Saran,2025-10-19,164,1413
+Bihar,Saran,2025-10-20,55,439
+Bihar,Saran,2025-10-21,79,392
+Bihar,Saran,2025-10-22,10,63
+Bihar,Saran,2025-10-23,16,143
+Bihar,Saran,2025-10-24,239,2314
+Bihar,Saran,2025-10-25,138,1443
+Bihar,Saran,2025-10-26,152,1789
+Bihar,Saran,2025-10-27,77,662
+Bihar,Saran,2025-10-28,56,430
+Bihar,Saran,2025-10-29,116,814
+Bihar,Saran,2025-10-30,84,1030
+Bihar,Saran,2025-10-31,152,1741
+Bihar,Saran,2025-11-01,125,1431
+Bihar,Saran,2025-11-02,106,821
+Bihar,Saran,2025-11-03,171,1897
+Bihar,Saran,2025-11-04,128,1585
+Bihar,Saran,2025-11-05,128,1246
+Bihar,Saran,2025-11-06,106,715
+Bihar,Saran,2025-11-07,75,1255
+Bihar,Saran,2025-11-08,86,1249
+Bihar,Saran,2025-11-09,33,588
+Bihar,Saran,2025-11-10,110,1466
+Bihar,Saran,2025-11-11,94,1545
+Bihar,Saran,2025-11-12,87,1114
+Bihar,Saran,2025-11-13,149,1294
+Bihar,Saran,2025-11-14,113,982
+Bihar,Saran,2025-11-15,124,1388
+Bihar,Saran,2025-11-16,67,565
+Bihar,Saran,2025-11-17,157,1450
+Bihar,Saran,2025-11-18,85,796
+Bihar,Saran,2025-11-19,108,1426
+Bihar,Saran,2025-11-25,32,194
+Bihar,Saran,2025-11-26,36,605
+Bihar,Saran,2025-11-27,136,1582
+Bihar,Saran,2025-11-28,93,1121
+Bihar,Saran,2025-11-29,79,767
+Bihar,Saran,2025-12-01,223,1647
+Bihar,Saran,2025-12-02,108,1229
+Bihar,Saran,2025-12-03,116,1152
+Bihar,Saran,2025-12-04,96,1177
+Bihar,Saran,2025-12-05,76,1098
+Bihar,Saran,2025-12-06,99,1276
+Bihar,Saran,2025-12-07,51,502
+Bihar,Saran,2025-12-08,128,1474
+Bihar,Saran,2025-12-09,102,1497
+Bihar,Saran,2025-12-10,92,1432
+Bihar,Saran,2025-12-11,125,1552
+Bihar,Saran,2025-12-12,131,1320
+Bihar,Saran,2025-12-13,94,1031
+Bihar,Saran,2025-12-14,32,424
+Bihar,Saran,2025-12-15,90,1421
+Bihar,Saran,2025-12-16,121,1592
+Bihar,Saran,2025-12-17,94,1372
+Bihar,Saran,2025-12-18,102,1072
+Bihar,Saran,2025-12-19,54,691
+Bihar,Saran,2025-12-20,83,627
+Bihar,Saran,2025-12-21,17,263
+Bihar,Saran,2025-12-22,96,1039
+Bihar,Saran,2025-12-23,87,933
+Bihar,Saran,2025-12-24,110,1068
+Bihar,Saran,2025-12-25,41,614
+Bihar,Saran,2025-12-26,87,1017
+Bihar,Saran,2025-12-27,59,704
+Bihar,Saran,2025-12-28,65,566
+Bihar,Saran,2025-12-29,80,849
+Bihar,Saran,2025-12-31,61,856
+Bihar,Saran,2026-01-01,34,548
+Bihar,Saran,2026-01-02,104,564
+Bihar,Saran,2026-01-03,18,239
+Bihar,Sheikhpura,2025-03-01,571,5677
+Bihar,Sheikhpura,2025-09-01,3,186
+Bihar,Sheikhpura,2025-09-02,28,516
+Bihar,Sheikhpura,2025-09-03,16,399
+Bihar,Sheikhpura,2025-09-04,16,316
+Bihar,Sheikhpura,2025-09-05,11,288
+Bihar,Sheikhpura,2025-09-06,29,447
+Bihar,Sheikhpura,2025-09-07,8,80
+Bihar,Sheikhpura,2025-09-08,23,466
+Bihar,Sheikhpura,2025-09-09,26,535
+Bihar,Sheikhpura,2025-09-10,29,529
+Bihar,Sheikhpura,2025-09-11,24,455
+Bihar,Sheikhpura,2025-09-12,25,552
+Bihar,Sheikhpura,2025-09-13,22,387
+Bihar,Sheikhpura,2025-09-14,9,101
+Bihar,Sheikhpura,2025-09-15,24,349
+Bihar,Sheikhpura,2025-09-16,20,369
+Bihar,Sheikhpura,2025-09-17,28,337
+Bihar,Sheikhpura,2025-09-18,29,446
+Bihar,Sheikhpura,2025-09-19,32,658
+Bihar,Sheikhpura,2025-09-20,27,864
+Bihar,Sheikhpura,2025-10-13,6,236
+Bihar,Sheikhpura,2025-10-15,54,529
+Bihar,Sheikhpura,2025-10-16,52,736
+Bihar,Sheikhpura,2025-10-17,31,361
+Bihar,Sheikhpura,2025-10-18,30,354
+Bihar,Sheikhpura,2025-10-19,24,271
+Bihar,Sheikhpura,2025-10-20,3,29
+Bihar,Sheikhpura,2025-10-21,7,44
+Bihar,Sheikhpura,2025-10-22,2,11
+Bihar,Sheikhpura,2025-10-23,2,25
+Bihar,Sheikhpura,2025-10-24,28,309
+Bihar,Sheikhpura,2025-10-25,19,230
+Bihar,Sheikhpura,2025-10-26,37,295
+Bihar,Sheikhpura,2025-10-27,7,112
+Bihar,Sheikhpura,2025-10-28,8,69
+Bihar,Sheikhpura,2025-10-29,10,96
+Bihar,Sheikhpura,2025-10-30,18,168
+Bihar,Sheikhpura,2025-10-31,33,348
+Bihar,Sheikhpura,2025-11-01,25,229
+Bihar,Sheikhpura,2025-11-02,13,81
+Bihar,Sheikhpura,2025-11-03,33,324
+Bihar,Sheikhpura,2025-11-04,21,341
+Bihar,Sheikhpura,2025-11-05,8,211
+Bihar,Sheikhpura,2025-11-06,19,90
+Bihar,Sheikhpura,2025-11-07,15,270
+Bihar,Sheikhpura,2025-11-08,16,166
+Bihar,Sheikhpura,2025-11-09,6,60
+Bihar,Sheikhpura,2025-11-10,28,260
+Bihar,Sheikhpura,2025-11-11,20,248
+Bihar,Sheikhpura,2025-11-12,11,202
+Bihar,Sheikhpura,2025-11-13,25,303
+Bihar,Sheikhpura,2025-11-14,23,125
+Bihar,Sheikhpura,2025-11-15,27,248
+Bihar,Sheikhpura,2025-11-16,9,58
+Bihar,Sheikhpura,2025-11-17,16,212
+Bihar,Sheikhpura,2025-11-18,19,224
+Bihar,Sheikhpura,2025-11-19,18,305
+Bihar,Sheikhpura,2025-11-25,3,47
+Bihar,Sheikhpura,2025-11-26,7,99
+Bihar,Sheikhpura,2025-11-27,25,218
+Bihar,Sheikhpura,2025-11-28,22,200
+Bihar,Sheikhpura,2025-11-29,16,132
+Bihar,Sheikhpura,2025-12-01,21,243
+Bihar,Sheikhpura,2025-12-02,22,171
+Bihar,Sheikhpura,2025-12-03,9,148
+Bihar,Sheikhpura,2025-12-04,19,178
+Bihar,Sheikhpura,2025-12-05,21,181
+Bihar,Sheikhpura,2025-12-06,23,179
+Bihar,Sheikhpura,2025-12-07,10,77
+Bihar,Sheikhpura,2025-12-08,20,252
+Bihar,Sheikhpura,2025-12-09,19,227
+Bihar,Sheikhpura,2025-12-10,23,223
+Bihar,Sheikhpura,2025-12-11,20,232
+Bihar,Sheikhpura,2025-12-12,13,221
+Bihar,Sheikhpura,2025-12-13,25,148
+Bihar,Sheikhpura,2025-12-14,15,52
+Bihar,Sheikhpura,2025-12-15,15,158
+Bihar,Sheikhpura,2025-12-16,23,205
+Bihar,Sheikhpura,2025-12-17,18,226
+Bihar,Sheikhpura,2025-12-18,9,121
+Bihar,Sheikhpura,2025-12-19,16,139
+Bihar,Sheikhpura,2025-12-20,7,79
+Bihar,Sheikhpura,2025-12-21,7,42
+Bihar,Sheikhpura,2025-12-22,8,67
+Bihar,Sheikhpura,2025-12-23,19,169
+Bihar,Sheikhpura,2025-12-24,7,107
+Bihar,Sheikhpura,2025-12-25,4,54
+Bihar,Sheikhpura,2025-12-26,14,222
+Bihar,Sheikhpura,2025-12-27,13,116
+Bihar,Sheikhpura,2025-12-28,10,64
+Bihar,Sheikhpura,2025-12-29,8,75
+Bihar,Sheikhpura,2025-12-31,13,161
+Bihar,Sheikhpura,2026-01-01,12,84
+Bihar,Sheikhpura,2026-01-02,20,87
+Bihar,Sheikhpura,2026-01-03,0,25
+Bihar,Sheikpura,2025-09-02,0,4
+Bihar,Sheikpura,2025-09-03,0,2
+Bihar,Sheikpura,2025-09-05,0,1
+Bihar,Sheikpura,2025-09-06,0,3
+Bihar,Sheikpura,2025-09-09,0,5
+Bihar,Sheikpura,2025-09-10,0,4
+Bihar,Sheikpura,2025-09-11,0,6
+Bihar,Sheikpura,2025-09-12,0,5
+Bihar,Sheikpura,2025-09-13,0,2
+Bihar,Sheikpura,2025-09-15,0,3
+Bihar,Sheikpura,2025-09-16,0,6
+Bihar,Sheikpura,2025-09-17,0,1
+Bihar,Sheikpura,2025-09-18,1,5
+Bihar,Sheikpura,2025-09-19,0,5
+Bihar,Sheikpura,2025-09-20,0,6
+Bihar,Sheikpura,2025-10-13,0,4
+Bihar,Sheikpura,2025-10-15,0,5
+Bihar,Sheikpura,2025-10-16,0,2
+Bihar,Sheikpura,2025-10-24,0,7
+Bihar,Sheikpura,2025-10-25,0,1
+Bihar,Sheikpura,2025-10-26,0,1
+Bihar,Sheikpura,2025-10-27,0,2
+Bihar,Sheikpura,2025-10-28,0,1
+Bihar,Sheikpura,2025-10-29,1,0
+Bihar,Sheikpura,2025-10-30,0,2
+Bihar,Sheikpura,2025-10-31,0,3
+Bihar,Sheikpura,2025-11-04,0,3
+Bihar,Sheikpura,2025-11-06,0,4
+Bihar,Sheikpura,2025-11-07,0,1
+Bihar,Sheikpura,2025-11-08,0,2
+Bihar,Sheikpura,2025-11-09,0,2
+Bihar,Sheikpura,2025-11-10,0,3
+Bihar,Sheikpura,2025-11-12,0,1
+Bihar,Sheikpura,2025-11-13,0,5
+Bihar,Sheikpura,2025-11-14,0,1
+Bihar,Sheikpura,2025-11-15,0,6
+Bihar,Sheikpura,2025-11-16,0,2
+Bihar,Sheikpura,2025-11-17,0,5
+Bihar,Sheikpura,2025-11-18,0,1
+Bihar,Sheikpura,2025-11-19,0,3
+Bihar,Sheikpura,2025-11-26,0,2
+Bihar,Sheikpura,2025-11-27,0,2
+Bihar,Sheikpura,2025-11-28,0,3
+Bihar,Sheikpura,2025-11-29,0,2
+Bihar,Sheikpura,2025-12-01,0,2
+Bihar,Sheikpura,2025-12-02,0,5
+Bihar,Sheikpura,2025-12-03,0,2
+Bihar,Sheikpura,2025-12-04,0,3
+Bihar,Sheikpura,2025-12-05,0,4
+Bihar,Sheikpura,2025-12-06,0,1
+Bihar,Sheikpura,2025-12-07,0,4
+Bihar,Sheikpura,2025-12-09,0,2
+Bihar,Sheikpura,2025-12-10,0,3
+Bihar,Sheikpura,2025-12-11,0,2
+Bihar,Sheikpura,2025-12-12,0,2
+Bihar,Sheikpura,2025-12-13,0,1
+Bihar,Sheikpura,2025-12-14,0,2
+Bihar,Sheikpura,2025-12-15,0,3
+Bihar,Sheikpura,2025-12-16,0,1
+Bihar,Sheikpura,2025-12-17,0,1
+Bihar,Sheikpura,2025-12-18,0,3
+Bihar,Sheikpura,2025-12-19,0,2
+Bihar,Sheikpura,2025-12-20,0,1
+Bihar,Sheikpura,2025-12-21,0,1
+Bihar,Sheikpura,2025-12-22,0,1
+Bihar,Sheikpura,2025-12-23,0,1
+Bihar,Sheikpura,2025-12-25,0,1
+Bihar,Sheikpura,2025-12-26,0,2
+Bihar,Sheikpura,2025-12-27,0,1
+Bihar,Sheikpura,2025-12-29,0,4
+Bihar,Sheikpura,2026-01-01,0,2
+Bihar,Sheikpura,2026-01-02,0,1
+Bihar,Sheohar,2025-03-01,481,5047
+Bihar,Sheohar,2025-09-01,37,477
+Bihar,Sheohar,2025-09-02,42,707
+Bihar,Sheohar,2025-09-03,19,315
+Bihar,Sheohar,2025-09-04,15,253
+Bihar,Sheohar,2025-09-05,14,289
+Bihar,Sheohar,2025-09-06,18,332
+Bihar,Sheohar,2025-09-07,7,226
+Bihar,Sheohar,2025-09-08,39,544
+Bihar,Sheohar,2025-09-09,17,560
+Bihar,Sheohar,2025-09-10,26,508
+Bihar,Sheohar,2025-09-11,21,447
+Bihar,Sheohar,2025-09-12,28,431
+Bihar,Sheohar,2025-09-13,15,288
+Bihar,Sheohar,2025-09-14,6,180
+Bihar,Sheohar,2025-09-15,24,444
+Bihar,Sheohar,2025-09-16,17,383
+Bihar,Sheohar,2025-09-17,9,280
+Bihar,Sheohar,2025-09-18,24,458
+Bihar,Sheohar,2025-09-19,22,401
+Bihar,Sheohar,2025-09-20,15,415
+Bihar,Sheohar,2025-10-13,11,222
+Bihar,Sheohar,2025-10-15,40,450
+Bihar,Sheohar,2025-10-16,40,297
+Bihar,Sheohar,2025-10-17,16,250
+Bihar,Sheohar,2025-10-18,43,354
+Bihar,Sheohar,2025-10-19,22,241
+Bihar,Sheohar,2025-10-20,5,65
+Bihar,Sheohar,2025-10-21,14,53
+Bihar,Sheohar,2025-10-22,1,7
+Bihar,Sheohar,2025-10-23,7,27
+Bihar,Sheohar,2025-10-24,43,396
+Bihar,Sheohar,2025-10-25,15,267
+Bihar,Sheohar,2025-10-26,21,334
+Bihar,Sheohar,2025-10-27,6,81
+Bihar,Sheohar,2025-10-28,7,50
+Bihar,Sheohar,2025-10-29,6,88
+Bihar,Sheohar,2025-10-30,8,151
+Bihar,Sheohar,2025-10-31,40,456
+Bihar,Sheohar,2025-11-01,18,286
+Bihar,Sheohar,2025-11-02,14,119
+Bihar,Sheohar,2025-11-03,33,269
+Bihar,Sheohar,2025-11-04,19,162
+Bihar,Sheohar,2025-11-05,33,328
+Bihar,Sheohar,2025-11-06,28,197
+Bihar,Sheohar,2025-11-07,11,226
+Bihar,Sheohar,2025-11-08,13,154
+Bihar,Sheohar,2025-11-09,4,99
+Bihar,Sheohar,2025-11-10,13,158
+Bihar,Sheohar,2025-11-11,2,64
+Bihar,Sheohar,2025-11-12,7,190
+Bihar,Sheohar,2025-11-13,22,211
+Bihar,Sheohar,2025-11-14,22,144
+Bihar,Sheohar,2025-11-15,23,206
+Bihar,Sheohar,2025-11-16,7,54
+Bihar,Sheohar,2025-11-17,17,196
+Bihar,Sheohar,2025-11-18,15,201
+Bihar,Sheohar,2025-11-19,29,451
+Bihar,Sheohar,2025-11-25,3,23
+Bihar,Sheohar,2025-11-26,11,153
+Bihar,Sheohar,2025-11-27,17,289
+Bihar,Sheohar,2025-11-28,24,340
+Bihar,Sheohar,2025-11-29,20,238
+Bihar,Sheohar,2025-12-01,23,299
+Bihar,Sheohar,2025-12-02,12,289
+Bihar,Sheohar,2025-12-03,19,207
+Bihar,Sheohar,2025-12-04,22,257
+Bihar,Sheohar,2025-12-05,13,220
+Bihar,Sheohar,2025-12-06,15,247
+Bihar,Sheohar,2025-12-07,5,82
+Bihar,Sheohar,2025-12-08,21,275
+Bihar,Sheohar,2025-12-09,11,267
+Bihar,Sheohar,2025-12-10,16,250
+Bihar,Sheohar,2025-12-11,20,230
+Bihar,Sheohar,2025-12-12,15,231
+Bihar,Sheohar,2025-12-13,16,194
+Bihar,Sheohar,2025-12-14,5,56
+Bihar,Sheohar,2025-12-15,10,189
+Bihar,Sheohar,2025-12-16,19,257
+Bihar,Sheohar,2025-12-17,17,220
+Bihar,Sheohar,2025-12-18,3,75
+Bihar,Sheohar,2025-12-19,9,157
+Bihar,Sheohar,2025-12-20,6,64
+Bihar,Sheohar,2025-12-21,4,41
+Bihar,Sheohar,2025-12-22,10,175
+Bihar,Sheohar,2025-12-23,18,189
+Bihar,Sheohar,2025-12-24,10,219
+Bihar,Sheohar,2025-12-25,12,141
+Bihar,Sheohar,2025-12-26,16,169
+Bihar,Sheohar,2025-12-27,6,88
+Bihar,Sheohar,2025-12-28,4,22
+Bihar,Sheohar,2025-12-29,14,163
+Bihar,Sheohar,2025-12-31,5,159
+Bihar,Sheohar,2026-01-01,3,95
+Bihar,Sheohar,2026-01-02,15,121
+Bihar,Sheohar,2026-01-03,2,37
+Bihar,Sitamarhi,2025-03-01,1847,21381
+Bihar,Sitamarhi,2025-09-01,143,1175
+Bihar,Sitamarhi,2025-09-02,128,1394
+Bihar,Sitamarhi,2025-09-03,77,833
+Bihar,Sitamarhi,2025-09-04,64,853
+Bihar,Sitamarhi,2025-09-05,55,965
+Bihar,Sitamarhi,2025-09-06,122,1556
+Bihar,Sitamarhi,2025-09-07,37,910
+Bihar,Sitamarhi,2025-09-08,108,2499
+Bihar,Sitamarhi,2025-09-09,143,2945
+Bihar,Sitamarhi,2025-09-10,130,2311
+Bihar,Sitamarhi,2025-09-11,114,2352
+Bihar,Sitamarhi,2025-09-12,149,2381
+Bihar,Sitamarhi,2025-09-13,95,1629
+Bihar,Sitamarhi,2025-09-14,32,638
+Bihar,Sitamarhi,2025-09-15,95,1684
+Bihar,Sitamarhi,2025-09-16,87,1815
+Bihar,Sitamarhi,2025-09-17,59,1238
+Bihar,Sitamarhi,2025-09-18,118,1867
+Bihar,Sitamarhi,2025-09-19,93,1905
+Bihar,Sitamarhi,2025-09-20,111,2388
+Bihar,Sitamarhi,2025-10-13,76,1465
+Bihar,Sitamarhi,2025-10-15,209,2256
+Bihar,Sitamarhi,2025-10-16,217,2830
+Bihar,Sitamarhi,2025-10-17,110,1762
+Bihar,Sitamarhi,2025-10-18,159,1916
+Bihar,Sitamarhi,2025-10-19,164,1507
+Bihar,Sitamarhi,2025-10-20,26,267
+Bihar,Sitamarhi,2025-10-21,30,276
+Bihar,Sitamarhi,2025-10-22,6,34
+Bihar,Sitamarhi,2025-10-23,9,102
+Bihar,Sitamarhi,2025-10-24,150,1938
+Bihar,Sitamarhi,2025-10-25,148,1623
+Bihar,Sitamarhi,2025-10-26,119,1278
+Bihar,Sitamarhi,2025-10-27,66,622
+Bihar,Sitamarhi,2025-10-28,40,275
+Bihar,Sitamarhi,2025-10-29,81,576
+Bihar,Sitamarhi,2025-10-30,90,791
+Bihar,Sitamarhi,2025-10-31,140,1731
+Bihar,Sitamarhi,2025-11-01,148,1930
+Bihar,Sitamarhi,2025-11-02,61,665
+Bihar,Sitamarhi,2025-11-03,157,1765
+Bihar,Sitamarhi,2025-11-04,87,1421
+Bihar,Sitamarhi,2025-11-05,143,1668
+Bihar,Sitamarhi,2025-11-06,137,1521
+Bihar,Sitamarhi,2025-11-07,65,1393
+Bihar,Sitamarhi,2025-11-08,60,1143
+Bihar,Sitamarhi,2025-11-09,25,555
+Bihar,Sitamarhi,2025-11-10,78,1237
+Bihar,Sitamarhi,2025-11-11,14,328
+Bihar,Sitamarhi,2025-11-12,55,1155
+Bihar,Sitamarhi,2025-11-13,123,1468
+Bihar,Sitamarhi,2025-11-14,79,976
+Bihar,Sitamarhi,2025-11-15,93,1196
+Bihar,Sitamarhi,2025-11-16,39,362
+Bihar,Sitamarhi,2025-11-17,113,1759
+Bihar,Sitamarhi,2025-11-18,73,1048
+Bihar,Sitamarhi,2025-11-19,84,1407
+Bihar,Sitamarhi,2025-11-25,17,128
+Bihar,Sitamarhi,2025-11-26,54,796
+Bihar,Sitamarhi,2025-11-27,117,1794
+Bihar,Sitamarhi,2025-11-28,135,1607
+Bihar,Sitamarhi,2025-11-29,58,901
+Bihar,Sitamarhi,2025-12-01,185,2004
+Bihar,Sitamarhi,2025-12-02,94,1134
+Bihar,Sitamarhi,2025-12-03,82,1069
+Bihar,Sitamarhi,2025-12-04,95,1488
+Bihar,Sitamarhi,2025-12-05,89,1062
+Bihar,Sitamarhi,2025-12-06,90,1353
+Bihar,Sitamarhi,2025-12-07,35,464
+Bihar,Sitamarhi,2025-12-08,104,1528
+Bihar,Sitamarhi,2025-12-09,112,1419
+Bihar,Sitamarhi,2025-12-10,121,1484
+Bihar,Sitamarhi,2025-12-11,104,1239
+Bihar,Sitamarhi,2025-12-12,104,1264
+Bihar,Sitamarhi,2025-12-13,55,842
+Bihar,Sitamarhi,2025-12-14,28,328
+Bihar,Sitamarhi,2025-12-15,74,1037
+Bihar,Sitamarhi,2025-12-16,91,1295
+Bihar,Sitamarhi,2025-12-17,64,1178
+Bihar,Sitamarhi,2025-12-18,63,768
+Bihar,Sitamarhi,2025-12-19,46,805
+Bihar,Sitamarhi,2025-12-20,47,486
+Bihar,Sitamarhi,2025-12-21,11,205
+Bihar,Sitamarhi,2025-12-22,69,919
+Bihar,Sitamarhi,2025-12-23,61,930
+Bihar,Sitamarhi,2025-12-24,45,617
+Bihar,Sitamarhi,2025-12-25,29,551
+Bihar,Sitamarhi,2025-12-26,52,1072
+Bihar,Sitamarhi,2025-12-27,33,687
+Bihar,Sitamarhi,2025-12-28,52,591
+Bihar,Sitamarhi,2025-12-29,48,471
+Bihar,Sitamarhi,2025-12-31,47,853
+Bihar,Sitamarhi,2026-01-01,32,579
+Bihar,Sitamarhi,2026-01-02,60,451
+Bihar,Sitamarhi,2026-01-03,17,213
+Bihar,Siwan,2025-03-01,1812,18846
+Bihar,Siwan,2025-09-01,111,873
+Bihar,Siwan,2025-09-02,153,1369
+Bihar,Siwan,2025-09-03,73,912
+Bihar,Siwan,2025-09-04,84,923
+Bihar,Siwan,2025-09-05,57,805
+Bihar,Siwan,2025-09-06,97,1119
+Bihar,Siwan,2025-09-07,37,387
+Bihar,Siwan,2025-09-08,111,1219
+Bihar,Siwan,2025-09-09,110,1273
+Bihar,Siwan,2025-09-10,90,1211
+Bihar,Siwan,2025-09-11,94,1139
+Bihar,Siwan,2025-09-12,86,1202
+Bihar,Siwan,2025-09-13,58,763
+Bihar,Siwan,2025-09-14,28,317
+Bihar,Siwan,2025-09-15,85,979
+Bihar,Siwan,2025-09-16,102,907
+Bihar,Siwan,2025-09-17,67,574
+Bihar,Siwan,2025-09-18,96,1157
+Bihar,Siwan,2025-09-19,78,1033
+Bihar,Siwan,2025-09-20,72,1149
+Bihar,Siwan,2025-10-13,35,1063
+Bihar,Siwan,2025-10-15,183,2374
+Bihar,Siwan,2025-10-16,194,2105
+Bihar,Siwan,2025-10-17,95,1548
+Bihar,Siwan,2025-10-18,142,1502
+Bihar,Siwan,2025-10-19,134,1231
+Bihar,Siwan,2025-10-20,43,332
+Bihar,Siwan,2025-10-21,39,300
+Bihar,Siwan,2025-10-22,9,32
+Bihar,Siwan,2025-10-23,15,95
+Bihar,Siwan,2025-10-24,166,1751
+Bihar,Siwan,2025-10-25,91,1153
+Bihar,Siwan,2025-10-26,97,1527
+Bihar,Siwan,2025-10-27,41,615
+Bihar,Siwan,2025-10-28,54,281
+Bihar,Siwan,2025-10-29,101,674
+Bihar,Siwan,2025-10-30,75,808
+Bihar,Siwan,2025-10-31,80,1347
+Bihar,Siwan,2025-11-01,79,1162
+Bihar,Siwan,2025-11-02,69,623
+Bihar,Siwan,2025-11-03,153,1446
+Bihar,Siwan,2025-11-04,82,1220
+Bihar,Siwan,2025-11-05,105,1229
+Bihar,Siwan,2025-11-06,80,617
+Bihar,Siwan,2025-11-07,55,915
+Bihar,Siwan,2025-11-08,51,815
+Bihar,Siwan,2025-11-09,24,307
+Bihar,Siwan,2025-11-10,105,1113
+Bihar,Siwan,2025-11-11,78,1042
+Bihar,Siwan,2025-11-12,57,822
+Bihar,Siwan,2025-11-13,89,898
+Bihar,Siwan,2025-11-14,78,672
+Bihar,Siwan,2025-11-15,78,955
+Bihar,Siwan,2025-11-16,52,342
+Bihar,Siwan,2025-11-17,120,1244
+Bihar,Siwan,2025-11-18,62,728
+Bihar,Siwan,2025-11-19,107,1263
+Bihar,Siwan,2025-11-25,16,147
+Bihar,Siwan,2025-11-26,36,574
+Bihar,Siwan,2025-11-27,72,1118
+Bihar,Siwan,2025-11-28,65,843
+Bihar,Siwan,2025-11-29,58,673
+Bihar,Siwan,2025-12-01,129,1214
+Bihar,Siwan,2025-12-02,86,962
+Bihar,Siwan,2025-12-03,98,977
+Bihar,Siwan,2025-12-04,83,945
+Bihar,Siwan,2025-12-05,89,928
+Bihar,Siwan,2025-12-06,85,1054
+Bihar,Siwan,2025-12-07,33,359
+Bihar,Siwan,2025-12-08,106,1221
+Bihar,Siwan,2025-12-09,100,1113
+Bihar,Siwan,2025-12-10,104,1081
+Bihar,Siwan,2025-12-11,81,1112
+Bihar,Siwan,2025-12-12,99,1058
+Bihar,Siwan,2025-12-13,59,828
+Bihar,Siwan,2025-12-14,26,293
+Bihar,Siwan,2025-12-15,81,1076
+Bihar,Siwan,2025-12-16,103,1268
+Bihar,Siwan,2025-12-17,82,929
+Bihar,Siwan,2025-12-18,56,816
+Bihar,Siwan,2025-12-19,48,554
+Bihar,Siwan,2025-12-20,59,514
+Bihar,Siwan,2025-12-21,17,248
+Bihar,Siwan,2025-12-22,53,595
+Bihar,Siwan,2025-12-23,55,743
+Bihar,Siwan,2025-12-24,57,766
+Bihar,Siwan,2025-12-25,31,551
+Bihar,Siwan,2025-12-26,63,769
+Bihar,Siwan,2025-12-27,38,480
+Bihar,Siwan,2025-12-28,61,510
+Bihar,Siwan,2025-12-29,75,909
+Bihar,Siwan,2025-12-31,50,831
+Bihar,Siwan,2026-01-01,28,436
+Bihar,Siwan,2026-01-02,84,476
+Bihar,Siwan,2026-01-03,17,225
+Bihar,Supaul,2025-03-01,826,13264
+Bihar,Supaul,2025-09-01,61,962
+Bihar,Supaul,2025-09-02,71,1405
+Bihar,Supaul,2025-09-03,65,950
+Bihar,Supaul,2025-09-04,44,1121
+Bihar,Supaul,2025-09-05,23,868
+Bihar,Supaul,2025-09-06,52,1418
+Bihar,Supaul,2025-09-07,13,561
+Bihar,Supaul,2025-09-08,57,1622
+Bihar,Supaul,2025-09-09,66,1737
+Bihar,Supaul,2025-09-10,58,1603
+Bihar,Supaul,2025-09-11,49,1498
+Bihar,Supaul,2025-09-12,60,1589
+Bihar,Supaul,2025-09-13,45,925
+Bihar,Supaul,2025-09-14,15,412
+Bihar,Supaul,2025-09-15,46,1011
+Bihar,Supaul,2025-09-16,37,720
+Bihar,Supaul,2025-09-17,31,587
+Bihar,Supaul,2025-09-18,38,850
+Bihar,Supaul,2025-09-19,58,1122
+Bihar,Supaul,2025-09-20,44,1056
+Bihar,Supaul,2025-10-13,48,1074
+Bihar,Supaul,2025-10-15,104,2096
+Bihar,Supaul,2025-10-16,114,1925
+Bihar,Supaul,2025-10-17,85,1831
+Bihar,Supaul,2025-10-18,102,1821
+Bihar,Supaul,2025-10-19,102,1479
+Bihar,Supaul,2025-10-20,25,353
+Bihar,Supaul,2025-10-21,35,330
+Bihar,Supaul,2025-10-22,6,27
+Bihar,Supaul,2025-10-23,6,92
+Bihar,Supaul,2025-10-24,113,1613
+Bihar,Supaul,2025-10-25,58,863
+Bihar,Supaul,2025-10-26,64,1162
+Bihar,Supaul,2025-10-27,35,480
+Bihar,Supaul,2025-10-28,31,249
+Bihar,Supaul,2025-10-29,56,517
+Bihar,Supaul,2025-10-30,51,576
+Bihar,Supaul,2025-10-31,72,1136
+Bihar,Supaul,2025-11-01,87,1092
+Bihar,Supaul,2025-11-02,43,658
+Bihar,Supaul,2025-11-03,101,1572
+Bihar,Supaul,2025-11-04,83,1428
+Bihar,Supaul,2025-11-05,87,1317
+Bihar,Supaul,2025-11-06,94,1315
+Bihar,Supaul,2025-11-07,44,955
+Bihar,Supaul,2025-11-08,34,726
+Bihar,Supaul,2025-11-09,13,323
+Bihar,Supaul,2025-11-10,32,570
+Bihar,Supaul,2025-11-11,12,226
+Bihar,Supaul,2025-11-12,21,469
+Bihar,Supaul,2025-11-13,70,769
+Bihar,Supaul,2025-11-14,61,507
+Bihar,Supaul,2025-11-15,43,628
+Bihar,Supaul,2025-11-16,28,191
+Bihar,Supaul,2025-11-17,44,639
+Bihar,Supaul,2025-11-18,21,296
+Bihar,Supaul,2025-11-19,57,694
+Bihar,Supaul,2025-11-25,10,77
+Bihar,Supaul,2025-11-26,24,333
+Bihar,Supaul,2025-11-27,58,813
+Bihar,Supaul,2025-11-28,57,524
+Bihar,Supaul,2025-11-29,24,413
+Bihar,Supaul,2025-12-01,55,835
+Bihar,Supaul,2025-12-02,43,614
+Bihar,Supaul,2025-12-03,27,607
+Bihar,Supaul,2025-12-04,35,681
+Bihar,Supaul,2025-12-05,35,617
+Bihar,Supaul,2025-12-06,32,600
+Bihar,Supaul,2025-12-07,7,209
+Bihar,Supaul,2025-12-08,43,741
+Bihar,Supaul,2025-12-09,47,722
+Bihar,Supaul,2025-12-10,55,702
+Bihar,Supaul,2025-12-11,41,694
+Bihar,Supaul,2025-12-12,46,596
+Bihar,Supaul,2025-12-13,31,498
+Bihar,Supaul,2025-12-14,8,168
+Bihar,Supaul,2025-12-15,17,463
+Bihar,Supaul,2025-12-16,36,665
+Bihar,Supaul,2025-12-17,33,555
+Bihar,Supaul,2025-12-18,31,450
+Bihar,Supaul,2025-12-19,22,317
+Bihar,Supaul,2025-12-20,19,381
+Bihar,Supaul,2025-12-21,23,166
+Bihar,Supaul,2025-12-22,22,328
+Bihar,Supaul,2025-12-23,31,609
+Bihar,Supaul,2025-12-24,35,480
+Bihar,Supaul,2025-12-25,17,328
+Bihar,Supaul,2025-12-26,28,618
+Bihar,Supaul,2025-12-27,16,337
+Bihar,Supaul,2025-12-28,29,212
+Bihar,Supaul,2025-12-29,33,412
+Bihar,Supaul,2025-12-31,23,712
+Bihar,Supaul,2026-01-01,12,270
+Bihar,Supaul,2026-01-02,32,287
+Bihar,Supaul,2026-01-03,14,90
+Bihar,Vaishali,2025-03-01,2296,24389
+Bihar,Vaishali,2025-09-01,174,1708
+Bihar,Vaishali,2025-09-02,143,1706
+Bihar,Vaishali,2025-09-03,127,1686
+Bihar,Vaishali,2025-09-04,80,1338
+Bihar,Vaishali,2025-09-05,63,1503
+Bihar,Vaishali,2025-09-06,155,1876
+Bihar,Vaishali,2025-09-07,53,773
+Bihar,Vaishali,2025-09-08,132,2197
+Bihar,Vaishali,2025-09-09,145,2496
+Bihar,Vaishali,2025-09-10,122,2265
+Bihar,Vaishali,2025-09-11,123,2077
+Bihar,Vaishali,2025-09-12,152,2414
+Bihar,Vaishali,2025-09-13,92,1353
+Bihar,Vaishali,2025-09-14,32,593
+Bihar,Vaishali,2025-09-15,112,1605
+Bihar,Vaishali,2025-09-16,81,1318
+Bihar,Vaishali,2025-09-17,51,670
+Bihar,Vaishali,2025-09-18,118,1551
+Bihar,Vaishali,2025-09-19,112,1547
+Bihar,Vaishali,2025-09-20,123,1883
+Bihar,Vaishali,2025-10-13,52,1002
+Bihar,Vaishali,2025-10-15,169,2331
+Bihar,Vaishali,2025-10-16,163,2093
+Bihar,Vaishali,2025-10-17,108,1627
+Bihar,Vaishali,2025-10-18,117,1426
+Bihar,Vaishali,2025-10-19,168,1383
+Bihar,Vaishali,2025-10-20,45,310
+Bihar,Vaishali,2025-10-21,43,270
+Bihar,Vaishali,2025-10-22,10,26
+Bihar,Vaishali,2025-10-23,9,91
+Bihar,Vaishali,2025-10-24,185,2045
+Bihar,Vaishali,2025-10-25,113,1321
+Bihar,Vaishali,2025-10-26,107,1357
+Bihar,Vaishali,2025-10-27,64,557
+Bihar,Vaishali,2025-10-28,55,312
+Bihar,Vaishali,2025-10-29,90,534
+Bihar,Vaishali,2025-10-30,63,683
+Bihar,Vaishali,2025-10-31,147,1962
+Bihar,Vaishali,2025-11-01,103,1361
+Bihar,Vaishali,2025-11-02,72,723
+Bihar,Vaishali,2025-11-03,151,1587
+Bihar,Vaishali,2025-11-04,87,1266
+Bihar,Vaishali,2025-11-05,74,824
+Bihar,Vaishali,2025-11-06,93,631
+Bihar,Vaishali,2025-11-07,74,1205
+Bihar,Vaishali,2025-11-08,50,920
+Bihar,Vaishali,2025-11-09,18,458
+Bihar,Vaishali,2025-11-10,77,1112
+Bihar,Vaishali,2025-11-11,88,1189
+Bihar,Vaishali,2025-11-12,53,986
+Bihar,Vaishali,2025-11-13,124,1194
+Bihar,Vaishali,2025-11-14,88,835
+Bihar,Vaishali,2025-11-15,94,1005
+Bihar,Vaishali,2025-11-16,66,453
+Bihar,Vaishali,2025-11-17,83,1127
+Bihar,Vaishali,2025-11-18,51,685
+Bihar,Vaishali,2025-11-19,148,1568
+Bihar,Vaishali,2025-11-25,11,144
+Bihar,Vaishali,2025-11-26,38,472
+Bihar,Vaishali,2025-11-27,105,1392
+Bihar,Vaishali,2025-11-28,84,1049
+Bihar,Vaishali,2025-11-29,64,808
+Bihar,Vaishali,2025-12-01,154,1696
+Bihar,Vaishali,2025-12-02,84,1138
+Bihar,Vaishali,2025-12-03,87,1085
+Bihar,Vaishali,2025-12-04,68,1152
+Bihar,Vaishali,2025-12-05,73,1057
+Bihar,Vaishali,2025-12-06,99,1292
+Bihar,Vaishali,2025-12-07,29,433
+Bihar,Vaishali,2025-12-08,106,1225
+Bihar,Vaishali,2025-12-09,108,1410
+Bihar,Vaishali,2025-12-10,86,1205
+Bihar,Vaishali,2025-12-11,87,1401
+Bihar,Vaishali,2025-12-12,75,1331
+Bihar,Vaishali,2025-12-13,62,848
+Bihar,Vaishali,2025-12-14,31,425
+Bihar,Vaishali,2025-12-15,50,1088
+Bihar,Vaishali,2025-12-16,94,1466
+Bihar,Vaishali,2025-12-17,82,1280
+Bihar,Vaishali,2025-12-18,70,1023
+Bihar,Vaishali,2025-12-19,46,615
+Bihar,Vaishali,2025-12-20,46,528
+Bihar,Vaishali,2025-12-21,25,204
+Bihar,Vaishali,2025-12-22,51,769
+Bihar,Vaishali,2025-12-23,54,798
+Bihar,Vaishali,2025-12-24,94,1019
+Bihar,Vaishali,2025-12-25,32,572
+Bihar,Vaishali,2025-12-26,53,899
+Bihar,Vaishali,2025-12-27,29,585
+Bihar,Vaishali,2025-12-28,55,384
+Bihar,Vaishali,2025-12-29,93,965
+Bihar,Vaishali,2025-12-31,41,947
+Bihar,Vaishali,2026-01-01,35,519
+Bihar,Vaishali,2026-01-02,59,440
+Bihar,Vaishali,2026-01-03,7,216
+Bihar,West Champaran,2025-03-01,3147,30222
+Bihar,West Champaran,2025-04-01,789,4522
+Bihar,West Champaran,2025-09-01,168,1336
+Bihar,West Champaran,2025-09-02,199,2029
+Bihar,West Champaran,2025-09-03,143,1577
+Bihar,West Champaran,2025-09-04,115,1359
+Bihar,West Champaran,2025-09-05,94,1666
+Bihar,West Champaran,2025-09-06,169,3235
+Bihar,West Champaran,2025-09-07,37,1278
+Bihar,West Champaran,2025-09-08,183,3744
+Bihar,West Champaran,2025-09-09,190,3943
+Bihar,West Champaran,2025-09-10,192,3772
+Bihar,West Champaran,2025-09-11,153,3081
+Bihar,West Champaran,2025-09-12,192,3546
+Bihar,West Champaran,2025-09-13,111,1948
+Bihar,West Champaran,2025-09-14,37,981
+Bihar,West Champaran,2025-09-15,177,3024
+Bihar,West Champaran,2025-09-16,133,2664
+Bihar,West Champaran,2025-09-17,93,1797
+Bihar,West Champaran,2025-09-18,176,3227
+Bihar,West Champaran,2025-09-19,121,2763
+Bihar,West Champaran,2025-09-20,177,4587
+Bihar,West Champaran,2025-10-13,118,3685
+Bihar,West Champaran,2025-10-15,270,4659
+Bihar,West Champaran,2025-10-16,243,3937
+Bihar,West Champaran,2025-10-17,208,3922
+Bihar,West Champaran,2025-10-18,179,2989
+Bihar,West Champaran,2025-10-19,158,2166
+Bihar,West Champaran,2025-10-20,67,843
+Bihar,West Champaran,2025-10-21,53,524
+Bihar,West Champaran,2025-10-22,14,60
+Bihar,West Champaran,2025-10-23,21,146
+Bihar,West Champaran,2025-10-24,231,3339
+Bihar,West Champaran,2025-10-25,145,2215
+Bihar,West Champaran,2025-10-26,152,3020
+Bihar,West Champaran,2025-10-27,84,1013
+Bihar,West Champaran,2025-10-28,51,377
+Bihar,West Champaran,2025-10-29,90,976
+Bihar,West Champaran,2025-10-30,99,1270
+Bihar,West Champaran,2025-10-31,173,2286
+Bihar,West Champaran,2025-11-01,158,2342
+Bihar,West Champaran,2025-11-02,103,1435
+Bihar,West Champaran,2025-11-03,206,3031
+Bihar,West Champaran,2025-11-04,143,2950
+Bihar,West Champaran,2025-11-05,191,2954
+Bihar,West Champaran,2025-11-06,171,2589
+Bihar,West Champaran,2025-11-07,107,2308
+Bihar,West Champaran,2025-11-08,88,2263
+Bihar,West Champaran,2025-11-09,46,938
+Bihar,West Champaran,2025-11-10,88,1753
+Bihar,West Champaran,2025-11-11,20,439
+Bihar,West Champaran,2025-11-12,102,1526
+Bihar,West Champaran,2025-11-13,174,1877
+Bihar,West Champaran,2025-11-14,126,1515
+Bihar,West Champaran,2025-11-15,191,1885
+Bihar,West Champaran,2025-11-16,50,522
+Bihar,West Champaran,2025-11-17,145,1970
+Bihar,West Champaran,2025-11-18,84,1153
+Bihar,West Champaran,2025-11-19,107,1719
+Bihar,West Champaran,2025-11-25,22,190
+Bihar,West Champaran,2025-11-26,54,998
+Bihar,West Champaran,2025-11-27,130,2025
+Bihar,West Champaran,2025-11-28,119,1399
+Bihar,West Champaran,2025-11-29,134,1307
+Bihar,West Champaran,2025-12-01,204,2386
+Bihar,West Champaran,2025-12-02,152,1880
+Bihar,West Champaran,2025-12-03,105,1527
+Bihar,West Champaran,2025-12-04,119,1635
+Bihar,West Champaran,2025-12-05,84,1185
+Bihar,West Champaran,2025-12-06,102,1614
+Bihar,West Champaran,2025-12-07,42,529
+Bihar,West Champaran,2025-12-08,134,1743
+Bihar,West Champaran,2025-12-09,122,1696
+Bihar,West Champaran,2025-12-10,114,1568
+Bihar,West Champaran,2025-12-11,105,1676
+Bihar,West Champaran,2025-12-12,133,1577
+Bihar,West Champaran,2025-12-13,63,924
+Bihar,West Champaran,2025-12-14,29,335
+Bihar,West Champaran,2025-12-15,122,1444
+Bihar,West Champaran,2025-12-16,89,1772
+Bihar,West Champaran,2025-12-17,93,1519
+Bihar,West Champaran,2025-12-18,105,1365
+Bihar,West Champaran,2025-12-19,56,821
+Bihar,West Champaran,2025-12-20,49,550
+Bihar,West Champaran,2025-12-21,22,250
+Bihar,West Champaran,2025-12-22,79,883
+Bihar,West Champaran,2025-12-23,135,1221
+Bihar,West Champaran,2025-12-24,85,1016
+Bihar,West Champaran,2025-12-25,44,740
+Bihar,West Champaran,2025-12-26,88,986
+Bihar,West Champaran,2025-12-27,49,736
+Bihar,West Champaran,2025-12-28,97,533
+Bihar,West Champaran,2025-12-29,115,1160
+Bihar,West Champaran,2025-12-31,58,889
+Bihar,West Champaran,2026-01-01,61,645
+Bihar,West Champaran,2026-01-02,103,619
+Bihar,West Champaran,2026-01-03,16,299
